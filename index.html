@@ -72,7 +72,7 @@ a{color:var(--accent)}
 nav{position:fixed;left:0;right:0;bottom:0;display:flex;background:rgba(11,26,51,.96);
   backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);border-top:1px solid var(--line);
   padding-bottom:env(safe-area-inset-bottom)}
-nav button{flex:1;background:none;border:0;color:var(--muted);padding:8px 0 10px;font-size:11px}
+nav button{flex:1;background:none;border:0;color:var(--muted);padding:8px 0 10px;font-size:10.5px;min-width:0}
 nav button .i{display:block;font-size:20px;margin-bottom:2px}
 nav button.on{color:var(--text)}
 .city{display:grid;grid-template-columns:1fr auto auto;align-items:center;gap:10px;padding:11px 0;border-top:1px solid var(--line)}
@@ -101,6 +101,12 @@ table.mx tr.nws td:first-child{color:var(--accent)}
 details summary{cursor:pointer;color:var(--accent);font-size:14px;padding:4px 0}
 pre.afd{white-space:pre-wrap;font:12px/1.45 ui-monospace,Menlo,monospace;color:var(--text);margin:8px 0 0}
 .focusbar{display:flex;justify-content:space-between;align-items:center;font-size:13px;color:var(--muted);margin:6px 2px 0}
+.news{padding:12px 0;border-top:1px solid var(--line)}
+.news:first-child{border-top:0}
+.news a{color:var(--text);text-decoration:none;display:block}
+.news .t{font-weight:600;font-size:15px;line-height:1.3}
+.news .s{color:var(--muted);font-size:14px;margin-top:4px;line-height:1.4}
+.news .m{font-size:12px;color:var(--accent);margin-top:6px}
 .foot{color:var(--muted);font-size:11px;text-align:center;margin:18px 0 8px}
 .spin{display:inline-block;animation:sp 1s linear infinite}@keyframes sp{to{transform:rotate(360deg)}}
 </style>
@@ -175,6 +181,13 @@ pre.afd{white-space:pre-wrap;font:12px/1.45 ui-monospace,Menlo,monospace;color:v
     </div>
   </section>
 
+  <!-- NEWS -->
+  <section class="view" id="v-news">
+    <div class="seg" id="news-seg"></div>
+    <div id="news-body"><div class="card"><div class="empty">Loading news…</div></div></div>
+    <div class="sub" style="padding:6px 4px">Short neutral summaries; tap a story to read the original.</div>
+  </section>
+
   <div class="foot" id="updated"></div>
 </main>
 
@@ -184,6 +197,7 @@ pre.afd{white-space:pre-wrap;font:12px/1.45 ui-monospace,Menlo,monospace;color:v
   <button data-v="ports"><span class="i">⚓</span>Ports</button>
   <button data-v="map"><span class="i">🌬️</span>Windy</button>
   <button data-v="storms"><span class="i">🌀</span>Storms</button>
+  <button data-v="news"><span class="i">📰</span>News</button>
 </nav>
 
 <script>
@@ -251,6 +265,7 @@ pre.afd{white-space:pre-wrap;font:12px/1.45 ui-monospace,Menlo,monospace;color:v
     if (v==="ports" && !loaded.ports) loadPorts();
     if (v==="map") loadMap();
     if (v==="storms" && !loaded.storms) loadStorms();
+    if (v==="news" && !loaded.news) loadNews();
     window.scrollTo(0,0);
   }
   const loaded = {};
@@ -702,6 +717,30 @@ pre.afd{white-space:pre-wrap;font:12px/1.45 ui-monospace,Menlo,monospace;color:v
     stamp();
   }
 
+  // ---------- NEWS ----------
+  let newsSec = store.get("newsSec") || "All";
+  let newsData = null;
+  async function loadNews(){
+    loaded.news = true;
+    try { newsData = await getJSON("news.json?" + Date.now()); }
+    catch(e){ $("news-body").innerHTML = `<div class="card"><div class="empty">Couldn't load news. Tap Refresh.</div></div>`; return; }
+    renderNews();
+  }
+  function renderNews(){
+    const secs = newsData.sections || [];
+    const names = ["All", ...secs.map(x => x.name)];
+    if (!names.includes(newsSec)) newsSec = "All";
+    $("news-seg").innerHTML = names.map(n => `<button class="${n===newsSec?'on':''}" data-n="${esc(n)}">${esc(n)}</button>`).join("");
+    $("news-seg").querySelectorAll("button").forEach(b => b.onclick = () => { newsSec = b.dataset.n; store.set("newsSec", newsSec); renderNews(); });
+    const fmt = d => { try { return new Date(d+"T12:00").toLocaleDateString("en-US",{month:"short",day:"numeric"}); } catch(e){ return d; } };
+    const upd = newsData.updated ? `<div class="sub" style="padding:0 4px">Updated ${esc(new Date(newsData.updated).toLocaleString("en-US",{weekday:"short",month:"short",day:"numeric",hour:"numeric",minute:"2-digit"}))}</div>` : "";
+    $("news-body").innerHTML = upd + secs.filter(x => newsSec==="All" || x.name===newsSec).map(x => `
+      <div class="h2">${esc(x.name)}</div>
+      <div class="card">${(x.items||[]).map(it => `<div class="news"><a href="${esc(it.url)}" target="_blank" rel="noopener">
+        <div class="t">${esc(it.title)}</div><div class="s">${esc(it.summary)}</div>
+        <div class="m">${esc(it.source)} · ${esc(fmt(it.date))} ↗</div></a></div>`).join("") || '<div class="empty">No items.</div>'}</div>`).join("");
+  }
+
   // ---------- misc ----------
   const tab0 = () => document.querySelector("nav button.on").dataset.v;
   function stamp(){ $("updated").textContent = "Updated " + new Date().toLocaleTimeString("en-US",{hour:"numeric",minute:"2-digit"}) + " · Data: ECMWF, NOAA GFS, DWD ICON, CMC, UKMO, Météo-France, JMA via Open-Meteo · NWS · NHC · Windy"; }
@@ -709,7 +748,8 @@ pre.afd{white-space:pre-wrap;font:12px/1.45 ui-monospace,Menlo,monospace;color:v
     $("refresh").innerHTML = '<span class="spin">↻</span>';
     await locate();
     await loadHere();
-    loaded.ports = loaded.storms = loaded.cities = false;
+    loaded.ports = loaded.storms = loaded.cities = loaded.news = false;
+    if (tab0()==="news") await loadNews();
     if (tab0()==="cities") await loadCities();
     const tab = tab0();
     if (tab==="ports") await loadPorts();

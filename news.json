@@ -1,0 +1,146 @@
+{
+  "updated": "2026-11-15T16:45:00-06:00",
+  "sections": [
+    {
+      "name": "Tankers & Chemicals",
+      "items": [
+        {
+          "title": "Odfjell Q3 profit eases to $40m; expects softer Q4",
+          "summary": "Net profit fell from $54m in Q2 as average TCE slipped to about $27,900/day from $29,500. More revenue days and cargo volumes partly offset lower rates. Management guides Q4 somewhat below Q3 and says normal trading patterns remain disrupted.",
+          "source": "Baird Maritime",
+          "date": "2026-11-04",
+          "url": "https://www.bairdmaritime.com/shipping/tankers/odfjell-third-quarter-profit-falls"
+        },
+        {
+          "title": "Clean tankers: East of Suez holding up better than the West",
+          "summary": "Kpler puts MEG–Japan LR2 at about $25/bbl, up $5.36 on the month. West of Suez clean MR employment is down 12% from its August peak, while Chinese fuel export quotas and Korean diesel exports support East of Suez MRs.",
+          "source": "Kpler",
+          "date": "2026-11-06",
+          "url": "https://www.kpler.com/blog/geopolitics-keeps-freight-afloat"
+        },
+        {
+          "title": "Jones Act waiver extended 90 days",
+          "summary": "The waiver now covers gasoline, jet fuel, crude, naphtha, LNG, soy oil and fertilizers, with MARAD first checking for available US-flag tonnage on each voyage. Oil and chemical shippers back it; shipbuilders and allies in Congress oppose it.",
+          "source": "gCaptain",
+          "date": "2026-11-14",
+          "url": "https://gcaptain.com/trump-to-extend-shipping-waiver-for-oil-fertilizer-for-90-days/"
+        },
+        {
+          "title": "Pyxis sells older MR tanker for $37m",
+          "summary": "Pyxis Tankers has agreed to sell one of its older MR product tankers for $37 million.",
+          "source": "Splash247",
+          "date": "2026-11-13",
+          "url": "https://splash247.com/pyxis-cashes-in-on-ageing-mr-tanker-in-37m-deal/"
+        },
+        {
+          "title": "Baltic Exchange v Mercuria: verdict awaited in tanker index case",
+          "summary": "A court ruling is pending in the dispute between the Baltic Exchange and Mercuria over a tanker freight index.",
+          "source": "Splash247",
+          "date": "2026-11-13",
+          "url": "https://splash247.com/baltic-exchange-and-mercuria-await-verdict-in-landmark-tanker-index-trial/"
+        },
+        {
+          "title": "UK sanctions 11 more ships in Russia measures",
+          "summary": "The latest UK designations include oil tankers and LNG carriers.",
+          "source": "Splash247",
+          "date": "2026-11-13",
+          "url": "https://splash247.com/uk-blacklists-11-ships-in-fresh-russia-sanctions-sweep/"
+        }
+      ]
+    },
+    {
+      "name": "Shipping, Ports & Security",
+      "items": [
+        {
+          "title": "Hormuz: traffic still about 65% below pre-conflict levels",
+          "summary": "UKMTO counted 139 outbound and 169 inbound transits last week and eight security incidents, seven involving tankers. Gulf oil exports (ex-Oman) recovered to 18.4 mb/d in October, still 26% below pre-war levels.",
+          "source": "gCaptain",
+          "date": "2026-11-13",
+          "url": "https://gcaptain.com/gulf-oil-exports-recover-as-hormuz-shipping-struggles/"
+        },
+        {
+          "title": "Tanker reported on fire after mine strike in eastern Hormuz",
+          "summary": "Iran's navy said an oil tanker hit a mine on Saturday morning; the report had not been independently verified and no casualties were reported.",
+          "source": "gCaptain",
+          "date": "2026-11-14",
+          "url": "https://gcaptain.com/oil-tanker-on-fire-after-hitting-mine-in-hormuz/"
+        },
+        {
+          "title": "Black Sea: three ships hit by drones off Romania's Sulina canal",
+          "summary": "Those hit included the Greek-flag oil/chemical tanker Evia Petrol V, the bulker Marsol and the products tanker Ali Najafov, inside Romanian waters. Crews put out the fires and no one was hurt.",
+          "source": "gCaptain",
+          "date": "2026-11-15",
+          "url": "https://gcaptain.com/three-ships-struck-by-drones-in-black-sea-near-romanian-shipping-canal/"
+        },
+        {
+          "title": "New Orleans: asphalt tanker collides with docked river cruise ship",
+          "summary": "The Atlantic Asphalt struck the American Heritage below the Crescent City Connection bridge, and the cruise ship capsized at the dock. Everyone was accounted for. The Coast Guard closed miles 93–96 of the Lower Mississippi during the rescue, and a US court has since ordered the tanker arrested.",
+          "source": "gCaptain",
+          "date": "2026-11-13",
+          "url": "https://gcaptain.com/miracle-on-the-mississippi-all-accounted-for-after-tanker-capsizes-cruise-ship-in-new-orleans/"
+        },
+        {
+          "title": "Bulk carrier strikes Delaware River bridge",
+          "summary": "A Singapore-flagged bulk carrier struck a bridge on the Delaware River; the Coast Guard is investigating.",
+          "source": "gCaptain",
+          "date": "2026-11-13",
+          "url": "https://gcaptain.com/singapore-flagged-bulk-carrier-strikes-delaware-river-bridge-coast-guard-investigating/"
+        },
+        {
+          "title": "Container lines post big profits as some Red Sea services return",
+          "summary": "CMA CGM's quarterly net profit more than tripled to $2.32bn on higher freight rates. Hapag-Lloyd also reported a jump in profit and has resumed some Red Sea services.",
+          "source": "gCaptain",
+          "date": "2026-11-13",
+          "url": "https://gcaptain.com/cma-cgm-net-profit-more-than-triples-to-2-32-billion-as-freight-rates-surge/"
+        },
+        {
+          "title": "Durban container delays near 20 days",
+          "summary": "Congestion at South Africa's main container port keeps worsening, and the auto industry is warning of knock-on effects.",
+          "source": "Splash247",
+          "date": "2026-11-15",
+          "url": "https://splash247.com/durban-container-delays-approach-20-days/"
+        }
+      ]
+    },
+    {
+      "name": "World",
+      "items": [
+        {
+          "title": "Microsoft says services fully restored after global outage",
+          "summary": "The hours-long disruption hit governments, banks, airlines and hospitals. Microsoft traced it to an earlier network capacity upgrade and said it was not a cyberattack.",
+          "source": "PBS NewsHour",
+          "date": "2026-11-15",
+          "url": "https://www.pbs.org/newshour/world/microsoft-says-services-fully-restored-after-global-outage"
+        },
+        {
+          "title": "Gulf states pursue talks with Iran as US weighs next steps",
+          "summary": "Gulf allies are talking with Tehran about regional security while Washington focuses on economic pressure. US policy direction after the elections remains unclear.",
+          "source": "PBS NewsHour",
+          "date": "2026-11-14",
+          "url": "https://www.pbs.org/newshour/world/with-shifting-iran-rhetoric-following-u-s-elections-trump-leaves-middle-east-in-limbo-about-path-ahead"
+        },
+        {
+          "title": "Europe seeks a seat at Ukraine talks",
+          "summary": "EU officials and five 'Coalition of the Willing' countries will send diplomats to the talks. Zelenskyy cautioned that a US-floated European security framework could benefit Russia.",
+          "source": "PBS NewsHour",
+          "date": "2026-11-14",
+          "url": "https://www.pbs.org/newshour/world/zelenskyy-says-a-new-european-security-framework-floated-by-u-s-could-benefit-putin"
+        },
+        {
+          "title": "Asia-Pacific airlines warn high fares may persist",
+          "summary": "The head of the Asia Pacific airlines association says elevated jet fuel costs could keep airfares high.",
+          "source": "PBS NewsHour",
+          "date": "2026-11-13",
+          "url": "https://www.pbs.org/newshour/world/high-airfares-may-become-new-norm-as-jet-fuel-costs-soar-says-asia-pacific-airline-industry-chief"
+        },
+        {
+          "title": "UN chief calls for immediate, deep emissions cuts",
+          "summary": "António Guterres also linked climate change to rising geopolitical instability.",
+          "source": "PBS NewsHour",
+          "date": "2026-11-13",
+          "url": "https://www.pbs.org/newshour/world/un-chief-says-immediate-and-drastic-emissions-cuts-needed-to-avert-climate-change-catastrophe"
+        }
+      ]
+    }
+  ]
+}
