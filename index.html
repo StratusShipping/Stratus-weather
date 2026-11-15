@@ -736,9 +736,9 @@ pre.afd{white-space:pre-wrap;font:12px/1.45 ui-monospace,Menlo,monospace;color:v
     const upd = newsData.updated ? `<div class="sub" style="padding:0 4px">Updated ${esc(new Date(newsData.updated).toLocaleString("en-US",{weekday:"short",month:"short",day:"numeric",hour:"numeric",minute:"2-digit"}))}</div>` : "";
     $("news-body").innerHTML = upd + secs.filter(x => newsSec==="All" || x.name===newsSec).map(x => `
       <div class="h2">${esc(x.name)}</div>
-      <div class="card">${(x.items||[]).map(it => `<div class="news"><a href="${esc(it.url)}" target="_blank" rel="noopener">
+      <div class="card">${(x.items||[]).map(it => `<div class="news"><a ${it.url ? `href="${esc(it.url)}" target="_blank" rel="noopener"` : ''}>
         <div class="t">${esc(it.title)}</div><div class="s">${esc(it.summary)}</div>
-        <div class="m">${esc(it.source)} · ${esc(fmt(it.date))} ↗</div></a></div>`).join("") || '<div class="empty">No items.</div>'}</div>`).join("");
+        <div class="m">${esc(it.source)} · ${esc(fmt(it.date))}${it.url ? " ↗" : ""}</div></a></div>`).join("") || '<div class="empty">No items.</div>'}</div>`).join("");
   }
 
   // ---------- misc ----------

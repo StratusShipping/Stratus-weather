@@ -141,6 +141,39 @@
           "url": "https://www.pbs.org/newshour/world/un-chief-says-immediate-and-drastic-emissions-cuts-needed-to-avert-climate-change-catastrophe"
         }
       ]
+    },
+    {
+      "name": "Sports",
+      "items": [
+        {
+          "title": "Texans fall 27–24 at Cleveland",
+          "summary": "Houston dropped to 3–6, third in the AFC South behind Jacksonville (7–2). Next up: Colts at home on Thursday Night Football, Nov 19 at 7:15 PM.",
+          "source": "Sportradar",
+          "date": "2026-11-15",
+          "url": ""
+        },
+        {
+          "title": "Broncos 7–2 on their bye week",
+          "summary": "Denver has won six of its last seven, most recently 26–21 at Carolina on Nov 8, and sits second in the AFC West behind Kansas City (7–2). Next: Raiders at home, Sun Nov 22 at 3:25 PM.",
+          "source": "Sportradar",
+          "date": "2026-11-15",
+          "url": ""
+        },
+        {
+          "title": "ATP Finals: Shelton beats Fils in three sets",
+          "summary": "Ben Shelton won 6–2, 3–6, 6–3.",
+          "source": "Sportradar",
+          "date": "2026-11-15",
+          "url": ""
+        },
+        {
+          "title": "WTA Finals: Andreeva beats Svitolina",
+          "summary": "Mirra Andreeva won in straight sets, 7–5, 6–3.",
+          "source": "Sportradar",
+          "date": "2026-11-15",
+          "url": ""
+        }
+      ]
     }
   ]
 }
