@@ -1,16 +1,9 @@
 {
-  "updated": "2026-11-15T16:45:00-06:00",
+  "updated": "2026-11-16T05:55:19-06:00",
   "sections": [
     {
       "name": "Tankers & Chemicals",
       "items": [
-        {
-          "title": "Odfjell Q3 profit eases to $40m; expects softer Q4",
-          "summary": "Net profit fell from $54m in Q2 as average TCE slipped to about $27,900/day from $29,500. More revenue days and cargo volumes partly offset lower rates. Management guides Q4 somewhat below Q3 and says normal trading patterns remain disrupted.",
-          "source": "Baird Maritime",
-          "date": "2026-11-04",
-          "url": "https://www.bairdmaritime.com/shipping/tankers/odfjell-third-quarter-profit-falls"
-        },
         {
           "title": "Clean tankers: East of Suez holding up better than the West",
           "summary": "Kpler puts MEG–Japan LR2 at about $25/bbl, up $5.36 on the month. West of Suez clean MR employment is down 12% from its August peak, while Chinese fuel export quotas and Korean diesel exports support East of Suez MRs.",
@@ -45,6 +38,13 @@
           "source": "Splash247",
           "date": "2026-11-13",
           "url": "https://splash247.com/uk-blacklists-11-ships-in-fresh-russia-sanctions-sweep/"
+        },
+        {
+          "title": "October S&P and charter snapshot: MR values near $36m, LR1 1-year TC at $59k/day",
+          "summary": "Energy Transit Intelligence's monthly report puts 5-year-old MRs at about $36m (up roughly 4.3% m/m), LR1s near $50m and LR2s near $58m, with MR newbuilds around $52.5m. It cites one-year LR1 time charters at $59,000/day, which it describes as a historic high. Figures are October data published in a delayed report.",
+          "source": "Energy Transit Intelligence",
+          "date": "2026-11-13",
+          "url": "https://etint.substack.com/p/eti-snptmo-november-2026"
         }
       ]
     },
@@ -73,11 +73,11 @@
           "url": "https://gcaptain.com/three-ships-struck-by-drones-in-black-sea-near-romanian-shipping-canal/"
         },
         {
-          "title": "New Orleans: asphalt tanker collides with docked river cruise ship",
-          "summary": "The Atlantic Asphalt struck the American Heritage below the Crescent City Connection bridge, and the cruise ship capsized at the dock. Everyone was accounted for. The Coast Guard closed miles 93–96 of the Lower Mississippi during the rescue, and a US court has since ordered the tanker arrested.",
-          "source": "gCaptain",
-          "date": "2026-11-13",
-          "url": "https://gcaptain.com/miracle-on-the-mississippi-all-accounted-for-after-tanker-capsizes-cruise-ship-in-new-orleans/"
+          "title": "New Orleans collision: court orders arrest of tanker Atlantic Asphalt",
+          "summary": "A US federal court authorised the arrest of the 17,764 dwt bitumen tanker after it struck and partly sank American Cruise Lines' American Heritage on the Mississippi at New Orleans. The Port of New Orleans is seeking more than $1m in damages; 32 people were taken to hospital after the collision.",
+          "source": "Splash247",
+          "date": "2026-11-15",
+          "url": "https://splash247.com/us-court-orders-arrest-of-tanker-after-new-orleans-cruise-ship-collision/"
         },
         {
           "title": "Bulk carrier strikes Delaware River bridge",
@@ -113,15 +113,15 @@
           "url": "https://www.pbs.org/newshour/world/microsoft-says-services-fully-restored-after-global-outage"
         },
         {
-          "title": "Gulf states pursue talks with Iran as US weighs next steps",
-          "summary": "Gulf allies are talking with Tehran about regional security while Washington focuses on economic pressure. US policy direction after the elections remains unclear.",
+          "title": "Iran: US signals no new strikes or talks; Hormuz still contested",
+          "summary": "President Trump said the US 'no longer needs' a deal with Tehran, while Qatar keeps mediating an interim arrangement to restore Hormuz traffic and a US naval blockade continues to limit Iranian crude exports. The UN said October had the most incidents against merchant ships in the strait since February. Trump heads to APEC in Shenzhen next week, where a three-way meeting with Xi and Putin is expected.",
           "source": "PBS NewsHour",
           "date": "2026-11-14",
           "url": "https://www.pbs.org/newshour/world/with-shifting-iran-rhetoric-following-u-s-elections-trump-leaves-middle-east-in-limbo-about-path-ahead"
         },
         {
-          "title": "Europe seeks a seat at Ukraine talks",
-          "summary": "EU officials and five 'Coalition of the Willing' countries will send diplomats to the talks. Zelenskyy cautioned that a US-floated European security framework could benefit Russia.",
+          "title": "Ukraine: Kyiv rejects land-for-NATO idea; large POW swap agreed",
+          "summary": "Zelenskyy said the US asked whether Ukraine would leave parts of Donbas in return for NATO membership and that Kyiv will not give up territory. He said talks with US negotiators produced agreement on swapping more than 1,000 prisoners per side (an estimated 1,200–1,300). Ukrainian strikes set oil storage tanks on fire at a pipeline station in Russia's Samara region.",
           "source": "PBS NewsHour",
           "date": "2026-11-14",
           "url": "https://www.pbs.org/newshour/world/zelenskyy-says-a-new-european-security-framework-floated-by-u-s-could-benefit-putin"
@@ -160,11 +160,11 @@
           "url": ""
         },
         {
-          "title": "ATP Finals: Shelton beats Fils in three sets",
-          "summary": "Ben Shelton won 6–2, 3–6, 6–3.",
-          "source": "Sportradar",
+          "title": "ATP Finals open in Turin: Zverev and Shelton win",
+          "summary": "In the John McEnroe Group, Zverev beat Rafael Jodar 6–4, 6–4 and Shelton beat Arthur Fils 6–2, 3–6, 6–3 on Nov 15. Monday's round-robin schedule lists Alcaraz vs Tiafoe and Medvedev vs Cobolli. Sinner withdrew from the event with injury.",
+          "source": "ATP Tour",
           "date": "2026-11-15",
-          "url": ""
+          "url": "https://www.atptour.com/en/news/nitto-atp-finals-2026-results"
         },
         {
           "title": "WTA Finals: Andreeva beats Svitolina",
