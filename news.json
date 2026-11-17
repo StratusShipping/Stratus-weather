@@ -1,50 +1,50 @@
 {
-  "updated": "2026-11-16T05:55:19-06:00",
+  "updated": "2026-11-17T05:56:36-06:00",
   "sections": [
     {
       "name": "Tankers & Chemicals",
       "items": [
         {
-          "title": "Clean tankers: East of Suez holding up better than the West",
-          "summary": "Kpler puts MEG–Japan LR2 at about $25/bbl, up $5.36 on the month. West of Suez clean MR employment is down 12% from its August peak, while Chinese fuel export quotas and Korean diesel exports support East of Suez MRs.",
-          "source": "Kpler",
-          "date": "2026-11-06",
-          "url": "https://www.kpler.com/blog/geopolitics-keeps-freight-afloat"
+          "title": "VLCC rates down 64% from October record",
+          "summary": "Baltic Exchange data show Gulf of Oman–China VLCC freight at about WS 308 on Nov 13, against a record WS 841 on Oct 8. Oil prices have fallen roughly 20% in November on hopes of de-escalation.",
+          "source": "gCaptain / Reuters",
+          "date": "2026-11-16",
+          "url": "https://gcaptain.com/supertanker-rates-plunge-more-than-60-from-record-highs/"
         },
         {
-          "title": "Jones Act waiver extended 90 days",
-          "summary": "The waiver now covers gasoline, jet fuel, crude, naphtha, LNG, soy oil and fertilizers, with MARAD first checking for available US-flag tonnage on each voyage. Oil and chemical shippers back it; shipbuilders and allies in Congress oppose it.",
+          "title": "Crude tanker freight corrects; US Gulf quiet",
+          "summary": "Breakwave's bi-weekly report says crude freight has pulled back sharply from October highs, with more VLCCs ballasting east and firming prompt tonnage around Fujairah and Yanbu. It describes the US Gulf as subdued and notes Saudi East-West pipeline flows have resumed.",
+          "source": "Breakwave Advisors",
+          "date": "2026-11-17",
+          "url": "https://www.breakwaveadvisors.com/insights/11172026wetreportjj876-oo9"
+        },
+        {
+          "title": "Oil market moves into surplus; European diesel near $170/bbl",
+          "summary": "The IEA said on Nov 13 that supply is outpacing demand for the first time since the war began. Saudi output reached 10.5m b/d in October, China's crude imports fell about 15% y/y to 9.9m b/d, and US weekly crude output passed 14m b/d.",
+          "source": "gCaptain / Bloomberg",
+          "date": "2026-11-16",
+          "url": "https://gcaptain.com/the-oil-market-is-brimming-with-crude-despite-tanker-attacks/"
+        },
+        {
+          "title": "Jones Act waiver runs to Feb 14, 2027",
+          "summary": "CBP confirmed the third 90-day extension of the waiver first issued Mar 17, effective Nov 16; cargo must load by 11:59 PM ET on Feb 14. Approvals remain voyage-by-voyage after a MARAD survey for US-flag tonnage; the American Maritime Partnership and OMSA want it ended.",
           "source": "gCaptain",
-          "date": "2026-11-14",
-          "url": "https://gcaptain.com/trump-to-extend-shipping-waiver-for-oil-fertilizer-for-90-days/"
+          "date": "2026-11-16",
+          "url": "https://gcaptain.com/jones-act-waiver-extended-another-90-days-as-u-s-maritime-groups-sound-alarm/"
         },
         {
-          "title": "Pyxis sells older MR tanker for $37m",
-          "summary": "Pyxis Tankers has agreed to sell one of its older MR product tankers for $37 million.",
+          "title": "EU sanctions target shadow-fleet managers and insurers",
+          "summary": "The EU listed 113 individuals and entities, including Dubai-based Lidoil DMCC and several ship managers, Moscow insurer Balance Insurance and Petersburg Oil Terminal. Nearly 50 Russian banks were also added; measures include asset freezes and travel bans.",
+          "source": "gCaptain",
+          "date": "2026-11-16",
+          "url": "https://gcaptain.com/eu-targets-shadow-fleet-shipowners-managers-and-insurers-in-new-russia-sanctions/"
+        },
+        {
+          "title": "Tanker secondhand sales hit a record $30bn",
+          "summary": "Splash reports that the value of secondhand tanker sales this year has reached a record of about $30bn. Only the headline was reviewed; the breakdown by segment was not available.",
           "source": "Splash247",
-          "date": "2026-11-13",
-          "url": "https://splash247.com/pyxis-cashes-in-on-ageing-mr-tanker-in-37m-deal/"
-        },
-        {
-          "title": "Baltic Exchange v Mercuria: verdict awaited in tanker index case",
-          "summary": "A court ruling is pending in the dispute between the Baltic Exchange and Mercuria over a tanker freight index.",
-          "source": "Splash247",
-          "date": "2026-11-13",
-          "url": "https://splash247.com/baltic-exchange-and-mercuria-await-verdict-in-landmark-tanker-index-trial/"
-        },
-        {
-          "title": "UK sanctions 11 more ships in Russia measures",
-          "summary": "The latest UK designations include oil tankers and LNG carriers.",
-          "source": "Splash247",
-          "date": "2026-11-13",
-          "url": "https://splash247.com/uk-blacklists-11-ships-in-fresh-russia-sanctions-sweep/"
-        },
-        {
-          "title": "October S&P and charter snapshot: MR values near $36m, LR1 1-year TC at $59k/day",
-          "summary": "Energy Transit Intelligence's monthly report puts 5-year-old MRs at about $36m (up roughly 4.3% m/m), LR1s near $50m and LR2s near $58m, with MR newbuilds around $52.5m. It cites one-year LR1 time charters at $59,000/day, which it describes as a historic high. Figures are October data published in a delayed report.",
-          "source": "Energy Transit Intelligence",
-          "date": "2026-11-13",
-          "url": "https://etint.substack.com/p/eti-snptmo-november-2026"
+          "date": "2026-11-16",
+          "url": "https://splash247.com/tanker-secondhand-sales-smash-records-with-30bn-changing-hands/"
         }
       ]
     },
@@ -52,53 +52,53 @@
       "name": "Shipping, Ports & Security",
       "items": [
         {
-          "title": "Hormuz: traffic still about 65% below pre-conflict levels",
-          "summary": "UKMTO counted 139 outbound and 169 inbound transits last week and eight security incidents, seven involving tankers. Gulf oil exports (ex-Oman) recovered to 18.4 mb/d in October, still 26% below pre-war levels.",
+          "title": "Two more tankers hit in the Strait of Hormuz",
+          "summary": "UKMTO reported a tanker struck by a projectile outbound at about 0558 UTC on Nov 16, and a second left disabled about 7 nm north of Khasab at about 1900 UTC; both had engine-room fires and crews were safe. JMIC counts five attacks off Musandam since Nov 1, about 227 ships waiting east of Hormuz, and 83 US-escorted transits on Nov 12–14.",
           "source": "gCaptain",
-          "date": "2026-11-13",
-          "url": "https://gcaptain.com/gulf-oil-exports-recover-as-hormuz-shipping-struggles/"
+          "date": "2026-11-16",
+          "url": "https://gcaptain.com/ukmto-reports-two-tanker-attacks-in-strait-of-hormuz/"
         },
         {
-          "title": "Tanker reported on fire after mine strike in eastern Hormuz",
-          "summary": "Iran's navy said an oil tanker hit a mine on Saturday morning; the report had not been independently verified and no casualties were reported.",
+          "title": "Wheat carrier capsizes off Bulgaria after reported drone strike",
+          "summary": "The Somali-flagged BETUL 8, carrying about 3,000 t of wheat from Tulcea to Egypt, capsized about 40 nm southeast of Cape Kaliakra. All 12 crew were rescued; the crew reported two sea drones, but responsibility has not been confirmed.",
           "source": "gCaptain",
-          "date": "2026-11-14",
-          "url": "https://gcaptain.com/oil-tanker-on-fire-after-hitting-mine-in-hormuz/"
+          "date": "2026-11-16",
+          "url": "https://gcaptain.com/cargo-ship-capsizes-off-bulgaria-after-reported-sea-drone-attack/"
         },
         {
-          "title": "Black Sea: three ships hit by drones off Romania's Sulina canal",
-          "summary": "Those hit included the Greek-flag oil/chemical tanker Evia Petrol V, the bulker Marsol and the products tanker Ali Najafov, inside Romanian waters. Crews put out the fires and no one was hurt.",
+          "title": "Armed skiff approaches tanker 430 nm east of Socotra",
+          "summary": "UKMTO logged a possible mothership and a skiff with four armed people and a ladder approaching a tanker on Nov 16. There was no boarding or gunfire; UKMTO classes it as suspicious activity, and JMIC rates Somali piracy risk as moderate.",
           "source": "gCaptain",
+          "date": "2026-11-16",
+          "url": "https://gcaptain.com/armed-skiff-approaches-tanker-far-out-in-arabian-sea/"
+        },
+        {
+          "title": "New Orleans collision: steering failure cited; port disruption expected",
+          "summary": "Reuters reports that a steering problem on the bitumen tanker Atlantic Asphalt caused its collision with a docked river cruise ship. Splash reports the Port of New Orleans faces weeks of disruption; official investigation findings are still pending.",
+          "source": "gCaptain / Reuters",
           "date": "2026-11-15",
-          "url": "https://gcaptain.com/three-ships-struck-by-drones-in-black-sea-near-romanian-shipping-canal/"
+          "url": "https://gcaptain.com/steering-problem-on-tanker-caused-collision-in-new-orleans/"
         },
         {
-          "title": "New Orleans collision: court orders arrest of tanker Atlantic Asphalt",
-          "summary": "A US federal court authorised the arrest of the 17,764 dwt bitumen tanker after it struck and partly sank American Cruise Lines' American Heritage on the Mississippi at New Orleans. The Port of New Orleans is seeking more than $1m in damages; 32 people were taken to hospital after the collision.",
-          "source": "Splash247",
-          "date": "2026-11-15",
-          "url": "https://splash247.com/us-court-orders-arrest-of-tanker-after-new-orleans-cruise-ship-collision/"
-        },
-        {
-          "title": "Bulk carrier strikes Delaware River bridge",
-          "summary": "A Singapore-flagged bulk carrier struck a bridge on the Delaware River; the Coast Guard is investigating.",
+          "title": "DHL: over 10% of container fleet tied up in congestion",
+          "summary": "DHL estimates about 3.6m TEU is held up by port congestion and says the return to Suez may take another 6–12 months, with schedule reliability weak into 2027. Some Gulf gateways have berth delays over two weeks.",
           "source": "gCaptain",
-          "date": "2026-11-13",
-          "url": "https://gcaptain.com/singapore-flagged-bulk-carrier-strikes-delaware-river-bridge-coast-guard-investigating/"
+          "date": "2026-11-16",
+          "url": "https://gcaptain.com/suez-canal-return-wont-resolve-global-shipping-congestion-dhl-warns/"
         },
         {
-          "title": "Container lines post big profits as some Red Sea services return",
-          "summary": "CMA CGM's quarterly net profit more than tripled to $2.32bn on higher freight rates. Hapag-Lloyd also reported a jump in profit and has resumed some Red Sea services.",
+          "title": "Gemini moves three more Asia–Europe loops back to Suez",
+          "summary": "Maersk and Hapag-Lloyd will switch AE2 (from Dec 4), AE3 (Dec 20) and AE1 (Jan 14, 2027) from the Cape route to the Suez Canal, following earlier moves of AE5, AE11, AE12, ME2 and ME1.",
           "source": "gCaptain",
-          "date": "2026-11-13",
-          "url": "https://gcaptain.com/cma-cgm-net-profit-more-than-triples-to-2-32-billion-as-freight-rates-surge/"
+          "date": "2026-11-16",
+          "url": "https://gcaptain.com/maersk-hapag-lloyd-expand-suez-canal-return-with-three-more-gemini-services/"
         },
         {
-          "title": "Durban container delays near 20 days",
-          "summary": "Congestion at South Africa's main container port keeps worsening, and the auto industry is warning of knock-on effects.",
-          "source": "Splash247",
-          "date": "2026-11-15",
-          "url": "https://splash247.com/durban-container-delays-approach-20-days/"
+          "title": "UK consults on a maritime fuel GHG standard from 2030",
+          "summary": "The proposal covers ships of 5,000 GT and above regardless of flag, with all energy on domestic voyages, 50% on international voyages to and from the UK, and energy at berth. It allows pooling and banking like FuelEU; the consultation closes Feb 22, 2027.",
+          "source": "gCaptain",
+          "date": "2026-11-16",
+          "url": "https://gcaptain.com/uk-moves-toward-new-maritime-fuel-standard/"
         }
       ]
     },
@@ -106,39 +106,46 @@
       "name": "World",
       "items": [
         {
-          "title": "Microsoft says services fully restored after global outage",
-          "summary": "The hours-long disruption hit governments, banks, airlines and hospitals. Microsoft traced it to an earlier network capacity upgrade and said it was not a cyberattack.",
+          "title": "Trump leaves for Asia ahead of talks with Xi and Putin",
+          "summary": "President Trump departed for Asia, where he will meet regional leaders before talks with China's Xi Jinping and Russia's Vladimir Putin.",
           "source": "PBS NewsHour",
-          "date": "2026-11-15",
-          "url": "https://www.pbs.org/newshour/world/microsoft-says-services-fully-restored-after-global-outage"
+          "date": "2026-11-16",
+          "url": "https://www.pbs.org/newshour/show/news-wrap-trump-departs-for-trip-to-asia-meetings-with-xi-and-putin"
         },
         {
-          "title": "Iran: US signals no new strikes or talks; Hormuz still contested",
-          "summary": "President Trump said the US 'no longer needs' a deal with Tehran, while Qatar keeps mediating an interim arrangement to restore Hormuz traffic and a US naval blockade continues to limit Iranian crude exports. The UN said October had the most incidents against merchant ships in the strait since February. Trump heads to APEC in Shenzhen next week, where a three-way meeting with Xi and Putin is expected.",
-          "source": "PBS NewsHour",
-          "date": "2026-11-14",
-          "url": "https://www.pbs.org/newshour/world/with-shifting-iran-rhetoric-following-u-s-elections-trump-leaves-middle-east-in-limbo-about-path-ahead"
+          "title": "Third US aircraft carrier reaches the Middle East",
+          "summary": "A US official confirmed the USS Theodore Roosevelt has arrived in the region, giving the administration more options in the Iran conflict.",
+          "source": "PBS NewsHour / AP",
+          "date": "2026-11-16",
+          "url": "https://www.pbs.org/newshour/world/third-u-s-aircraft-carrier-in-middle-east-as-trump-keeps-options-open-in-iran-war"
         },
         {
-          "title": "Ukraine: Kyiv rejects land-for-NATO idea; large POW swap agreed",
-          "summary": "Zelenskyy said the US asked whether Ukraine would leave parts of Donbas in return for NATO membership and that Kyiv will not give up territory. He said talks with US negotiators produced agreement on swapping more than 1,000 prisoners per side (an estimated 1,200–1,300). Ukrainian strikes set oil storage tanks on fire at a pipeline station in Russia's Samara region.",
-          "source": "PBS NewsHour",
-          "date": "2026-11-14",
-          "url": "https://www.pbs.org/newshour/world/zelenskyy-says-a-new-european-security-framework-floated-by-u-s-could-benefit-putin"
+          "title": "EU says Russia is slowing Ukraine peace talks",
+          "summary": "EU governments said Moscow is drawing out negotiations while striking power plants and other infrastructure ahead of winter.",
+          "source": "PBS NewsHour / AP",
+          "date": "2026-11-16",
+          "url": "https://www.pbs.org/newshour/world/eu-accuses-russia-of-stalling-ukraine-peace-talks-to-target-power-plants-as-winter-nears"
         },
         {
-          "title": "Asia-Pacific airlines warn high fares may persist",
-          "summary": "The head of the Asia Pacific airlines association says elevated jet fuel costs could keep airfares high.",
+          "title": "US tightens limits on China's access to advanced AI chips",
+          "summary": "The administration announced new rules to close gaps that had allowed advanced AI chips to reach China, ahead of the President's meeting with Xi.",
           "source": "PBS NewsHour",
-          "date": "2026-11-13",
-          "url": "https://www.pbs.org/newshour/world/high-airfares-may-become-new-norm-as-jet-fuel-costs-soar-says-asia-pacific-airline-industry-chief"
+          "date": "2026-11-16",
+          "url": "https://www.pbs.org/newshour/show/u-s-works-to-close-loophole-that-let-china-access-advanced-ai-chips"
         },
         {
-          "title": "UN chief calls for immediate, deep emissions cuts",
-          "summary": "António Guterres also linked climate change to rising geopolitical instability.",
+          "title": "COP31: fossil-fuel transition coalition proceeds without Colombia",
+          "summary": "At the UN climate talks in Antalya, Turkey, a group of countries plans to present new national plans to move away from fossil fuels, despite the withdrawal of Colombia, its original sponsor.",
+          "source": "PBS NewsHour / AP",
+          "date": "2026-11-16",
+          "url": "https://www.pbs.org/newshour/world/coalition-to-move-away-from-fossil-fuels-presses-ahead-without-colombia-its-original-champion"
+        },
+        {
+          "title": "FAA issued a nationwide ground stop",
+          "summary": "The FAA halted departures nationwide, citing an extraordinary circumstance and safety. The underlying cause had not been fully explained.",
           "source": "PBS NewsHour",
-          "date": "2026-11-13",
-          "url": "https://www.pbs.org/newshour/world/un-chief-says-immediate-and-drastic-emissions-cuts-needed-to-avert-climate-change-catastrophe"
+          "date": "2026-11-16",
+          "url": "https://www.pbs.org/newshour/show/trump-administration-seeks-to-deflect-responsibility-for-nationwide-ground-stop"
         }
       ]
     },
@@ -146,32 +153,32 @@
       "name": "Sports",
       "items": [
         {
-          "title": "Texans fall 27–24 at Cleveland",
-          "summary": "Houston dropped to 3–6, second in the AFC South but well behind Jacksonville (7–2). Next up: Colts at home on Thursday Night Football, Nov 19 at 7:15 PM.",
-          "source": "Sportradar",
+          "title": "Texans 3–6 after 27–24 loss at Cleveland; Colts Thursday",
+          "summary": "Houston led 17–10 at halftime but lost 27–24 to the Browns on Nov 15. Jacksonville leads the AFC South at 7–2. Next: Colts at NRG Stadium, Thu Nov 19, 7:15 PM CT (Prime Video).",
+          "source": "NFL.com",
           "date": "2026-11-15",
-          "url": ""
+          "url": "https://www.nfl.com/schedules/2026/by-team/houston-texans"
         },
         {
-          "title": "Broncos 7–2 on their bye week",
-          "summary": "Denver has won six of its last seven, most recently 26–21 at Carolina on Nov 8, and sits second in the AFC West behind Kansas City (7–2). Next: Raiders at home, Sun Nov 22 at 3:25 PM.",
-          "source": "Sportradar",
-          "date": "2026-11-15",
-          "url": ""
+          "title": "Broncos 7–2 after bye; Raiders next",
+          "summary": "Denver has won five straight, most recently 26–21 at Carolina on Nov 8, and is second in the AFC West behind Kansas City (7–2, holds tiebreaker). Next: Raiders at home, Sun Nov 22, 3:25 PM CT (CBS).",
+          "source": "NFL.com",
+          "date": "2026-11-16",
+          "url": "https://www.nfl.com/schedules/2026/by-team/denver-broncos"
         },
         {
-          "title": "ATP Finals open in Turin: Zverev and Shelton win",
-          "summary": "In the John McEnroe Group, Zverev beat Rafael Jodar 6–4, 6–4 and Shelton beat Arthur Fils 6–2, 3–6, 6–3 on Nov 15. Monday's round-robin schedule lists Alcaraz vs Tiafoe and Medvedev vs Cobolli. Sinner withdrew from the event with injury.",
+          "title": "ATP Finals: Alcaraz and Medvedev open with wins",
+          "summary": "In the Ivan Lendl Group on Nov 16, Alcaraz beat Frances Tiafoe 6–2, 6–2 in 69 minutes and Medvedev beat Flavio Cobolli 7–6(4), 6–3. Zverev and Shelton won their John McEnroe Group openers on Nov 15; the event runs through Nov 22 in Turin.",
           "source": "ATP Tour",
-          "date": "2026-11-15",
+          "date": "2026-11-16",
           "url": "https://www.atptour.com/en/news/nitto-atp-finals-2026-results"
         },
         {
-          "title": "WTA Finals: Andreeva beats Svitolina",
-          "summary": "Mirra Andreeva won in straight sets, 7–5, 6–3.",
-          "source": "Sportradar",
-          "date": "2026-11-15",
-          "url": ""
+          "title": "Andreeva wins WTA Finals, rises to No. 2",
+          "summary": "Mirra Andreeva beat Elina Svitolina 7–5, 6–3 in the final, after going through the round robin without dropping a set. She moves past Aryna Sabalenka to No. 2, 293 points behind No. 1 Elena Rybakina.",
+          "source": "Just Women's Sports",
+          "date": "2026-11-16",
+          "url": "https://justwomenssports.com/reads/mirra-andreeva-wins-2026-wta-finals-wta-rankings/"
         }
       ]
     }
