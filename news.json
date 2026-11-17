@@ -1,9 +1,16 @@
 {
-  "updated": "2026-11-17T05:56:36-06:00",
+  "updated": "2026-11-17T12:51:03-06:00",
   "sections": [
     {
       "name": "Tankers & Chemicals",
       "items": [
+        {
+          "title": "Fewer empty tankers heading to the Gulf",
+          "summary": "TankerTrackers.com estimates the combined capacity of VLCCs and Suezmaxes ballasting toward the Middle East is down about 40% since end-August, with some owners declining to transit Hormuz and loading from shuttle tankers in the Gulf of Oman. A tighter supply of empty ships would tend to support rates after recent declines.",
+          "source": "gCaptain / Bloomberg",
+          "date": "2026-11-17",
+          "url": "https://gcaptain.com/gulf-oil-flow-at-risk-from-lack-of-empty-tankers-tracker-says/"
+        },
         {
           "title": "VLCC rates down 64% from October record",
           "summary": "Baltic Exchange data show Gulf of Oman–China VLCC freight at about WS 308 on Nov 13, against a record WS 841 on Oct 8. Oil prices have fallen roughly 20% in November on hopes of de-escalation.",
@@ -40,11 +47,11 @@
           "url": "https://gcaptain.com/eu-targets-shadow-fleet-shipowners-managers-and-insurers-in-new-russia-sanctions/"
         },
         {
-          "title": "Tanker secondhand sales hit a record $30bn",
-          "summary": "Splash reports that the value of secondhand tanker sales this year has reached a record of about $30bn. Only the headline was reviewed; the breakdown by segment was not available.",
+          "title": "SwissChemGas orders two VLACs at Hengli",
+          "summary": "SwissChemGas has joined the current wave of very large ammonia carrier orders with a pair from China's Hengli. Only the headline was reviewed; price and delivery dates were not confirmed.",
           "source": "Splash247",
           "date": "2026-11-16",
-          "url": "https://splash247.com/tanker-secondhand-sales-smash-records-with-30bn-changing-hands/"
+          "url": "https://splash247.com/swisschemgas-joins-vlac-ordering-rush-with-hengli-pair/"
         }
       ]
     },
@@ -52,11 +59,18 @@
       "name": "Shipping, Ports & Security",
       "items": [
         {
-          "title": "Two more tankers hit in the Strait of Hormuz",
-          "summary": "UKMTO reported a tanker struck by a projectile outbound at about 0558 UTC on Nov 16, and a second left disabled about 7 nm north of Khasab at about 1900 UTC; both had engine-room fires and crews were safe. JMIC counts five attacks off Musandam since Nov 1, about 227 ships waiting east of Hormuz, and 83 US-escorted transits on Nov 12–14.",
+          "title": "LPG tanker Tara Gas abandoned after two strikes in Hormuz",
+          "summary": "UKMTO reported a first attack around 1900 UTC on Nov 16 about 7 nm north of Khasab, followed by a second strike; both caused fires. The 25 crew abandoned ship; India says 21 nationals reached Khasab, two are hospitalised and one is missing. A separate outbound tanker was hit at 0558 UTC with all crew safe; responsibility is not established.",
           "source": "gCaptain",
-          "date": "2026-11-16",
-          "url": "https://gcaptain.com/ukmto-reports-two-tanker-attacks-in-strait-of-hormuz/"
+          "date": "2026-11-17",
+          "url": "https://gcaptain.com/second-strike-on-lpg-tanker-in-strait-of-hormuz-leaves-one-missing-two-injured/"
+        },
+        {
+          "title": "LPG tanker Gas Husky sinks off Bulgaria",
+          "summary": "The Liberian-flag vessel, carrying 3,400 t of LPG, sank about 50 miles east of Byala on Nov 17; all 19 crew were rescued and no pollution was reported. The cause is not yet known. Diaplous counts at least 17 ships attacked off Bulgaria and Romania since mid-July.",
+          "source": "gCaptain / Reuters",
+          "date": "2026-11-17",
+          "url": "https://gcaptain.com/lpg-tanker-reported-to-have-sunk-off-bulgarias-black-sea-coast/"
         },
         {
           "title": "Wheat carrier capsizes off Bulgaria after reported drone strike",
@@ -66,18 +80,18 @@
           "url": "https://gcaptain.com/cargo-ship-capsizes-off-bulgaria-after-reported-sea-drone-attack/"
         },
         {
+          "title": "New Orleans riverboat collision: tanker steering loss under review",
+          "summary": "Preliminary data indicate the tanker Atlantic Asphalt had its rudder to starboard after a steering casualty and struck the berthed American Heritage about two minutes later on Nov 13; all 190 aboard survived, 32 went to hospital. The NTSB has not determined cause and had flagged Mississippi berth risks in 1998.",
+          "source": "gCaptain",
+          "date": "2026-11-17",
+          "url": "https://gcaptain.com/ntsb-warned-of-mississippi-river-passenger-vessel-collision-risks-nearly-30-years-ago/"
+        },
+        {
           "title": "Armed skiff approaches tanker 430 nm east of Socotra",
           "summary": "UKMTO logged a possible mothership and a skiff with four armed people and a ladder approaching a tanker on Nov 16. There was no boarding or gunfire; UKMTO classes it as suspicious activity, and JMIC rates Somali piracy risk as moderate.",
           "source": "gCaptain",
           "date": "2026-11-16",
           "url": "https://gcaptain.com/armed-skiff-approaches-tanker-far-out-in-arabian-sea/"
-        },
-        {
-          "title": "New Orleans collision: steering failure cited; port disruption expected",
-          "summary": "Reuters reports that a steering problem on the bitumen tanker Atlantic Asphalt caused its collision with a docked river cruise ship. Splash reports the Port of New Orleans faces weeks of disruption; official investigation findings are still pending.",
-          "source": "gCaptain / Reuters",
-          "date": "2026-11-15",
-          "url": "https://gcaptain.com/steering-problem-on-tanker-caused-collision-in-new-orleans/"
         },
         {
           "title": "DHL: over 10% of container fleet tied up in congestion",
@@ -92,13 +106,6 @@
           "source": "gCaptain",
           "date": "2026-11-16",
           "url": "https://gcaptain.com/maersk-hapag-lloyd-expand-suez-canal-return-with-three-more-gemini-services/"
-        },
-        {
-          "title": "UK consults on a maritime fuel GHG standard from 2030",
-          "summary": "The proposal covers ships of 5,000 GT and above regardless of flag, with all energy on domestic voyages, 50% on international voyages to and from the UK, and energy at berth. It allows pooling and banking like FuelEU; the consultation closes Feb 22, 2027.",
-          "source": "gCaptain",
-          "date": "2026-11-16",
-          "url": "https://gcaptain.com/uk-moves-toward-new-maritime-fuel-standard/"
         }
       ]
     },
@@ -106,11 +113,11 @@
       "name": "World",
       "items": [
         {
-          "title": "Trump leaves for Asia ahead of talks with Xi and Putin",
-          "summary": "President Trump departed for Asia, where he will meet regional leaders before talks with China's Xi Jinping and Russia's Vladimir Putin.",
-          "source": "PBS NewsHour",
-          "date": "2026-11-16",
-          "url": "https://www.pbs.org/newshour/show/news-wrap-trump-departs-for-trip-to-asia-meetings-with-xi-and-putin"
+          "title": "Trump in Asia for ASEAN summit, then talks with Xi and Putin",
+          "summary": "The President left Washington on Nov 16 with Secretary of State Rubio and Treasury Secretary Bessent for the 49th ASEAN summit in the Philippines and a China visit, and said a meeting with Kim Jong Un is possible. No summit outcomes had been reported at publication.",
+          "source": "PBS NewsHour / GMA News",
+          "date": "2026-11-17",
+          "url": "https://www.gmanetwork.com/news/topstories/nation/1009740/live-updates-49th-asean-summit-and-related-summits-nov-17-2026/story/"
         },
         {
           "title": "Third US aircraft carrier reaches the Middle East",
@@ -127,6 +134,13 @@
           "url": "https://www.pbs.org/newshour/world/eu-accuses-russia-of-stalling-ukraine-peace-talks-to-target-power-plants-as-winter-nears"
         },
         {
+          "title": "Russia reports intercepting 1,336 Ukrainian drones",
+          "summary": "Russia's Defense Ministry said on Nov 16 it downed 1,336 Ukrainian drones, the highest figure it has claimed since the 2022 invasion. The number has not been independently verified.",
+          "source": "PBS NewsHour / AP",
+          "date": "2026-11-16",
+          "url": "https://www.pbs.org/newshour/world/russia-says-its-defenses-intercepted-over-1300-ukrainian-drones-in-a-major-attack"
+        },
+        {
           "title": "US tightens limits on China's access to advanced AI chips",
           "summary": "The administration announced new rules to close gaps that had allowed advanced AI chips to reach China, ahead of the President's meeting with Xi.",
           "source": "PBS NewsHour",
@@ -139,13 +153,6 @@
           "source": "PBS NewsHour / AP",
           "date": "2026-11-16",
           "url": "https://www.pbs.org/newshour/world/coalition-to-move-away-from-fossil-fuels-presses-ahead-without-colombia-its-original-champion"
-        },
-        {
-          "title": "FAA issued a nationwide ground stop",
-          "summary": "The FAA halted departures nationwide, citing an extraordinary circumstance and safety. The underlying cause had not been fully explained.",
-          "source": "PBS NewsHour",
-          "date": "2026-11-16",
-          "url": "https://www.pbs.org/newshour/show/trump-administration-seeks-to-deflect-responsibility-for-nationwide-ground-stop"
         }
       ]
     },
@@ -153,18 +160,25 @@
       "name": "Sports",
       "items": [
         {
-          "title": "Texans 3–6 after 27–24 loss at Cleveland; Colts Thursday",
-          "summary": "Houston led 17–10 at halftime but lost 27–24 to the Browns on Nov 15. Jacksonville leads the AFC South at 7–2. Next: Colts at NRG Stadium, Thu Nov 19, 7:15 PM CT (Prime Video).",
+          "title": "Texans 3–6 host Colts Thursday",
+          "summary": "Houston lost 27–24 at Cleveland on Nov 15 and sits second in the AFC South, behind Jacksonville (7–2) and ahead of Indianapolis (3–7) and Tennessee (1–8). Next: Colts at NRG Stadium, Thu Nov 19, 7:15 PM CT (Prime Video).",
           "source": "NFL.com",
-          "date": "2026-11-15",
+          "date": "2026-11-17",
           "url": "https://www.nfl.com/schedules/2026/by-team/houston-texans"
         },
         {
-          "title": "Broncos 7–2 after bye; Raiders next",
-          "summary": "Denver has won five straight, most recently 26–21 at Carolina on Nov 8, and is second in the AFC West behind Kansas City (7–2, holds tiebreaker). Next: Raiders at home, Sun Nov 22, 3:25 PM CT (CBS).",
+          "title": "Broncos 7–2 host Raiders Sunday",
+          "summary": "Denver, off its bye, last beat Carolina 26–21 on Nov 8 and is tied with Kansas City (7–2) atop the AFC West, second on tiebreaker; Las Vegas is 4–6. Next: Raiders at home, Sun Nov 22, 3:25 PM CT (CBS).",
           "source": "NFL.com",
-          "date": "2026-11-16",
+          "date": "2026-11-17",
           "url": "https://www.nfl.com/schedules/2026/by-team/denver-broncos"
+        },
+        {
+          "title": "ATP Finals: Fils beats Jodar; Shelton–Zverev later Tuesday",
+          "summary": "Arthur Fils came from a set down to beat Rafael Jodar 4–6, 6–2, 6–2 for his first Finals win (1–1); Jodar, who took two medical timeouts, is 0–2. Shelton (1–0) meets No. 1 Zverev (1–0) later on Nov 17, with a semi-final place at stake; Fils plays Zverev on Thursday.",
+          "source": "ATP Tour",
+          "date": "2026-11-17",
+          "url": "https://www.atptour.com/en/news/fils-jodar-nitto-atp-finals-2026-tuesday"
         },
         {
           "title": "ATP Finals: Alcaraz and Medvedev open with wins",
