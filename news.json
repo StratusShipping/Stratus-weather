@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T06:00:24-06:00",
+  "updated": "2026-11-18T12:56:06-06:00",
   "sections": [
     {
       "name": "Tankers & Chemicals",
@@ -33,18 +33,25 @@
           "url": "https://www.new-ships.com/ns/news/7842"
         },
         {
-          "title": "Pyxis sells 2013-built MR for $37m",
-          "summary": "Pyxis Tankers agreed to sell the 46,652 dwt Pyxis Karteria (Hyundai Mipo, 2013), bought for $20m in 2021. It expects a gain of about $21m and net cash of about $25.9m after repaying $10.7m of debt; delivery Nov 20–Dec 20.",
-          "source": "Shipping Telegraph",
+          "title": "EU sanctions list adds 113 shadow-fleet names",
+          "summary": "The EU package announced Nov 16 lists 12 individuals and 101 entities based in the UAE, Oman, Seychelles and China, including Dubai traders Lidoil DMCC and Spikoil DMCC, several ship managers, Moscow insurer Balance Insurance and JSC Petersburg Oil Terminal. Nearly 50 Russian banks were also added.",
+          "source": "gCaptain",
           "date": "2026-11-16",
-          "url": "https://shippingtelegraph.com/hellenic-shipping-news/pyxis-tankers-cashes-in-from-profitable-sale-of-ageing-mr-tanker/"
+          "url": "https://gcaptain.com/eu-targets-shadow-fleet-shipowners-managers-and-insurers-in-new-russia-sanctions/"
         },
         {
-          "title": "Suezmaxes and Aframaxes take a larger share of Hormuz shuttle trade",
-          "summary": "Vortexa data show Suezmax/Aframax shipments through Hormuz above 2m b/d in October, a wartime high, with Gulf exports at 11.4m b/d. VLCCs remain 72% of transiting tankers (BRS); Persian Gulf–China Suezmax rates run about a third to just under half the VLCC benchmark.",
+          "title": "VLCC Gulf of Oman–China rate down 64% from October record",
+          "summary": "Baltic Exchange data put the route at about WS308 on Nov 13, against a record WS841 on Oct 8, as Gulf exports recovered to near pre-war volumes via STS transfers and dark transits. Analysts at Arrow and Vortexa point to Asian buyers returning to Gulf crude and growing vessel availability.",
+          "source": "gCaptain / Reuters",
+          "date": "2026-11-16",
+          "url": "https://gcaptain.com/supertanker-rates-plunge-more-than-60-from-record-highs/"
+        },
+        {
+          "title": "Fewer empty tankers heading into the Gulf, tracker says",
+          "summary": "Tankertrackers.com estimates combined VLCC and Suezmax ballast capacity sailing to the Gulf is down about 40% since end-August, with some owners refusing Hormuz and loading in the Gulf of Oman from shuttle ships. Regional flows have dipped in November, but the tracker says the cause and scale are not yet clear.",
           "source": "gCaptain / Bloomberg",
-          "date": "2026-11-18",
-          "url": "https://gcaptain.com/smaller-tankers-join-hormuz-shuttle-trade-to-keep-oil-flowing/"
+          "date": "2026-11-17",
+          "url": "https://gcaptain.com/gulf-oil-flow-at-risk-from-lack-of-empty-tankers-tracker-says/"
         }
       ]
     },
@@ -52,39 +59,18 @@
       "name": "Shipping, Ports & Security",
       "items": [
         {
-          "title": "More tankers hit in and near Hormuz; Iranian mine claims unverified",
-          "summary": "UKMTO logged a projectile strike and engine-room fire on an outbound tanker at about 05:58 UTC Nov 16, identified by Vanguard as the 114,623 dwt On Phoenix; crew safe. Ambrey reported further damaged vessels near Khasab. Iranian navy claims that several tankers hit mines and that the southern route is 'closed' have not been independently verified.",
-          "source": "Riviera",
+          "title": "LPG tanker Tara Gas struck twice near Khasab; one crew missing",
+          "summary": "UKMTO reported an attack about 7 nm north of Khasab at 1900 UTC on Nov 16 that disabled the Panama-flagged ship and started an engine-room fire, followed by a second strike. India says 24 of 25 crew are accounted for, two hospitalized and one missing; a separate outbound tanker was also hit on Nov 16 with no casualties. Responsibility has not been independently established.",
+          "source": "gCaptain",
           "date": "2026-11-17",
-          "url": "https://www.rivieramm.com/news-content-hub/tanker-hit-off-oman-as-attacks-and-mine-claims-in-and-around-strait-of-hormuz-continue-90591"
+          "url": "https://gcaptain.com/second-strike-on-lpg-tanker-in-strait-of-hormuz-leaves-one-missing-two-injured/"
         },
         {
-          "title": "UK coastguard tells ships to prepare for navigation without GPS",
-          "summary": "The UK Maritime and Coastguard Agency advised vessels to be ready to operate without satellite positioning amid heavy jamming in the Gulf, and operators are retraining crews on chart-based navigation. Satellite Applications Catapult counted about 970 ships a day affected in Hormuz in June.",
-          "source": "The National",
-          "date": "2026-11-17",
-          "url": "https://www.thenationalnews.com/news/mena/2026/11/17/ship-captains-told-to-refresh-navigation-skills-as-iran-steps-up-jamming-of-satellites/"
-        },
-        {
-          "title": "Kerch Bridge span reportedly blocks Azov–Black Sea channel",
-          "summary": "Ukrainian officials say strikes on Nov 15–17 dropped a road span into the main navigable channel of the Kerch Strait, which would halt large-vessel traffic between the Sea of Azov and the Black Sea. The damage claims have not been independently confirmed; Russia says the bridge will be rebuilt.",
-          "source": "The War Zone",
-          "date": "2026-11-17",
-          "url": "https://www.twz.com/news-features/what-we-know-about-ukraines-strikes-that-cut-russias-kerch-bridge-road-vehicle-span"
-        },
-        {
-          "title": "Russian Black Sea ports handled no containers in October",
-          "summary": "After drone attacks pushed carriers out of Novorossiysk (1.1m TEU in 2025), Russia's Black Sea and Azov ports moved no container cargo in October, while Baltic ports topped 200,000 TEU. Routing Turkey cargo via St Petersburg takes 2–3 weeks instead of 3–5 days.",
-          "source": "The Moscow Times",
-          "date": "2026-11-17",
-          "url": "https://www.themoscowtimes.com/2026/11/17/russian-cargo-shifts-to-baltic-and-far-east-after-drone-attacks-halt-southern-container-traffic-a94286"
-        },
-        {
-          "title": "Mississippi at New Orleans: one-way rule for deep-draft and large tows",
-          "summary": "A Coast Guard safety zone remains at Mile 95.5–96.5 after the riverboat collision; the alternate channel is closed and limited two-way traffic uses the main span. Deep-draft vessels and tows of 10+ barges are restricted to one-way transits.",
-          "source": "City of New Orleans",
-          "date": "2026-11-16",
-          "url": "https://nola.gov/next/mayors-office/news/articles/november/2026-11-16-monday-update-city-of-new-orleans-continues-passenger-and-crew-recovery-efforts-followin/"
+          "title": "Coast Guard sets New Orleans safety zone through Dec 11",
+          "summary": "A temporary zone covers Lower Mississippi miles 95.5–96.5, 500 ft off the east bank near the Crescent City Connection, for salvage of the capsized riverboat American Heritage after the Nov 13 allision by tanker Atlantic Asphalt. The river is not closed: limited two-way traffic uses the main span, with deep-draft ships and tows of 10+ barges one-way. NTSB preliminary data cite a steering casualty; cause undetermined.",
+          "source": "gCaptain",
+          "date": "2026-11-18",
+          "url": "https://gcaptain.com/coast-guard-restricts-mississippi-river-traffic-for-monthlong-cruise-ship-salvage/"
         },
         {
           "title": "Houston Ship Channel pilot indicted over 2024 collision",
@@ -94,11 +80,32 @@
           "url": "https://www.click2houston.com/news/local/2026/11/17/ship-pilot-indicted-in-deadly-2024-houston-ship-channel-collision-after-ntsb-found-cellphone-distraction/"
         },
         {
-          "title": "ONE resumes Suez transits; more Premier Alliance loops to follow",
-          "summary": "The 8,110 TEU ONE Continuity transited northbound on Nov 15, ONE's first Suez passage in nearly three years, and the Suez Canal Authority says three more Premier Alliance services will switch back. Drewry counted 53 containership transits in the first week of November.",
-          "source": "Maritime Executive",
+          "title": "LA/Long Beach security workers could strike from Nov 21",
+          "summary": "About 250 ILWU Local 26 members, who staff six terminals handling roughly 85% of Long Beach and 33% of LA cargo per PMA, may walk out at 12:01 a.m. Saturday when their extension expires. Talks resume Friday; the coastwide dockworker contract runs to 2028.",
+          "source": "gCaptain",
+          "date": "2026-11-18",
+          "url": "https://gcaptain.com/strike-threat-looms-at-ports-of-los-angeles-and-long-beach-as-labor-talks-stall/"
+        },
+        {
+          "title": "DHL: Suez return will not quickly clear container congestion",
+          "summary": "DHL estimates about 3.6m TEU, over 10% of the container fleet, is tied up in port congestion, with some Gulf gateways seeing berth delays above two weeks. About 60% of Asia–Europe headhaul services plan to use Suez, and the transition may take 6–12 months if security holds.",
+          "source": "gCaptain",
           "date": "2026-11-16",
-          "url": "https://maritime-executive.com/article/one-joins-maersk-hapag-and-others-in-return-to-suez-canal"
+          "url": "https://gcaptain.com/suez-canal-return-wont-resolve-global-shipping-congestion-dhl-warns/"
+        },
+        {
+          "title": "Kerch Bridge span reportedly blocks Azov–Black Sea channel",
+          "summary": "Ukrainian officials say strikes on Nov 15–17 dropped a road span into the main navigable channel of the Kerch Strait, which would halt large-vessel traffic between the Sea of Azov and the Black Sea. The damage claims have not been independently confirmed; Russia says the bridge will be rebuilt.",
+          "source": "The War Zone",
+          "date": "2026-11-17",
+          "url": "https://www.twz.com/news-features/what-we-know-about-ukraines-strikes-that-cut-russias-kerch-bridge-road-vehicle-span"
+        },
+        {
+          "title": "Panama Canal raises Neopanamax draft to 50 ft",
+          "summary": "An ACP advisory raises daily slots from 33 to 34 (24 Panamax, 10 Neopanamax) and lifts maximum Neopanamax draft to 15.24 m (50 ft) from 49 ft in October, as water levels improve.",
+          "source": "gCaptain",
+          "date": "2026-11-11",
+          "url": "https://gcaptain.com/panama-canal-raises-daily-transit-capacity-as-water-conditions-improve/"
         }
       ]
     },
@@ -154,10 +161,10 @@
       "items": [
         {
           "title": "Texans (3–6) host Colts Thursday, 7:15 PM CT",
-          "summary": "Houston lost 27–24 at Cleveland on Nov 15 after leading 17–0 and sits 2nd in the AFC South (Jaguars 7–2, Colts 3–7, Titans 1–8). Colts at Texans is Thu Nov 19, 7:15 PM CT on Prime Video. RB Woody Marks entered concussion protocol vs Cleveland; other statuses await the official injury report.",
-          "source": "FOX 26 Houston",
-          "date": "2026-11-15",
-          "url": "https://www.fox26houston.com/sports/houston-texans-cleveland-browns-recap-november-2026"
+          "summary": "Houston lost 27–24 at Cleveland on Nov 15 after leading 17–0 and is 2nd in the AFC South (Jaguars 7–2, Colts 3–7, Titans 1–8). Colts at Texans is Thu Nov 19, 7:15 PM CT on Prime Video; Houston is a 9.5-point favorite. Official game statuses had not been released at last check.",
+          "source": "FOX 26 Houston / SI",
+          "date": "2026-11-16",
+          "url": "https://www.si.com/betting/colts-vs-texans-prediction-odds-spread-injuries-trends-for-nfl-week-11-2026"
         },
         {
           "title": "Broncos (7–2) host Raiders Sunday, 3:25 PM CT",
@@ -167,18 +174,25 @@
           "url": "https://www.foxsports.com/nfl/week-11-las-vegas-raiders-vs-denver-broncos-nov-22-2026-game-boxscore-11281"
         },
         {
-          "title": "ATP Finals: Zverev into semifinals; Fils beats Jodar",
-          "summary": "On Nov 17 Zverev beat Shelton 6–2, 7–6(4) to go 2–0 and qualify from the McEnroe Group; Fils beat Jodar 4–6, 6–2, 6–2. Fils and Shelton are 1–1, Jodar 0–2. Alcaraz plays Medvedev on Nov 18 (both 1–0 in the Lendl Group), and semifinals are Nov 21.",
+          "title": "ATP Finals: Alcaraz beats Medvedev, nears semifinals",
+          "summary": "Alcaraz won 6–2, 6–4 in 72 minutes on Nov 18 to go 2–0 in the Lendl Group; he had treatment on his upper left leg in the second set. He qualifies if Tiafoe takes a set from Cobolli tonight, and plays Cobolli on Friday. Medvedev is 1–1.",
           "source": "ATP Tour",
-          "date": "2026-11-17",
-          "url": "https://www.atptour.com/en/news/nitto-atp-finals-2026-results"
+          "date": "2026-11-18",
+          "url": "https://www.atptour.com/en/news/alcaraz-medvedev-nitto-atp-finals-2026-wednesday"
         },
         {
-          "title": "ATP rankings: Fritz and Jodar move into top 10",
-          "summary": "In the Nov 16 list, Zverev leads with 9,320 points, ahead of Sinner, Alcaraz, Shelton and Medvedev. Fritz rose to No. 9 and Jodar to No. 10 (single source; not yet checked against the ATP site).",
-          "source": "Emol",
+          "title": "ATP Finals: Zverev into semifinals; Fils beats Jodar",
+          "summary": "On Nov 17 Zverev beat Shelton 6–2, 7–6(4) to go 2–0 and qualify from the McEnroe Group; Fils, now a career-high No. 7, beat Jodar 4–6, 6–2, 6–2 and plays Zverev Thursday. Fils and Shelton are 1–1, Jodar 0–2.",
+          "source": "ATP Tour",
+          "date": "2026-11-17",
+          "url": "https://www.atptour.com/en/news/fils-jodar-nitto-atp-finals-2026-tuesday"
+        },
+        {
+          "title": "Andreeva wins WTA Finals unbeaten; rises to No. 2",
+          "summary": "Mirra Andreeva beat Elina Svitolina 7–5, 6–3 in the Nov 15 final, winning all five matches without dropping a set, and moves to world No. 2. Siniakova/Townsend won the doubles title over Errani/Paolini.",
+          "source": "TimesLIVE / Reuters",
           "date": "2026-11-16",
-          "url": "https://www.emol.com/noticias/Deportes/2026/11/16/1217207/ranking-atp-garin-jarry.html"
+          "url": "https://www.timeslive.co.za/sport/2026-11-16-unbeaten-mirra-andreeva-captures-wta-finals-crown-on-debut/"
         }
       ]
     }
