@@ -1,57 +1,43 @@
 {
-  "updated": "2026-11-18T12:56:06-06:00",
+  "updated": "2026-11-19T05:51:39-06:00",
   "sections": [
     {
       "name": "Tankers & Chemicals",
       "items": [
         {
-          "title": "Hafnia Q3 profit $170.8m; Q4 74% covered at $55,148/day",
-          "summary": "Hafnia's Q3 net profit rose to $170.8m ($0.34/share) from $91.5m a year earlier. Q3 TCE per operating day: LR2 $38,919, LR1 $43,052, MR $30,220, Handy $25,713 (fleet $32,708). As of Nov 13, 74% of Q4 earning days were fixed at $55,148/day; the company notes LR2s are being drawn into dirty trades.",
-          "source": "Hafnia / Business Wire",
-          "date": "2026-11-18",
-          "url": "https://www.financialcontent.com/article/bizwire-2026-11-18-hafnia-limited-announces-financial-results-for-the-three-and-nine-months-ended-30-september-2026"
+          "title": "Clean tanker spot earnings slip 4.8% on the week",
+          "summary": "Makai's week 47 report puts clean spot earnings down 4.8% w/w and 13.4% below the late-October peak. MRs led the decline as Atlantic MR earnings fell sharply while Pacific MRs held; LRs eased 2.1% and are 10–15% off peak, Handies rose on a Med/Med rebound, and the LR2 premium over Aframaxes widened past $100k/day.",
+          "source": "Makai Research",
+          "date": "2026-11-19",
+          "url": "https://makaimarine.substack.com/p/weekly-product-tanker-report-week-add"
         },
         {
-          "title": "Hafnia drops TORM merger, plans to exit 19.85% stake",
-          "summary": "Hafnia will unwind its 20.36m TORM shares (about $686.6m at the Nov 17 close of $33.73), preferably as a dividend in kind of 1 TORM share per 26.3 Hafnia shares, replacing regular Q3/Q4 cash dividends. If the needed third-party cooperation is not in place by Nov 25, it will instead pay a cash dividend of 90% of Q3 profit.",
-          "source": "IndexBox",
-          "date": "2026-11-18",
-          "url": "https://www.indexbox.io/blog/hafnia-abandons-torm-merger-bid-plans-to-unwind-1985-stake/"
+          "title": "MEG MR freight falls w125 as Hormuz transits slow",
+          "summary": "Platts assessed the Middle East MR benchmark down w125 on Nov 18. Vitol placed Torm Stellar at w500 for Nov 25 diesel Duqm–East Africa and Weco Amalie went at w475 Sikka–East Africa. S&P Global counted 14 daily Hormuz transits on Nov 9 versus 32 at end-October; in Asia, Oriental Sunstone was placed at $975,000 South Korea–Japan, the first sub-$1m on that run since late August.",
+          "source": "Hellenic Shipping News / S&P Global Platts",
+          "date": "2026-11-19",
+          "url": "https://www.hellenicshippingnews.com/clean-tankers-freight-slumps-as-persian-gulf-transits-slow-amid-attacks/"
         },
         {
-          "title": "Hanwha Philly starts first Jones Act MR chemical/product tanker",
-          "summary": "Steel was cut on Nov 17 for the first of four 49,500 dwt MRs for Hanwha Shipping, built to IMO Type 2/3 chemical standards (optional 18-segregation layout) for Jones Act crude, product and chemical trades. Deliveries are planned for 2029–2030.",
-          "source": "New-Ships.com / Riviera",
-          "date": "2026-11-18",
-          "url": "https://www.new-ships.com/ns/news/7856"
-        },
-        {
-          "title": "CIMC SOE takes first MR order: 10 × 49,900 dwt",
-          "summary": "Stamford Shipping ordered ten conventionally fuelled MRs for 2029–2030 delivery, and a European owner added two more of the same design. About 190 MR2s were on order in late October; BRS puts the MR2 orderbook at roughly 16% of the fleet, with average age 12.5 years.",
-          "source": "New-Ships.com",
-          "date": "2026-11-17",
-          "url": "https://www.new-ships.com/ns/news/7842"
-        },
-        {
-          "title": "EU sanctions list adds 113 shadow-fleet names",
-          "summary": "The EU package announced Nov 16 lists 12 individuals and 101 entities based in the UAE, Oman, Seychelles and China, including Dubai traders Lidoil DMCC and Spikoil DMCC, several ship managers, Moscow insurer Balance Insurance and JSC Petersburg Oil Terminal. Nearly 50 Russian banks were also added.",
-          "source": "gCaptain",
-          "date": "2026-11-16",
-          "url": "https://gcaptain.com/eu-targets-shadow-fleet-shipowners-managers-and-insurers-in-new-russia-sanctions/"
-        },
-        {
-          "title": "VLCC Gulf of Oman–China rate down 64% from October record",
-          "summary": "Baltic Exchange data put the route at about WS308 on Nov 13, against a record WS841 on Oct 8, as Gulf exports recovered to near pre-war volumes via STS transfers and dark transits. Analysts at Arrow and Vortexa point to Asian buyers returning to Gulf crude and growing vessel availability.",
+          "title": "CENTCOM extends Iran blockade to ship-to-ship receivers",
+          "summary": "A CENTCOM advisory issued Nov 18 says vessels taking cargo at sea from ships that loaded in Iran may be treated as blockade runners and can be stopped, boarded or diverted. The blockade was first imposed Apr 13, lifted in June and reimposed Jul 14; Iranian crude exports have been close to zero for months, with some LPG and jet fuel moving since July.",
           "source": "gCaptain / Reuters",
-          "date": "2026-11-16",
-          "url": "https://gcaptain.com/supertanker-rates-plunge-more-than-60-from-record-highs/"
+          "date": "2026-11-18",
+          "url": "https://gcaptain.com/u-s-targets-ship-to-ship-transfers-in-expanded-iran-maritime-blockade/"
         },
         {
-          "title": "Fewer empty tankers heading into the Gulf, tracker says",
-          "summary": "Tankertrackers.com estimates combined VLCC and Suezmax ballast capacity sailing to the Gulf is down about 40% since end-August, with some owners refusing Hormuz and loading in the Gulf of Oman from shuttle ships. Regional flows have dipped in November, but the tracker says the cause and scale are not yet clear.",
+          "title": "Suezmaxes and Aframaxes carry 2m b/d through Hormuz",
+          "summary": "Vortexa data show Suezmaxes and Aframaxes moved more than 2 million b/d through Hormuz in October, the highest since the conflict began, as total Gulf exports reached 11.4 million b/d. BRS says VLCCs still made 72% of transits; Gulf–China Suezmax rates are running at roughly one-third to just under half the VLCC benchmark.",
           "source": "gCaptain / Bloomberg",
+          "date": "2026-11-18",
+          "url": "https://gcaptain.com/smaller-tankers-join-hormuz-shuttle-trade-to-keep-oil-flowing/"
+        },
+        {
+          "title": "Crude tanker rates retreat as Saudi East-West line restarts",
+          "summary": "Breakwave reports crude freight well below October highs. The Saudi East-West pipeline has resumed, more VLCCs are ballasting east, and VLCCs are again competitive with Suezmaxes out of West Africa; the IEA projects Q4 supply above demand.",
+          "source": "Breakwave Advisors",
           "date": "2026-11-17",
-          "url": "https://gcaptain.com/gulf-oil-flow-at-risk-from-lack-of-empty-tankers-tracker-says/"
+          "url": "https://www.breakwaveadvisors.com/insights/11172026wetreportjj876-oo9"
         }
       ]
     },
@@ -59,11 +45,25 @@
       "name": "Shipping, Ports & Security",
       "items": [
         {
-          "title": "LPG tanker Tara Gas struck twice near Khasab; one crew missing",
-          "summary": "UKMTO reported an attack about 7 nm north of Khasab at 1900 UTC on Nov 16 that disabled the Panama-flagged ship and started an engine-room fire, followed by a second strike. India says 24 of 25 crew are accounted for, two hospitalized and one missing; a separate outbound tanker was also hit on Nov 16 with no casualties. Responsibility has not been independently established.",
+          "title": "Abandoned LPG tanker Tara Gas still burning off Oman",
+          "summary": "The Panama-flagged Tara Gas, hit near Khasab on Nov 16 and again on Nov 17, was abandoned; Oman rescued 24 of 25 crew and one Indian seafarer is missing. A NAVAREA IX warning at 1500 UTC Nov 18 placed the burning ship about 5.7 nm off Khawr Ghub Ali, drifting southeast.",
           "source": "gCaptain",
-          "date": "2026-11-17",
-          "url": "https://gcaptain.com/second-strike-on-lpg-tanker-in-strait-of-hormuz-leaves-one-missing-two-injured/"
+          "date": "2026-11-18",
+          "url": "https://gcaptain.com/tara-gas-burning-off-oman-as-another-tanker-attack-leaves-11-injured/"
+        },
+        {
+          "title": "ADNOC L&S tanker attacked; 11 injured, one missing",
+          "summary": "ADNOC Logistics & Services reported an attack on one of its vessels on the evening of Nov 17 that injured 11 crew, with one missing. Vanguard Tech identified the ship as the product tanker Navig8 Messi; ADNOC has not named it, so the identity is unconfirmed. UKMTO logged three attacks in the Gulf and off Oman in two days.",
+          "source": "gCaptain",
+          "date": "2026-11-18",
+          "url": "https://gcaptain.com/tara-gas-burning-off-oman-as-another-tanker-attack-leaves-11-injured/"
+        },
+        {
+          "title": "US LNG cargoes turn from Egypt toward Europe",
+          "summary": "Kpler and Bloomberg tracking show at least two US LNG carriers left Egypt-bound routes and two more laden with US cargo turned north to Europe since last week, including Al Qassar and Amaryllis Knutsen (U-turn near Egypt). Greenergy Wind turned south toward the Cape, heading for Asia.",
+          "source": "gCaptain / Bloomberg",
+          "date": "2026-11-18",
+          "url": "https://gcaptain.com/more-u-s-lng-cargoes-divert-to-europe-in-relief-for-tight-market/"
         },
         {
           "title": "Coast Guard sets New Orleans safety zone through Dec 11",
@@ -73,39 +73,11 @@
           "url": "https://gcaptain.com/coast-guard-restricts-mississippi-river-traffic-for-monthlong-cruise-ship-salvage/"
         },
         {
-          "title": "Houston Ship Channel pilot indicted over 2024 collision",
-          "summary": "A federal grand jury on Nov 10 charged the pilot of the bulker Yangze 7 with misconduct or neglect over the July 19, 2024 collision that sank the tug Miss Peggy near Lynchburg and killed a crew member. The NTSB had found a 39-minute personal phone call ending about two minutes before impact; first court appearance is Nov 25.",
-          "source": "KPRC Click2Houston",
-          "date": "2026-11-17",
-          "url": "https://www.click2houston.com/news/local/2026/11/17/ship-pilot-indicted-in-deadly-2024-houston-ship-channel-collision-after-ntsb-found-cellphone-distraction/"
-        },
-        {
           "title": "LA/Long Beach security workers could strike from Nov 21",
           "summary": "About 250 ILWU Local 26 members, who staff six terminals handling roughly 85% of Long Beach and 33% of LA cargo per PMA, may walk out at 12:01 a.m. Saturday when their extension expires. Talks resume Friday; the coastwide dockworker contract runs to 2028.",
           "source": "gCaptain",
           "date": "2026-11-18",
           "url": "https://gcaptain.com/strike-threat-looms-at-ports-of-los-angeles-and-long-beach-as-labor-talks-stall/"
-        },
-        {
-          "title": "DHL: Suez return will not quickly clear container congestion",
-          "summary": "DHL estimates about 3.6m TEU, over 10% of the container fleet, is tied up in port congestion, with some Gulf gateways seeing berth delays above two weeks. About 60% of Asia–Europe headhaul services plan to use Suez, and the transition may take 6–12 months if security holds.",
-          "source": "gCaptain",
-          "date": "2026-11-16",
-          "url": "https://gcaptain.com/suez-canal-return-wont-resolve-global-shipping-congestion-dhl-warns/"
-        },
-        {
-          "title": "Kerch Bridge span reportedly blocks Azov–Black Sea channel",
-          "summary": "Ukrainian officials say strikes on Nov 15–17 dropped a road span into the main navigable channel of the Kerch Strait, which would halt large-vessel traffic between the Sea of Azov and the Black Sea. The damage claims have not been independently confirmed; Russia says the bridge will be rebuilt.",
-          "source": "The War Zone",
-          "date": "2026-11-17",
-          "url": "https://www.twz.com/news-features/what-we-know-about-ukraines-strikes-that-cut-russias-kerch-bridge-road-vehicle-span"
-        },
-        {
-          "title": "Panama Canal raises Neopanamax draft to 50 ft",
-          "summary": "An ACP advisory raises daily slots from 33 to 34 (24 Panamax, 10 Neopanamax) and lifts maximum Neopanamax draft to 15.24 m (50 ft) from 49 ft in October, as water levels improve.",
-          "source": "gCaptain",
-          "date": "2026-11-11",
-          "url": "https://gcaptain.com/panama-canal-raises-daily-transit-capacity-as-water-conditions-improve/"
         }
       ]
     },
@@ -113,46 +85,32 @@
       "name": "World",
       "items": [
         {
-          "title": "Iran strikes at Bahrain again; US hits missile site on Qeshm",
-          "summary": "Iran launched drones at a US radar site in Bahrain on Nov 17, its third attack in five days; Bahrain says they were intercepted and the US reports no damage. A US official said a US jet then struck a Revolutionary Guard launch site on Qeshm Island (not independently confirmed). Qatar warned the escalation endangers mediation.",
-          "source": "AP via KPBS",
+          "title": "Trump, Xi and Putin meet in Shenzhen at APEC",
+          "summary": "Trump held separate bilaterals with Xi (about an hour; their third meeting this year) and Putin on Nov 19 before a three-way session. Reuters reports the leaders agreed a 'peace declaration' reaffirming that nuclear war must never be fought, according to China and Russia; no outcomes on Ukraine, Iran or trade had been confirmed at time of writing. The US–China trade truce expires Jan 10.",
+          "source": "Al Jazeera / Reuters / CBS",
+          "date": "2026-11-19",
+          "url": "https://www.aljazeera.com/news/2026/11/19/trump-meets-putin-and-xi-ahead-of-us-russia-china-trilateral-talks"
+        },
+        {
+          "title": "Nvidia Q3 revenue $115.8bn, guides $130bn for Q4",
+          "summary": "Nvidia reported quarterly revenue of $115.8bn (+103% y/y), EPS $2.68 and net income $65.3bn, all ahead of estimates, with data-center sales of $107.6bn. It guided Q4 to $130bn ±3% and raised its FY28 growth outlook to 75%. The board said former CEO Jensen Huang, who resigned Nov 12, will not return; Colette Kress is interim CEO.",
+          "source": "Fox Business",
           "date": "2026-11-17",
-          "url": "https://www.kpbs.org/news/international/2026/11/17/iran-launches-a-third-round-of-strikes-on-bahrain-host-of-u-s-navys-5th-fleet"
+          "url": "https://www.foxbusiness.com/markets/nvidia-releases-quarterly-earnings-after-jensen-huangs-resignation-ceo.amp"
         },
         {
-          "title": "Ukraine says it cut Kerch Bridge; Russia reports 1,441 drones downed",
-          "summary": "Ukraine's military says a road span of the Crimea bridge collapsed; AP could not verify this. Russia reported shooting down 1,441 Ukrainian drones, about 800 aimed at the Moscow region, while Russian missiles hit two Kyiv bridges, killing at least two. The UK pledged £240m for Ukrainian air defense.",
-          "source": "PBS NewsHour / AP",
-          "date": "2026-11-17",
-          "url": "https://www.pbs.org/newshour/world/the-symbol-of-the-occupation-ukraine-destroys-span-of-kerch-bridge-linking-russia-with-crimea"
+          "title": "Brent near $92 as tanker attacks offset supply outlook",
+          "summary": "Brent traded around $92.01/bbl and WTI $83.00 early Nov 19. Vortexa says Iran has designated more than half of the tankers Gulf states use for STS transfers to the Gulf of Oman, without a drop in volumes so far; ING expects supply to ease on OPEC+, Russian exports and US stocks. The Fed has signaled a possible hike at its December meeting.",
+          "source": "OilPrice.com",
+          "date": "2026-11-19",
+          "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Steady-as-Hormuz-Tanker-Threats-Offset-Supply-Glut-Fears.html"
         },
         {
-          "title": "Trump arrives in Shenzhen; Trump–Xi–Putin meeting set for Thursday",
-          "summary": "Xi met Trump on arrival for APEC, and the first three-way meeting with Putin is scheduled for Nov 19. Trump says he will raise Ukraine and nuclear arms limits; analysts expect no breakthroughs. Earlier, he announced a trade deal with the Philippines, with few details released.",
-          "source": "AP via KUOW",
-          "date": "2026-11-18",
-          "url": "https://www.kuow.org/npr-news/2026-11-18/trump-lands-in-china-with-key-meetings-with-xi-and-putin-on-the-agenda"
-        },
-        {
-          "title": "Dow drops 849 points; Fed's Musalem calls for rate hikes",
-          "summary": "The Dow closed at 50,759.42 (−1.64%) on Nov 17, with the S&P 500 down about 1%. St. Louis Fed President Musalem said 100–150 bp of hikes may be needed by spring 2027. October retail sales rose 0.2%; Nvidia reported Q3 revenue of $115.8bn, up 103% y/y.",
-          "source": "Yahoo Finance",
-          "date": "2026-11-17",
-          "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-17-dow-sp-500-nasdaq-nvidia-earnings-091546152.html"
-        },
-        {
-          "title": "COP31 draft text divides negotiators",
-          "summary": "Australia's 18-page draft calls for a fossil-fuel phaseout and net zero for wealthy nations by 2030; the EU's Wopke Hoekstra said it could make talks untenable. Talks in Antalya are scheduled to end Nov 20, and another draft is expected before then.",
-          "source": "Al Jazeera / AFP",
-          "date": "2026-11-17",
-          "url": "https://www.aljazeera.com/news/2026/11/17/tensions-rise-over-draft-climate-deal-at-cop31"
-        },
-        {
-          "title": "Board of Peace warns Gaza ceasefire at risk",
-          "summary": "In a report to the UN Security Council, the US-backed board said the truce in place since Oct 10, 2025 could collapse without immediate implementation, citing shortfalls by both Israel and Hamas, aid restrictions and funding gaps ahead of winter.",
-          "source": "Al Jazeera / AP",
-          "date": "2026-11-18",
-          "url": "https://www.aljazeera.com/news/2026/11/18/board-of-peace-warns-gaza-ceasefire-faces-imminent-collapse-without-action"
+          "title": "COP31 draft keeps fossil-fuel wording open ahead of Friday deadline",
+          "summary": "The 18-page draft text in Antalya offers both the 2023 'transitioning away' language and a stronger 'phase out', and either could be dropped. Disputes remain over Turkey's proposal to raise electricity to 35% of global energy by 2035 and over adaptation finance; the official deadline is Friday, Nov 20.",
+          "source": "Al-Monitor / Reuters",
+          "date": "2026-11-16",
+          "url": "https://www.al-monitor.com/originals/2026/11/first-draft-cop31-deal-signals-tough-negotiations-come"
         }
       ]
     },
@@ -160,39 +118,32 @@
       "name": "Sports",
       "items": [
         {
-          "title": "Texans (3–6) host Colts Thursday, 7:15 PM CT",
-          "summary": "Houston lost 27–24 at Cleveland on Nov 15 after leading 17–0 and is 2nd in the AFC South (Jaguars 7–2, Colts 3–7, Titans 1–8). Colts at Texans is Thu Nov 19, 7:15 PM CT on Prime Video; Houston is a 9.5-point favorite. Official game statuses had not been released at last check.",
-          "source": "FOX 26 Houston / SI",
-          "date": "2026-11-16",
+          "title": "Texans (3–6) host Colts tonight, 7:15 PM CT",
+          "summary": "Houston plays Indianapolis at home on Thursday Night Football on Nov 19, kickoff 7:15 PM CT. Result will appear in the next update.",
+          "source": "Sports Illustrated",
+          "date": "2026-11-19",
           "url": "https://www.si.com/betting/colts-vs-texans-prediction-odds-spread-injuries-trends-for-nfl-week-11-2026"
         },
         {
-          "title": "Broncos (7–2) host Raiders Sunday, 3:25 PM CT",
-          "summary": "Coming off a Week 10 bye after a 26–21 win at Carolina on Nov 8 (five straight wins), Denver is tied with Kansas City at 7–2 atop the AFC West and won the only meeting 28–24 on Nov 1. Raiders (4–6) at Broncos is Sun Nov 22, 3:25 PM CT on CBS.",
-          "source": "Fox Sports",
-          "date": "2026-11-18",
+          "title": "Broncos (7–2) host Raiders (4–6) Sunday, 3:25 PM CT",
+          "summary": "Denver hosts Las Vegas on Sunday, Nov 22, at 3:25 PM CT on CBS, favored by 10 (total 40.5). Bo Nix has 1,730 passing yards, 11 TD and 4 INT; for the Raiders, Brock Bowers (ankle) is expected to play without needing practice.",
+          "source": "FOX Sports",
+          "date": "2026-11-19",
           "url": "https://www.foxsports.com/nfl/week-11-las-vegas-raiders-vs-denver-broncos-nov-22-2026-game-boxscore-11281"
         },
         {
-          "title": "ATP Finals: Alcaraz beats Medvedev, nears semifinals",
-          "summary": "Alcaraz won 6–2, 6–4 in 72 minutes on Nov 18 to go 2–0 in the Lendl Group; he had treatment on his upper left leg in the second set. He qualifies if Tiafoe takes a set from Cobolli tonight, and plays Cobolli on Friday. Medvedev is 1–1.",
+          "title": "ATP Finals: Alcaraz into semis; Tiafoe beats Cobolli",
+          "summary": "On Nov 18 in Turin, Alcaraz defeated Medvedev 6-2 6-4 to clinch a semifinal place from the Lendl Group, and Tiafoe earned his first Finals win, 7-6(6) 6-0 over Cobolli. In doubles, Krawietz/Puetz also qualified for the semifinals.",
           "source": "ATP Tour",
           "date": "2026-11-18",
-          "url": "https://www.atptour.com/en/news/alcaraz-medvedev-nitto-atp-finals-2026-wednesday"
+          "url": "https://www.atptour.com/en/news/nitto-atp-finals-2026-results"
         },
         {
-          "title": "ATP Finals: Zverev into semifinals; Fils beats Jodar",
-          "summary": "On Nov 17 Zverev beat Shelton 6–2, 7–6(4) to go 2–0 and qualify from the McEnroe Group; Fils, now a career-high No. 7, beat Jodar 4–6, 6–2, 6–2 and plays Zverev Thursday. Fils and Shelton are 1–1, Jodar 0–2.",
-          "source": "ATP Tour",
-          "date": "2026-11-17",
-          "url": "https://www.atptour.com/en/news/fils-jodar-nitto-atp-finals-2026-tuesday"
-        },
-        {
-          "title": "Andreeva wins WTA Finals unbeaten; rises to No. 2",
-          "summary": "Mirra Andreeva beat Elina Svitolina 7–5, 6–3 in the Nov 15 final, winning all five matches without dropping a set, and moves to world No. 2. Siniakova/Townsend won the doubles title over Errani/Paolini.",
-          "source": "TimesLIVE / Reuters",
-          "date": "2026-11-16",
-          "url": "https://www.timeslive.co.za/sport/2026-11-16-unbeaten-mirra-andreeva-captures-wta-finals-crown-on-debut/"
+          "title": "ATP Finals: last round-robin matches Thu–Fri",
+          "summary": "Thursday's singles schedule in Turin is Shelton vs Jodar and Zverev vs Fils; Friday has Alcaraz vs Cobolli and Medvedev vs Tiafoe. The event runs through Sunday, Nov 22.",
+          "source": "Flashscore",
+          "date": "2026-11-19",
+          "url": "https://www.flashscore.com/tennis/atp-singles/finals-turin/"
         }
       ]
     }
