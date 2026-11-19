@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T12:50:55-06:00",
+  "updated": "2026-11-19T17:59:34-06:00",
   "sections": [
     {
       "name": "Tankers & Chemicals",
@@ -96,6 +96,53 @@
       ]
     },
     {
+      "name": "Markets",
+      "items": [
+        {
+          "title": "Wall Street falls for a sixth session: S&P 500 −2.02%",
+          "summary": "At the Nov 19 close the S&P 500 was 7,175.83 (−147.80, −2.02%), the Dow 49,097.06 (−1,101.11, −2.19%) and the Nasdaq Composite 23,879.20 (−550.69, −2.25%). Early gains reversed as talk of further Fed rate hikes and valuation concerns spread selling across nearly all sectors; energy and staples were the only sectors up, and the VIX rose 13.8% to 27.98.",
+          "source": "Yahoo Finance / Motley Fool",
+          "date": "2026-11-19",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
+        },
+        {
+          "title": "Brent settles at $91.95, WTI at $83.26 after EIA builds",
+          "summary": "On Nov 18 Brent January futures settled at $91.95 (−$1.19, −1.28%) and WTI at $83.26 (−$2.75, −3.2%), WTI's lowest close since Aug 26. EIA data for the week to Nov 13 showed crude stocks up 3.4m bbl to 417.8m bbl (poll: about +58,000) and gasoline up 5.2m bbl; Brent was little changed in Asian trade on Nov 19. OPEC+ ministers meet Nov 29 to set 2027 output.",
+          "source": "FinanceFeeds / Reuters / EIA",
+          "date": "2026-11-19",
+          "url": "https://financefeeds.com/brent-crude-oil-price-92-12-thursday-eia-build-hormuz-mines-bull-96-bear-88/"
+        },
+        {
+          "title": "10-year yield near 5.05%; markets price a December hike",
+          "summary": "The 10-year Treasury yield was about 5.05% on Nov 19, a fourth straight daily decline from one-month highs near 5.13% earlier in the week. Minutes of the Oct 27–28 FOMC meeting showed nearly all officials expected further increases, and CME FedWatch showed roughly 90% odds of a 25bp hike next month and 10% for 50bp.",
+          "source": "Trading Economics",
+          "date": "2026-11-19",
+          "url": "https://tradingeconomics.com/united-states/government-bond-yield/news/601580"
+        },
+        {
+          "title": "Anthropic opens 34% above IPO price on Nasdaq",
+          "summary": "Anthropic (ANT) priced its IPO at $83, opened at $111.50 on Nov 19 and closed at $97.17, up 17.1% from the offer price. Vanda Research said retail investors sold other AI names to buy the new shares; AMD fell about 7.7% after Hunterbrook disclosed a short position.",
+          "source": "Yahoo Finance",
+          "date": "2026-11-19",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
+        },
+        {
+          "title": "Nvidia Q3 revenue $115.8bn, guides $130bn",
+          "summary": "Nvidia reported fiscal Q3 2027 revenue of $115.8bn, up 20% q/q and 103% y/y, with data center revenue of $107.6bn and GAAP EPS of $2.70. It guided Q4 revenue to $130.0bn ±3%, assuming no China data-center compute sales; the shares fell 3.3% on Nov 19 amid the broader sell-off.",
+          "source": "NVIDIA",
+          "date": "2026-11-17",
+          "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Third-Quarter-Fiscal-2027/default.aspx"
+        },
+        {
+          "title": "Movers: Palo Alto +6.4%, Insmed +20.6%, UnitedHealth lower",
+          "summary": "Palo Alto Networks gained 6.4% on Nov 19 after an earnings beat and a $4.5bn acquisition, and Insmed rose 20.6% on reports Sanofi is weighing a bid. Industrials were the weakest sector at −2.61%; gold fell about 2.1% to roughly $3,664/oz.",
+          "source": "Motley Fool",
+          "date": "2026-11-19",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/11/19/stock-market-today-nov-19-dow-plunges-1-100-points-as-the-s-and-p-500-suffers-its-6th-straight-day-of-losses/"
+        }
+      ]
+    },
+    {
       "name": "World",
       "items": [
         {
@@ -153,18 +200,18 @@
           "url": "https://www.denverbroncos.com/news/injuryreport/injury-report-wr-jaylen-waddle-s-talanoa-hufanga-among-full-practice-participants-as-broncos-prepare-for-week-11-game-vs-raiders"
         },
         {
-          "title": "ATP Finals: Shelton beats Jodar 7-6(8) 7-5",
-          "summary": "Shelton finished round-robin play 2–1 in the McEnroe Group on Nov 19. Zverev (2–0) is through as group winner; Fils needs a straight-sets win over Zverev tonight to take the second spot, otherwise Shelton advances to face Alcaraz in Saturday's semifinal.",
-          "source": "Tennis Majors",
+          "title": "ATP Finals: Zverev 3–0, Shelton also into semis",
+          "summary": "On Nov 19 Zverev beat Fils 6-4 7-6(6) to finish the McEnroe Group unbeaten, and Shelton beat Jodar 7-6(8) 7-5 to finish 2–1 and reach the semifinals for the first time. Shelton meets Lendl Group winner Alcaraz on Saturday; Tiafoe plays Medvedev on Friday with the second Lendl Group spot still open.",
+          "source": "ATP Tour",
           "date": "2026-11-19",
-          "url": "https://www.tennismajors.com/atp/nitto-atp-finals-atp/ill-be-watching-arthur-shelton-edges-jodar-and-leaves-fils-needing-a-straight-sets-win-over-zverev-867320.html"
+          "url": "https://www.atptour.com/en/news/nitto-atp-finals-2026-results"
         },
         {
           "title": "ATP Finals: Alcaraz tops Lendl Group; Tiafoe gets first win",
-          "summary": "On Nov 18 Alcaraz beat Medvedev 6-2 6-4 to secure first place in the Lendl Group, and Tiafoe defeated Cobolli 7-6(6) 6-0. Krawietz/Puetz qualified for the doubles semifinals; the event ends Sunday, Nov 22.",
+          "summary": "On Nov 18 Alcaraz beat Medvedev to secure first place in the Lendl Group, and Tiafoe defeated Cobolli 7-6(6) 6-0. In doubles on Nov 19, Arribage/Olivetti beat top seeds Heliovaara/Patten and Arevalo/Pavic beat Luz/Matos; the event ends Sunday, Nov 22.",
           "source": "ATP Tour",
           "date": "2026-11-18",
-          "url": "https://www.atptour.com/en/news/nitto-atp-finals-2026-results"
+          "url": "https://www.atptour.com/en/news/cobolli-tiafoe-nitto-atp-finals-2026-wednesday"
         }
       ]
     }
