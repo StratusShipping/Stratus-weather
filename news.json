@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T05:58:51-06:00",
+  "updated": "2026-11-20T12:55:56-06:00",
   "sections": [
     {
       "name": "Tankers & Chemicals",
@@ -10,6 +10,20 @@
           "source": "Inderes / Hafnia",
           "date": "2026-11-18",
           "url": "https://www.inderes.dk/en/analyst-comments/hafnia-solid-q3-2026-and-plans-to-distribute-torm-shares-as-an-extraordinary-dividend"
+        },
+        {
+          "title": "Clean tanker spot earnings slip 4.8% on the week",
+          "summary": "Makai Marine's Week 47 report puts clean spot earnings down 4.8% week on week and 13.4% below the late-October peak, with Atlantic MRs accounting for most of the decline as softer US Gulf arbitrage and ballaster incentives loosened balances. LRs eased 2.1%, Pacific MRs held steady and Handies were the only size to gain.",
+          "source": "Makai Marine",
+          "date": "2026-11-19",
+          "url": "https://makaimarine.substack.com/p/weekly-product-tanker-report-week-add"
+        },
+        {
+          "title": "Middle East MR rates down w125 as Hormuz transits slow",
+          "summary": "Platts assessed the benchmark Middle East MR route w125 lower on Nov 18; Vitol put Torm Stellar on subjects at w500 for a Nov 25 Duqm–East Africa diesel cargo. S&P Global data show daily Hormuz transits at 14 on Nov 9 versus 32 at end-October, and the PG–North Asia LR1 benchmark has not risen day on day for almost a month.",
+          "source": "IndexBox / S&P Global",
+          "date": "2026-11-19",
+          "url": "https://www.indexbox.io/blog/asia-pacific-medium-range-tanker-freight-rates-fall-as-hormuz-transits-slow/"
         },
         {
           "title": "Hanwha Philly cuts steel on first of four Jones Act MRs",
@@ -33,18 +47,11 @@
           "url": "https://gcaptain.com/court-ruling-threatens-license-for-2-1-billion-texas-offshore-oil-export-project/"
         },
         {
-          "title": "Traders seek 2027 term crude from QatarEnergy",
-          "summary": "Major trading houses held talks with QatarEnergy this month on yearlong 2027 supplies of Qatar Marine and Land, according to Bloomberg sources. The discussions have moved slowly because of Hormuz shipping risks; QatarEnergy did not comment.",
-          "source": "gCaptain / Bloomberg",
-          "date": "2026-11-19",
-          "url": "https://gcaptain.com/oil-traders-in-talks-with-qatarenergy-for-long-term-supplies/"
-        },
-        {
-          "title": "Nine shipping groups urge IMO to agree global GHG rules",
-          "summary": "BIMCO, ICS, INTERTANKO, INTERCARGO, WSC and four other associations restated support for net zero around 2050 but did not explicitly back the postponed Net-Zero Framework. An IMO working group meets Nov 23–27, MEPC 85 runs Nov 30–Dec 3, and the paused extraordinary session could resume Dec 4.",
+          "title": "IMO tallies $10.5bn in maritime climate finance for 2018–2023",
+          "summary": "An IMO study released Nov 19 found $10.5bn of direct maritime climate finance over six years, about 0.14% of global climate finance, rising to $4.7bn in 2023. Ports took 39% and alternative fuels 24%; the report puts shipping's decarbonisation capital need at $1.2–1.6 trillion by 2050, ahead of the Nov 23–27 GHG working group and MEPC 85.",
           "source": "gCaptain",
-          "date": "2026-11-18",
-          "url": "https://gcaptain.com/shipping-industry-presses-for-global-imo-climate-deal-as-divisions-over-rules-persist/"
+          "date": "2026-11-20",
+          "url": "https://gcaptain.com/imo-finds-just-10-5-billion-in-maritime-climate-finance/"
         }
       ]
     },
@@ -52,11 +59,25 @@
       "name": "Shipping, Ports & Security",
       "items": [
         {
-          "title": "Hormuz oil flows ease to about 10m b/d as attacks continue",
-          "summary": "UKMTO counts roughly one attack a day in November, about 14 incidents in Hormuz, with at least two seafarers missing this week. Kpler's provisional 7-day average of Hormuz oil transits plus Gulf of Oman STS fell to about 10m b/d by Nov 10 from 13.4m at the start of the month; Kuwait has told the IMO eight of its tankers were attacked in recent weeks.",
-          "source": "gCaptain / Bloomberg",
-          "date": "2026-11-19",
-          "url": "https://gcaptain.com/iran-intensifies-hormuz-tanker-attacks-just-as-oil-prices-slide/"
+          "title": "Tanker struck 8 nm north of Khasab; Hormuz traffic about 65% below normal",
+          "summary": "An outbound tanker was hit by a projectile on its port bow around 1500 UTC Friday, causing a fire but no reported casualties (UKMTO Warning 214-26). UKMTO's weekly count shows 115 outbound and 148 inbound transits, down from 139 and 169 the week before; NAVIG8 MESSI, struck Nov 17, is under tow with one crew missing and 11 injured, per ADNOC.",
+          "source": "gCaptain",
+          "date": "2026-11-20",
+          "url": "https://gcaptain.com/another-tanker-hit-in-strait-of-hormuz-as-maritime-attacks-surge-worldwide/"
+        },
+        {
+          "title": "Houthis tell ships to leave Saudi Red Sea ports after Hodeidah strikes",
+          "summary": "The Saudi-led coalition said it struck Hodeidah port on Friday; Yemen's information minister says the port is still operating. Houthi spokesman Yahya Saree told shipping companies to move vessels out of Saudi Red Sea ports and warned airlines away from Saudi airspace.",
+          "source": "gCaptain / Reuters",
+          "date": "2026-11-20",
+          "url": "https://gcaptain.com/houthis-order-ships-to-leave-saudi-red-sea-ports-after-hodeidah-airstrikes/"
+        },
+        {
+          "title": "Two ships sink in Bulgaria's Black Sea EEZ; all 31 crew rescued",
+          "summary": "The general cargo ship BETUL 8 sank on Nov 16 and the LPG tanker GAS HUSKY on Nov 17, both inside Bulgaria's exclusive economic zone. Ambrey counts six vessels struck in the Black Sea since Nov 13; causes were not detailed in the report.",
+          "source": "gCaptain",
+          "date": "2026-11-20",
+          "url": "https://gcaptain.com/another-tanker-hit-in-strait-of-hormuz-as-maritime-attacks-surge-worldwide/"
         },
         {
           "title": "LPG carrier TARA GAS still burning and adrift off Oman",
@@ -64,13 +85,6 @@
           "source": "gCaptain",
           "date": "2026-11-18",
           "url": "https://gcaptain.com/tara-gas-burning-off-oman-as-another-tanker-attack-leaves-11-injured/"
-        },
-        {
-          "title": "On Phoenix and Al Dhannah struck; IRGC mine claims unverified",
-          "summary": "Crude tanker On Phoenix (114,623 dwt) had an engine-room fire after a strike about 3 nm off Oman on Nov 16, and Al Dhannah was hit in its steering-gear room and turned back to Dubai; crews were reported safe. The IRGC's claims that tankers hit mines on the southern route and that a vessel sank have not been verified.",
-          "source": "Riviera Maritime Media",
-          "date": "2026-11-17",
-          "url": "https://www.rivieramm.com/news-content-hub/tanker-hit-off-oman-as-attacks-and-mine-claims-in-and-around-strait-of-hormuz-continue-90591"
         },
         {
           "title": "Houston pilot indicted over 2024 Ship Channel collision",
@@ -87,11 +101,11 @@
           "url": "https://gcaptain.com/strike-threat-looms-at-ports-of-los-angeles-and-long-beach-as-labor-talks-stall/"
         },
         {
-          "title": "More US LNG cargoes turn toward Europe",
-          "summary": "Kpler and Bloomberg tracking shows at least two US LNG carriers (Al Qassar, Amaryllis Knutsen) diverted away from Egypt and two others turned north toward Europe instead of Asia in the past week. European gas futures reached a near four-year high last month.",
-          "source": "gCaptain / Bloomberg",
-          "date": "2026-11-18",
-          "url": "https://gcaptain.com/more-u-s-lng-cargoes-divert-to-europe-in-relief-for-tight-market/"
+          "title": "Bulker MIRO G grounds on French Atlantic coast",
+          "summary": "The Maltese-flag Handysize MIRO G (28,200 dwt), in ballast for Rouen to load wheat for Libya, dragged anchor in 48-knot gusts and grounded near Lit-et-Mixe shortly after midnight Friday. A military helicopter lifted 19 of 22 crew; more than 100 t of diesel is aboard and no pollution had been detected.",
+          "source": "gCaptain",
+          "date": "2026-11-20",
+          "url": "https://gcaptain.com/crew-airlifted-after-bulk-carrier-grounds-on-french-coast/"
         }
       ]
     },
@@ -106,6 +120,13 @@
           "url": "https://abcnews.com/Business/wireStory/major-us-stock-indexes-fared-thursday-11192026-138303454"
         },
         {
+          "title": "Friday midday: S&P 500 −1.4%, Nasdaq −2.5% as chip stocks fall",
+          "summary": "As of 11:08 a.m. ET on Nov 20, the S&P 500 was down 1.4% (on track for a seventh straight loss), the Nasdaq 2.5% and the Dow 18 points. Nvidia was off 6%, AMD 9.4% and Broadcom 9.2%; Anthropic traded at $86.83, below Thursday's close but above its $83 IPO price. These are intraday figures, not closes.",
+          "source": "AP via VINnews",
+          "date": "2026-11-20",
+          "url": "https://vinnews.com/2026/11/20/us-stocks-tumble-and-the-sp-500-drops-10-below-its-record-set-last-month-as-the-sell-off-for-ai-stocks-accelerates/"
+        },
+        {
           "title": "Brent settles at $91.98, WTI at $83.21 (Nov 19)",
           "summary": "Brent finished +0.03% at $91.98 and WTI −0.06% at $83.21, WTI's lowest since Aug 26, as Hormuz tanker reports offset surplus concerns. Gold fell 3.04% to $3,628.30 on a firmer dollar. A Nov 19 Henry Hub settlement was not available in the sources reviewed.",
           "source": "CappNotes closing recap",
@@ -113,32 +134,32 @@
           "url": "https://cappnotes.substack.com/p/closing-look-thursday-november-19"
         },
         {
-          "title": "10-year yield 5.04%; futures price a December Fed hike",
-          "summary": "The 10-year Treasury yield eased 3 bp to 5.04% and the 2-year 4 bp to 4.76% on Nov 19. CME FedWatch showed a 96.4% probability of a 25 bp hike at the Dec 9 FOMC; the dollar index rose 0.1% to 103.88, near a 19-month high, with USD/JPY at 159.615 and the peso weaker after Banxico minutes.",
-          "source": "CappNotes closing recap",
-          "date": "2026-11-19",
-          "url": "https://cappnotes.substack.com/p/closing-look-thursday-november-19"
+          "title": "10-year yield eases to 4.95% Friday; December hike still priced",
+          "summary": "AP put the 10-year Treasury yield at 4.95% late Friday morning, from 5.04% late Thursday, as investors moved toward bonds. Reuters reported CME FedWatch showing a quarter-point hike at the December FOMC as essentially fully priced; the dollar index was 103.86 in Asian trade.",
+          "source": "AP via VINnews / Reuters",
+          "date": "2026-11-20",
+          "url": "https://vinnews.com/2026/11/20/us-stocks-tumble-and-the-sp-500-drops-10-below-its-record-set-last-month-as-the-sell-off-for-ai-stocks-accelerates/"
         },
         {
-          "title": "Philly Fed index drops to 6.3; jobless claims 203,000",
-          "summary": "The Philadelphia Fed manufacturing index fell to 6.3 in November from 20.9, its lowest since May and below the 18 consensus. Initial jobless claims rose 1,000 to 203,000 for the week to Nov 14.",
+          "title": "Michigan sentiment 51.5; Philly Fed falls to 6.3",
+          "summary": "The University of Michigan consumer sentiment index rose to 51.5 in November from 48.0 in October (released Nov 20). On Nov 19 the Philadelphia Fed manufacturing index dropped to 6.3 from 20.9 and initial jobless claims were 203,000.",
           "source": "StockTitan",
-          "date": "2026-11-19",
-          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-19-2026"
+          "date": "2026-11-20",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-20-2026"
         },
         {
-          "title": "Anthropic closes first day at $97.17; Walmart raises outlook",
-          "summary": "Anthropic, priced at $83 in an offering of about 980m shares, opened at $111.50 and closed at $97.17, about 17% above the IPO price. Walmart reported Q3 revenue up 5.2% to $188.8bn and raised its outlook; Intuit fell after hours on Q2 guidance below estimates and agreed to sell Mailchimp for about $3.68bn.",
+          "title": "Asian stocks post worst week since March 2020",
+          "summary": "On Nov 20 MSCI's Asia-Pacific index fell 2.5%, leaving it down about 7% for the week. Japan's Nikkei lost 4.1% (6.8% for the week) and South Korea's KOSPI 4.7% (7.5% for the week), led by technology shares.",
+          "source": "Reuters via Yahoo Finance",
+          "date": "2026-11-20",
+          "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-head-worst-week-014854250.html"
+        },
+        {
+          "title": "Walmart raises outlook; Gap gains on Q3 sales",
+          "summary": "Walmart reported Q3 revenue up 5.2% to $188.8bn on Nov 19 and raised its outlook. On Friday Gap shares were up about 14.6% by late morning after Q3 net sales of $4.0bn, up 2%.",
           "source": "StockTitan",
-          "date": "2026-11-19",
-          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-19-2026"
-        },
-        {
-          "title": "Taiwan −4.4% while Japan and Korea gain; Europe lower",
-          "summary": "On Nov 19 Taiwan's TAIEX fell 4.40% to a seven-month low and Hong Kong's Hang Seng 1.95%, while the Nikkei rose 0.71% and the Kospi 1.39%. In Europe the STOXX 600 lost 0.88%, the FTSE 100 0.93% and the DAX 1.06%.",
-          "source": "CappNotes closing recap",
-          "date": "2026-11-19",
-          "url": "https://cappnotes.substack.com/p/closing-look-thursday-november-19"
+          "date": "2026-11-20",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-20-2026"
         }
       ]
     },
@@ -146,11 +167,46 @@
       "name": "World",
       "items": [
         {
-          "title": "Shenzhen summit ends with symbolic declaration, no major deal",
-          "summary": "The three-way talks between Presidents Trump, Xi and Putin concluded Nov 19 with a 'Declaration toward Peace' but no announced settlement on Ukraine or arms control. China's readout says Xi and Trump discussed strategic stability and AI risks.",
-          "source": "Shadow news briefing (citing BBC, Reuters)",
+          "title": "Russian strikes hit Kyiv; Poland reports airspace violation",
+          "summary": "Russia carried out overnight strikes on Kyiv and other regions, with Ukrainian officials reporting deaths and dozens injured; casualty figures differ between reports. Poland's defence minister said three objects, reportedly two missiles and a drone, entered Polish airspace overnight during allied exercises.",
+          "source": "Reuters (via Just Security)",
+          "date": "2026-11-20",
+          "url": "https://www.reuters.com/business/aerospace-defense/polish-army-investigates-report-unknown-objects-near-ukraine-border-2026-11-20/"
+        },
+        {
+          "title": "Trump joins Ukraine talks with European leaders and Zelensky",
+          "summary": "Trump sat in on a Nov 19 meeting led by Jared Kushner and Steve Witkoff with European leaders and President Zelensky and said Putin wants a deal. The WSJ reports US envoys have discussed NATO membership for Ukraine as one option if it cedes territory; this has not been confirmed officially.",
+          "source": "Axios (via Just Security)",
+          "date": "2026-11-20",
+          "url": "https://www.axios.com/2026/11/20/trump-pushes-putin-ukraine-war-deal"
+        },
+        {
+          "title": "Trump, Xi and Putin say a nuclear war cannot be won",
+          "summary": "After their trilateral meeting, the three leaders issued a joint statement committing to talks on reducing nuclear risk. Putin acknowledged the statement does not set ambitious targets.",
+          "source": "New York Times (via Just Security)",
           "date": "2026-11-19",
-          "url": "https://www.shadow.inc/resources/top-news-stories-today"
+          "url": "https://www.nytimes.com/2026/11/19/world/europe/trump-xi-putin-nuclear-weapons-ukraine.html"
+        },
+        {
+          "title": "Senate blocks Iran war powers measure, 51–48",
+          "summary": "Senate Republicans voted down a resolution that would have ended US involvement in the Iran war or required congressional approval; the House passed it in September. Trump told Axios he will not decide next steps on Iran until after the new year.",
+          "source": "New York Times (via Just Security)",
+          "date": "2026-11-19",
+          "url": "https://www.nytimes.com/2026/11/19/us/politics/senate-iran-war-powers-trump.html"
+        },
+        {
+          "title": "World Court finds Myanmar committed genocide against Rohingya",
+          "summary": "The International Court of Justice ruled 9–6 on Nov 19 that Myanmar committed genocide against the Rohingya. Myanmar rejected the ruling; the UK ordered the expulsion of Myanmar's defence attaché.",
+          "source": "AP (via Just Security)",
+          "date": "2026-11-19",
+          "url": "https://apnews.com/article/bangladesh-rohingya-myanmar-un-world-court-ruling-c76dcb3f97c1077262f87e0cba01bb78"
+        },
+        {
+          "title": "Senate passes bipartisan energy permitting bill",
+          "summary": "The bill shortens federal environmental review and litigation timelines for energy and infrastructure projects. Critics say it weakens environmental and tribal protections.",
+          "source": "Axios (via Just Security)",
+          "date": "2026-11-20",
+          "url": "https://www.axios.com/2026/11/20/senate-passes-energy-permitting-bill"
         },
         {
           "title": "Hungary expected to lift veto on Ukraine's last EU clusters",
@@ -158,27 +214,6 @@
           "source": "Euronews",
           "date": "2026-11-20",
           "url": "https://www.euronews.com/2026/11/20/hungary-to-drop-veto-on-ukraines-remaining-eu-accession-clusters"
-        },
-        {
-          "title": "Cyclone Akvan forecast to make landfall in Andhra Pradesh",
-          "summary": "India's weather office expected the very severe cyclonic storm to cross the Andhra Pradesh coast between Nellore and Tuni around midday Nov 20 with winds of 120–130 km/h, gusting to 145 km/h. Seven coastal districts were on red alert and evacuations had begun in Andhra Pradesh and Odisha.",
-          "source": "News24 / IMD",
-          "date": "2026-11-17",
-          "url": "https://news24online.com/india/cyclone-akvan-update-odisha-andhra-pradesh-on-alert-as-storm-set-to-turn-very-severe-landfall-likely-on-friday-heavy-rain-warning-issued/954163/"
-        },
-        {
-          "title": "COP31 in Türkiye draws to a close",
-          "summary": "The talks launched the second Global Stocktake; host Türkiye's '35 by 35' pledge aims to lift electricity's share of energy demand to 35% by 2035. More than 130 developing countries pressed for grant-based finance, while some oil and gas producers sought weaker fossil-fuel language in the draft text.",
-          "source": "Euronews",
-          "date": "2026-11-20",
-          "url": "https://www.euronews.com/2026/11/20/are-we-making-progress-on-climate-action-23-encouraging-signs-from-cop31"
-        },
-        {
-          "title": "IEA World Energy Outlook frames scenarios around Hormuz shock",
-          "summary": "The IEA's World Energy Outlook 2026, released Nov 19, sets out scenarios built around the Hormuz disruption and says its duration will determine the scale of change in energy markets. It warns the crisis threatens progress on electricity access and clean cooking.",
-          "source": "Shadow news briefing (citing IEA)",
-          "date": "2026-11-19",
-          "url": "https://www.shadow.inc/resources/top-news-stories-today"
         }
       ]
     },
