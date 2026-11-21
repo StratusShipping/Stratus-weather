@@ -1,9 +1,16 @@
 {
-  "updated": "2026-11-21T06:01:54-06:00",
+  "updated": "2026-11-21T12:49:06-06:00",
   "sections": [
     {
       "name": "Tankers & Chemicals",
       "items": [
+        {
+          "title": "Makai week 47: clean tanker spot earnings down 4.8% w/w, led by Atlantic MRs",
+          "summary": "Makai Research's Nov 19 product tanker report shows clean spot earnings down 4.8% week on week and 13.4% below the late-October peak. Atlantic MR earnings fell most while Pacific MRs held steady; LRs slipped 2.1% and Handies were the only class to gain, on Med/Med. On the dirty side, Suezmax and Aframax spot earnings are 71% and 56% below their mid-October peaks.",
+          "source": "Makai Research",
+          "date": "2026-11-19",
+          "url": "https://makaimarine.substack.com/p/weekly-product-tanker-report-week-add"
+        },
         {
           "title": "TORM board rejects Hafnia's all-share merger proposals",
           "summary": "TORM's board unanimously turned down Hafnia's conditional all-share proposals on Nov 18, saying they undervalued TORM and offered no real control premium; TORM puts its NAV at $39.60/share as of Sept 30 and guides 2026 TCE earnings of $1.75–1.90bn. Hafnia, which holds about 19.8% of TORM, expects to decide by Nov 25 whether to distribute those shares (one TORM share per 26.3 Hafnia shares) or pay a cash dividend.",
@@ -52,6 +59,13 @@
       "name": "Shipping, Ports & Security",
       "items": [
         {
+          "title": "UKMTO reports two more tankers hit near Khasab on Nov 21",
+          "summary": "UKMTO said one tanker was struck at the stern about 20 km north of Khasab and another in the engine room about 31 km east of Khasab on Saturday; no casualties were reported and it is unclear whether two separate ships were involved. Iranian state TV said a tanker caught fire after hitting a mine east of the strait while sailing with AIS off; that claim has not been independently verified.",
+          "source": "Al Jazeera",
+          "date": "2026-11-21",
+          "url": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping"
+        },
+        {
           "title": "CENTCOM extends Iran blockade to ship-to-ship transfers",
           "summary": "A Nov 18 US Central Command advisory says vessels taking cargo at sea from Iran-loaded ships may be treated as blockade evaders and can be stopped, boarded, diverted or seized. The blockade was imposed Apr 13, lifted in June and reimposed Jul 14; Iranian crude exports are reported to be near a standstill.",
           "source": "gCaptain (Reuters)",
@@ -80,11 +94,11 @@
           "url": "https://gcaptain.com/coast-guard-restricts-mississippi-river-traffic-for-monthlong-cruise-ship-salvage/"
         },
         {
-          "title": "LA/Long Beach watchmen contract expired; outcome of final talks not yet reported",
-          "summary": "Before the 12:01 a.m. Nov 21 expiry the PMA said talks with ILWU Local 26 (about 250 watchmen at terminals handling about 85% of Long Beach and 33% of LA cargo) were at an impasse; the union had authorized a strike and said it would not extend the contract. PMA says its offer lifts average pay from about $170,000 to $198,000 plus a $3,200 bonus, which the union disputes. No report of a strike or deal after the Nov 20 session was found at publication.",
-          "source": "LAist",
-          "date": "2026-11-19",
-          "url": "https://laist.com/news/transportation/port-workers-strike-looks-more-likely-this-weekend-shippers-say"
+          "title": "LA/Long Beach watchmen reach tentative deal; strike averted",
+          "summary": "The Pacific Maritime Association said on Nov 21 it reached a tentative agreement, under federal mediation, with ILWU Local 26 covering about 250 watchmen at six container terminals, after the contract deadline of 12:01 a.m. that day. The current contract is extended pending member ratification; terms and timing were not disclosed. PMA's prior offer included a $3,200 one-time bonus and average pay rising from about $170,000 to $198,000.",
+          "source": "FreightWaves / Reuters",
+          "date": "2026-11-21",
+          "url": "https://www.freightwaves.com/news/tentative-union-deal-averts-strike-at-port-of-la-long-beach"
         }
       ]
     },
@@ -139,6 +153,13 @@
           "url": "https://www.ajc.com/news/2026/11/kushner-says-russia-is-comfortable-with-nato-like-security-guarantees-for-ukraine-to-end-war/"
         },
         {
+          "title": "Zelensky wants concrete agenda for next four-party talks; seeks all-for-all POW swap",
+          "summary": "Speaking in Kyiv on Nov 21 with UK Defence Secretary Wes Streeting, Zelensky said the next round of talks among Ukraine, Europe, Russia and the US needs a clear agenda with minimum and maximum goals, and that timing depends on Washington. He welcomed the Abu Dhabi agreement to exchange more than 1,000 Ukrainian prisoners and called for an all-for-all exchange. He also said Trump told European leaders on Nov 19 they were spending heavily on Ukraine, which he said did not sound like a threat.",
+          "source": "Kyiv Post / Reuters",
+          "date": "2026-11-21",
+          "url": "https://www.kyivpost.com/post/90813"
+        },
+        {
           "title": "Putin rules out Black Sea and energy truce after third strike on Kerch Bridge",
           "summary": "After Ukraine hit the Crimean (Kerch) Bridge for the third time in a week, Putin said Russia would no longer consider a pause in strikes at sea or on energy facilities and said the damaged road section would be rebuilt. Each side reported overnight attacks; these casualty and interception figures have not been independently verified.",
           "source": "Reuters via The Star",
@@ -172,13 +193,6 @@
           "source": "Reuters via Al-Monitor",
           "date": "2026-11-18",
           "url": "https://www.al-monitor.com/originals/2026/11/ethiopia-and-eritrea-amass-forces-along-border-heightening-war-fears-sources-say"
-        },
-        {
-          "title": "Hungary drops block on Ukraine, Moldova EU clusters; formal steps still pending",
-          "summary": "EU diplomats said Hungary no longer objects to Ukraine and Moldova opening their last two negotiating clusters (agriculture and the green agenda). Ambassadors and ministers still need to agree positions and hold an intergovernmental conference, now expected in December.",
-          "source": "Kyiv Independent",
-          "date": "2026-11-18",
-          "url": "https://kyivindependent.com/hungary-lifts-block-on-further-progress-for-ukraine-moldova-eu-membership-bids/"
         }
       ]
     },
@@ -200,11 +214,11 @@
           "url": "https://www.thescore.com/nfl/event/140727"
         },
         {
-          "title": "ATP Finals semifinals Saturday: Alcaraz–Shelton and Zverev–Medvedev",
-          "summary": "Medvedev took the last semifinal place by beating Frances Tiafoe 6-3, 6-4 on Friday, per StatSniper (not yet confirmed by a major outlet), and meets unbeaten top seed Alexander Zverev; Carlos Alcaraz faces first-time semifinalist Ben Shelton. Alcaraz had treatment on his left thigh during Wednesday's win over Medvedev but said he felt fine.",
-          "source": "StatSniper / Tennis Majors",
-          "date": "2026-11-20",
-          "url": "https://statsniper.com/leagues/atp/game/2026/4764951/daniil-medvedev-vs-frances-tiafoe/"
+          "title": "Alcaraz beats Shelton 3-6, 6-3, 7-6(1) to reach ATP Finals final",
+          "summary": "Carlos Alcaraz came from a set down to beat Ben Shelton in Saturday's first semifinal in Turin, taking his head-to-head record to 5–1. He faces the winner of Alexander Zverev vs Daniil Medvedev (Medvedev qualified by beating Frances Tiafoe 6-3, 6-4), which starts no earlier than 1:30 PM CT Saturday; the final is Sunday, Nov 22.",
+          "source": "Tennis365 / Yahoo Sports",
+          "date": "2026-11-21",
+          "url": "https://www.tennis365.com/tennis-news/carlos-alcaraz-ben-shelton-ranking-points-prize-money-atp-finals-semi-final"
         },
         {
           "title": "Davis Cup Final 8 opens Tuesday in Bologna",
