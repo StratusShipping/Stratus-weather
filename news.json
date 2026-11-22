@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T06:00:46-06:00",
+  "updated": "2026-11-22T12:54:44-06:00",
   "sections": [
     {
       "name": "Tankers & Chemicals",
@@ -10,6 +10,13 @@
           "source": "Nortilus",
           "date": "2026-11-20",
           "url": "https://nortilus.substack.com/p/weekly-market-update-week-47"
+        },
+        {
+          "title": "Makai week 47: clean tanker earnings down 4.8% w/w, 13.4% off late-Oct peak",
+          "summary": "Makai Research reports clean product tanker spot earnings fell 4.8% on the week, with Atlantic MRs taking most of the decline while Pacific MRs held near early-October highs; LRs slipped 2.1%. It cites a wider US Gulf ballast incentive and weak USG arbitrage as pressure on Atlantic MR balances, and notes the Aframax discount to LR2 above $100k/day is pulling some dirty LR2s into clean trades.",
+          "source": "Makai Research",
+          "date": "2026-11-19",
+          "url": "https://makaimarine.substack.com/p/weekly-product-tanker-report-week-add"
         },
         {
           "title": "Gibson: refining margins weaken, led by gasoline",
@@ -33,13 +40,6 @@
           "url": "https://bairdmaritime.com/shipping/tankers/tanker-news-roundup-november-20-us-and-asian-yards-bag-orders-as-greek-owner-welcomes-suezmax-newbuild"
         },
         {
-          "title": "Fearnleys week 47: VLCC Fujairah/Far East bottomed at WS 300",
-          "summary": "Fearnleys' weekly says the VLCC market found a floor at the end of the prior week at about WS 300 for Fujairah/Far East. Separately, COSCO Shipping Development ordered 16 VLCCs from Dalian for CNY13.43bn ($2.01bn), for delivery late 2029–2030 (Baird Maritime).",
-          "source": "Fearnleys / Hellenic Shipping News",
-          "date": "2026-11-19",
-          "url": "https://www.hellenicshippingnews.com/fearnleys-week-47-2026/"
-        },
-        {
           "title": "MEPC 85 (Nov 30–Dec 3) to revisit IMO Net-Zero Framework",
           "summary": "The Baltic Exchange previews MEPC 85 in London, where the Net-Zero Framework approved in April 2025 remains unresolved after adoption was adjourned for a year in October 2025. Environmental groups want it adopted unchanged; the Union of Greek Shipowners has criticised the EU position.",
           "source": "Baltic Exchange / Hellenic Shipping News",
@@ -59,6 +59,13 @@
       "name": "Shipping, Ports & Security",
       "items": [
         {
+          "title": "UKMTO: tanker in incident with military forces in Gulf of Oman",
+          "summary": "UKMTO said on Sunday evening (Nov 22) that a tanker was involved in an incident with military forces in the Gulf of Oman near Chabahar, east of Hormuz and close to the US blockade line; investigations are ongoing and the vessel and forces involved were not identified. Separately, Iranian media said two supertankers caught fire after hitting mines east of the strait; this has not been independently confirmed.",
+          "source": "Euronews",
+          "date": "2026-11-22",
+          "url": "https://www.euronews.com/2026/11/22/tanker-incident-involving-military-forces-reported-in-strait-of-hormuz"
+        },
+        {
           "title": "Iran says tanker hit a mine east of Hormuz; Reuters unable to verify",
           "summary": "Iran's navy said an unnamed tanker caught fire after striking a naval mine in a restricted area east of the Strait of Hormuz. Reuters could not verify the claim or link it to the two UKMTO-reported strikes near Khasab (about 11 nm north and 17 nm east), which may involve the same ship.",
           "source": "gCaptain (Reuters)",
@@ -73,11 +80,11 @@
           "url": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping"
         },
         {
-          "title": "Reports of 14+ Iranian tankers gathering off Kharg to test US blockade",
-          "summary": "More than 14 Iranian tankers were reported assembling off Kharg Island to sail for China in the coming days; Iran called the US blockade an act of war. Iranian media reported missile and drone attacks on US bases in Bahrain on Saturday night, which Bahrain says were largely intercepted. Convoy size and sailing are unverified.",
+          "title": "TankerTrackers: AIS signal of Iranian 'blockade-runner' tanker was spoofed",
+          "summary": "MarineTraffic data appeared to show an Iranian tanker named Khat-Shekan transiting Hormuz, but TankerTrackers says the vessel does not exist and satellite imagery does not corroborate the track. More than 14 tankers are reported gathered off Kharg Island; the US says its blockade of Iranian ports reached 130 consecutive days on Nov 21.",
           "source": "Euronews",
-          "date": "2026-11-21",
-          "url": "https://www.euronews.com/2026/11/21/iran-attacks-us-bases-in-bahrain-as-its-tankers-get-ready-to-break-the-us-blockade"
+          "date": "2026-11-22",
+          "url": "https://www.euronews.com/2026/11/22/tracking-site-says-iranian-tanker-reportedly-sailing-through-strait-of-hormuz-does-not-exi"
         },
         {
           "title": "Houthis threaten Red Sea ports after coalition strikes Hodeidah",
@@ -160,11 +167,11 @@
       "name": "World",
       "items": [
         {
-          "title": "Russian missiles and drone land in Poland; NATO calls it grave violation",
-          "summary": "Two missiles, including a Kh-101, and a drone fell in southeast Poland overnight Nov 20 during a large Russian strike on Ukraine; no injuries were reported. Tusk called it an intentional provocation and NATO's Rutte a grave violation; Poland has not invoked Article 4. Zelensky said Russia launched 400+ drones and 110+ missiles, killing at least 8 civilians.",
-          "source": "Al Jazeera",
-          "date": "2026-11-21",
-          "url": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond"
+          "title": "NATO council meets Monday on Russian missiles that landed in Poland",
+          "summary": "Two suspected Russian missiles, one identified as a Kh-101 cruise missile, and a suspected drone crashed in southeastern Poland on Nov 20 during a large Russian attack on Ukraine; no injuries were reported. NATO Secretary-General Rutte pledged to defend Polish territory, and the North Atlantic Council meets in Brussels on Nov 23; Poland has requested more early-warning aircraft and F-35s.",
+          "source": "Stars and Stripes",
+          "date": "2026-11-22",
+          "url": "https://www.stripes.com/theaters/europe/2026-11-22/poland-russia-nato-missiles-23541547.html"
         },
         {
           "title": "Ballistic strike on Kryvyi Rih kills 2, wounds 60",
@@ -221,11 +228,11 @@
           "url": "https://www.espn.com/nfl/recap/_/gameId/401873066"
         },
         {
-          "title": "ATP Finals final today: Alcaraz vs Zverev, 11 AM CT",
-          "summary": "In Saturday's semifinals Zverev beat Medvedev 7-6(0), 6-4 and Alcaraz beat Shelton 3-6, 6-3, 7-6(1). Alcaraz leads the head-to-head 7–6. In doubles, Arevalo/Pavic meet Arribage/Olivetti in the final.",
-          "source": "ATP Tour",
-          "date": "2026-11-21",
-          "url": "https://www.atptour.com/en/news/nitto-atp-finals-2026-final-schedule"
+          "title": "ATP Finals final under way: Alcaraz took first set 6-2 vs Zverev",
+          "summary": "In Sunday's Turin final, Alcaraz won the first set 6-2 and led 3-2 in the second as of the latest live update (about 12:30 PM CT); the final result was not yet confirmed. Alcaraz is seeking his first ATP Finals title, Zverev his third. The doubles title went to Arribagé/Olivetti over Arévalo/Pavic, 3-6, 7-6(2), 10-6.",
+          "source": "AM850 live blog",
+          "date": "2026-11-22",
+          "url": "https://www.am850.com/carlos-alcaraz-alexander-zverev-live-today-nitto-atp-finals-2026-final-result/"
         },
         {
           "title": "Zverev has clinched year-end No. 1",
