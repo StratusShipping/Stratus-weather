@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T12:54:44-06:00",
+  "updated": "2026-11-23T05:56:41-06:00",
   "sections": [
     {
       "name": "Tankers & Chemicals",
@@ -66,11 +66,11 @@
           "url": "https://www.euronews.com/2026/11/22/tanker-incident-involving-military-forces-reported-in-strait-of-hormuz"
         },
         {
-          "title": "Iran says tanker hit a mine east of Hormuz; Reuters unable to verify",
-          "summary": "Iran's navy said an unnamed tanker caught fire after striking a naval mine in a restricted area east of the Strait of Hormuz. Reuters could not verify the claim or link it to the two UKMTO-reported strikes near Khasab (about 11 nm north and 17 nm east), which may involve the same ship.",
-          "source": "gCaptain (Reuters)",
-          "date": "2026-11-21",
-          "url": "https://gcaptain.com/two-tanker-incidents-reported-near-oman-vessel-hit-mine-east-of-hormuz/"
+          "title": "Two more tankers hit near Khasab; UKMTO counts 106 incidents since Feb 28",
+          "summary": "On Nov 21 an outbound VLCC (identified by Vanguard Tech as the Hong Kong-flagged Torkel) was hit in the stern about 11 nm north of Khasab and its crew evacuated, and the Suezmax Arina was hit in the engine room about 17 nm east of Khasab, starting a fire; no casualties were reported. UKMTO counted six tankers attacked in the week to Nov 18 and Hormuz transits fell to 263 from 308; JMIC rates the threat as severe. Iran's claim that a tanker struck a mine has not been verified.",
+          "source": "The Maritime Executive",
+          "date": "2026-11-22",
+          "url": "https://maritime-executive.com/article/two-more-tankers-hit-off-oman-as-houthis-threaten-saudi-red-sea-ports"
         },
         {
           "title": "Iran says ships must use its designated Hormuz lanes",
@@ -113,11 +113,11 @@
       "name": "Markets",
       "items": [
         {
-          "title": "Friday Nov 20 close: S&P 500 6,910.39 (−3.7%), Nasdaq −5.3%",
-          "summary": "S&P 500 fell 265.44 pts (−3.7%) to 6,910.39, the Dow 949.73 (−1.9%) to 48,147.33 and the Nasdaq 1,261.47 (−5.3%) to 22,617.73, led by chip stocks after Nvidia fell 14% on a Reuters report of an SEC accounting probe (not confirmed by other outlets). For the week the S&P lost 8.6%, the Dow 8% and the Nasdaq 10%. Friday is the latest completed session.",
-          "source": "AP via Yakima Herald",
-          "date": "2026-11-20",
-          "url": "https://www.yakimaherald.com/news/nation_and_world/business/how-major-us-stock-indexes-fared-friday-11-20-2026/article_963ce6d2-85a3-5fd6-981d-e60b72a58fbb.html"
+          "title": "Friday Nov 20 close: S&P 500 6,910.39 (−3.7%), Dow 48,147.33, Nasdaq 22,617.73",
+          "summary": "In the latest completed session (Friday Nov 20) the S&P 500 fell 3.7% to 6,910.39, the Dow lost 949.73 pts (−1.93%) to 48,147.33 and the Nasdaq Composite fell 5.28% to 22,617.73, with the Nasdaq-100 down 5.6% as technology shares led the decline. For the week the Dow fell 8% (its worst week since March 2020), the S&P 500 8.6% and the Nasdaq about 10%. US markets reopen today, Monday Nov 23.",
+          "source": "IC Markets",
+          "date": "2026-11-23",
+          "url": "https://www.ic.com/blog/wall-street-suffers-worst-weekly-decline-in-years-23-november-2026-ic/"
         },
         {
           "title": "Brent settles $92.57 (+0.6%), WTI $83.98 Friday; third weekly loss",
@@ -148,11 +148,11 @@
           "url": "https://bitcoinmagazine.com/markets/bessent-fed-bigger-rate-hike-bitcoin"
         },
         {
-          "title": "Europe closes lower Friday; Asia has worst week since 2020",
-          "summary": "On Nov 20 the Stoxx 600 fell 1.68%, DAX 2.13%, CAC 40 1.6% and FTSE 100 0.91%, with chipmakers STMicro (−11%) and Infineon (−7.6%) leading losses. In Asia the Nikkei was down 4.1% and KOSPI 4.4% intraday, with MSCI Asia ex-Japan headed for an 8.3% weekly loss.",
-          "source": "Yahoo Finance / Reuters via The Star",
-          "date": "2026-11-20",
-          "url": "https://finance.yahoo.com/markets/world-indices/articles/european-markets-close-lower-ai-183330519.html"
+          "title": "Monday pre-open: US futures higher, Kospi −3.2%, Tokyo closed; dollar index 103.6",
+          "summary": "Early Nov 23, S&P 500 futures were up 2.1%, Nasdaq-100 futures 3.0% and Dow futures 1.4%. Japan was closed for a holiday after the Nikkei's 5.1% fall Friday; the Kospi fell 3.2% to about 4,716 while Taiwan's Taiex rose 2.4%. The dollar index eased 0.15% to 103.6 from a 19-month high, with EUR/USD at 1.0996 and USD/JPY at 158.94; Brent was near $90 and WTI near $83.4 (approximate).",
+          "source": "NordFX",
+          "date": "2026-11-23",
+          "url": "https://nordfx.com/market-news/market-pulse-november-23-2026"
         },
         {
           "title": "Week ahead: PCE, GDP Wednesday; markets shut Thanksgiving",
@@ -174,6 +174,13 @@
           "url": "https://www.stripes.com/theaters/europe/2026-11-22/poland-russia-nato-missiles-23541547.html"
         },
         {
+          "title": "Iran says Hormuz shipping can resume quickly if US meets its terms",
+          "summary": "Foreign Ministry spokesman Esmaeil Baqaei said on Nov 23 that safe navigation could be restored quickly if the US lifts sanctions and its naval blockade and meets other terms of the June memorandum; talks remain stalled. Saudi Arabia, Kuwait and Qatar condemned a Nov 21 Iranian attack on Bahrain that injured two people and started a fire at an industrial site in Sitra. An IRGC claim to have downed a US MQ-1 drone was not confirmed by CENTCOM.",
+          "source": "ABC News",
+          "date": "2026-11-23",
+          "url": "https://abcnews.com/International/live-updates/iran-live-updates-tehran-strait-hormuz-safe-demands/?id=138369648"
+        },
+        {
           "title": "Ballistic strike on Kryvyi Rih kills 2, wounds 60",
           "summary": "A Russian ballistic missile attack on Zelensky's hometown late Nov 20 killed two people and wounded 60, including six children, damaging about 25 apartment buildings and a hospital.",
           "source": "AP via ABC News",
@@ -181,29 +188,15 @@
           "url": "https://abcnews.com/International/wireStory/ballistic-missile-attack-zelenskyys-hometown-central-ukraine-kills-138340723"
         },
         {
-          "title": "Iran sets seven conditions for reopening Hormuz; US rejects terms",
-          "summary": "FM Araghchi said Iran's conditions, including ending the war and lifting sanctions and the blockade, must be met before Hormuz reopens, and ruled out shipping out its 60% enriched uranium. Trump called the terms unacceptable; the IRGC claimed it downed two US drones, with no US comment.",
-          "source": "Al Jazeera",
-          "date": "2026-11-21",
-          "url": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled"
+          "title": "COP31 talks in Antalya run into second day of overtime",
+          "summary": "UN climate negotiators in Antalya remained divided over language on phasing out fossil fuels on Nov 22, the second day past the scheduled close, as the Turkish presidency put forward a late compromise proposal. The EU presidency said chances of a deal were narrowing.",
+          "source": "AP via Times of Israel",
+          "date": "2026-11-22",
+          "url": "https://www.timesofisrael.com/liveblog_entry/un-climate-talk-negotiators-go-into-2nd-day-of-overtime-at-odds-over-fossil-fuels/"
         },
         {
-          "title": "Trump threatens tax on overseas data centers; Senate passes permitting bill",
-          "summary": "At a Nov 20 press conference Trump threatened a large tax on US companies building data centers abroad and said more trade deals are coming, with Mexico close. The Senate passed a permitting reform bill 62–33.",
-          "source": "CBS News",
-          "date": "2026-11-20",
-          "url": "https://www.cbsnews.com/live-updates/trump-press-conference-live-stream-2026-11-20/"
-        },
-        {
-          "title": "Trump–Xi–Putin Shenzhen declaration omits Ukraine and Iran",
-          "summary": "The three leaders' declaration calls for more oil supply and UN reform but does not mention Ukraine or Iran. Trump said he and Xi agree Hormuz must fully reopen.",
-          "source": "PBS NewsHour",
-          "date": "2026-11-20",
-          "url": "https://www.pbs.org/newshour/world/3-takeaways-from-trump-xi-and-putins-historic-summit"
-        },
-        {
-          "title": "Finland reports drone strike on Russian cargo ship; COP31 draft tabled",
-          "summary": "Finnish authorities say drones hit a Russian cargo ship in the Gulf of Finland (details unconfirmed). At COP31 in Antalya negotiators tabled a new draft deal, and Mongolia is heading to a snap presidential vote.",
+          "title": "Finland reports drone strike on Russian cargo ship in Gulf of Finland",
+          "summary": "Finnish authorities say drones hit a Russian cargo ship in the Gulf of Finland; details have not been confirmed. Mongolia is also heading to a snap presidential vote.",
           "source": "Euronews",
           "date": "2026-11-22",
           "url": "https://www.euronews.com/video/2026/11/22/latest-news-bulletin-november-22nd-2026-midday"
@@ -214,11 +207,11 @@
       "name": "Sports",
       "items": [
         {
-          "title": "Broncos (7–2) host Raiders today at 3:25 PM CT",
-          "summary": "Denver, off its bye after a 26–21 win at Carolina on Nov 8 (fifth straight), hosts Las Vegas (4–6) at Empower Field on CBS. The Broncos are tied with Kansas City (7–2) atop the AFC West but second on tiebreaker. TE Caleb Lohner is out; S Brandon Jones is questionable (hamstring).",
-          "source": "DenverBroncos.com",
-          "date": "2026-11-20",
-          "url": "https://www.denverbroncos.com/news/injury-report-s-talanoa-hufanga-among-broncos-not-assigned-game-statuses-s-brandon-jones-questionable-for-week-11-vs-raiders"
+          "title": "Broncos beat Raiders 38–24, improve to 8–2; at Steelers Friday",
+          "summary": "Denver rallied from a 17–0 deficit on Nov 22; Jonah Coleman ran for 111 yards and Ja'Quan McMillan's 35-yard interception return for a touchdown sealed it. Bo Nix was 19 of 35 for 225 yards, 1 TD and 1 INT; the Raiders fell to 4–7. Next: at Pittsburgh on Black Friday, Nov 27 (kickoff time not confirmed in the source). AFC West standing after Week 12 not stated in the source.",
+          "source": "ProFootballTalk via Yahoo Sports",
+          "date": "2026-11-22",
+          "url": "https://sports.yahoo.com/articles/broncos-move-8-2-38-004821058.html"
         },
         {
           "title": "Texans 4–6, second in AFC South; host Ravens Nov 29",
@@ -228,18 +221,11 @@
           "url": "https://www.espn.com/nfl/recap/_/gameId/401873066"
         },
         {
-          "title": "ATP Finals final under way: Alcaraz took first set 6-2 vs Zverev",
-          "summary": "In Sunday's Turin final, Alcaraz won the first set 6-2 and led 3-2 in the second as of the latest live update (about 12:30 PM CT); the final result was not yet confirmed. Alcaraz is seeking his first ATP Finals title, Zverev his third. The doubles title went to Arribagé/Olivetti over Arévalo/Pavic, 3-6, 7-6(2), 10-6.",
-          "source": "AM850 live blog",
-          "date": "2026-11-22",
-          "url": "https://www.am850.com/carlos-alcaraz-alexander-zverev-live-today-nitto-atp-finals-2026-final-result/"
-        },
-        {
-          "title": "Zverev has clinched year-end No. 1",
-          "summary": "Zverev, No. 1 since Nov 2, has secured the year-end top ranking with 9,950 points to Sinner's 7,950; Alcaraz (6,700) cannot pass Sinner for No. 2 this week.",
+          "title": "Alcaraz beats Zverev 6-2, 7-6 to win first ATP Finals title",
+          "summary": "Alcaraz went 5–0 in Turin and beat world No. 1 Zverev in 2 hours 1 minute on Nov 22 for his sixth title of 2026 and 30th overall (ATP gives the tiebreak score inconsistently). Zverev finishes the year at No. 1 with 10,350 points; Alcaraz closed to within 350 points of No. 2 Sinner, who missed the event injured.",
           "source": "ATP Tour",
-          "date": "2026-11-20",
-          "url": "https://www.atptour.com/en/news/nitto-atp-finals-2026-no-1-battle-zverev-alcaraz"
+          "date": "2026-11-22",
+          "url": "https://www.atptour.com/en/news/alcaraz-zverev-nitto-atp-finals-2026-sunday"
         },
         {
           "title": "Davis Cup Final 8 in Bologna, Nov 24–29",
