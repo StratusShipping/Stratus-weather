@@ -1,57 +1,50 @@
 {
-  "updated": "2026-11-23T12:49:38-06:00",
+  "updated": "2026-11-24T05:58:35-06:00",
   "sections": [
     {
       "name": "Tankers & Chemicals",
       "items": [
         {
-          "title": "Goldman: Atlantic crude freight 60–70% below October peak",
-          "summary": "Goldman Sachs figures cited by Cornerstone on Nov 23 put West Africa–Continent freight at about $5.5/bbl versus $18.8 at the peak, Guyana–ARA at $6.2 versus $22.2, and US Gulf–China at $13.4 versus $33.8. Hormuz–China freight is about $30/bbl, down 24% from its peak but far above $3.3 a year ago; Dated Brent's premium to paper has narrowed to about $1 from roughly $31 in early October.",
-          "source": "Cornerstone Futures",
+          "title": "CMB.TECH Q3 profit $373.9m; Q4 VLCC spot booked at $635,199/day",
+          "summary": "CMB.TECH reported Q3 2026 profit of $373.9m (EPS $1.29) on revenue of $802.9m, against $17.3m profit a year earlier. Q4-to-date spot TCE is $635,199/day for VLCCs (59% of days fixed) and $377,164/day for Suezmaxes (68% fixed), while its 25k dwt stainless chemical tanker pool earned $18,756/day QTD versus $21,601 in Q3. The company declared $0.65/share and flagged newbuilding deliveries as a headwind, with VLCC fleet growth forecast at 7.1% in 2027 and 16.1% in 2028.",
+          "source": "CMB.TECH",
+          "date": "2026-11-24",
+          "url": "https://cmb.tech/public/Q3-2026-Earnings-release.pdf"
+        },
+        {
+          "title": "US sanctions payment networks behind Iran's tanker trade",
+          "summary": "Treasury sanctioned 22 entities and eight individuals on Nov 23 under 'Operation Economic Outcast', aiming at the finance side rather than ships. Targets include Dubai firms said to handle payments for NITC, NIOC oil and petrochemical sales, LPG sales tied to Kharg Petrochemical, and the charter of the tanker SERENE I (IMO 9197832), plus Iran's currency and gold exchange centre.",
+          "source": "gCaptain",
           "date": "2026-11-23",
-          "url": "https://www.cornerstonefuturesllc.com/post/morning-highlights-oil-falls-despite-weekend-attacks-on-shipping-a-saudi-refinery-and-bahrain-as-f"
+          "url": "https://gcaptain.com/u-s-targets-financial-networks-behind-irans-tanker-fleet-and-oil-trade"
         },
         {
-          "title": "Nortilus week 47: LR2 earnings down 30% w/w, VLCC down 18%",
-          "summary": "Nortilus's Nov 20 weekly update puts VLCC earnings down 18% on the week at about $293k/day and LR2 earnings down 30%, while Aframax earnings rose 28%. Listed product tanker equities fell 7.2% on the week and are down 17.3% month to date; crude tanker shares fell 4.3% (−17.0% MTD).",
-          "source": "Nortilus",
-          "date": "2026-11-20",
-          "url": "https://nortilus.substack.com/p/weekly-market-update-week-47"
+          "title": "Brent Dec–Jan spread narrows to $0.16 as Gulf flows hold up",
+          "summary": "Gulf News reports the Brent Dec–Jan spread has fallen to $0.16/bbl from $3.67 in October, with Brent about 24% (roughly $28) below its late-October peak. Middle East flows have proved steadier than the attacks suggest, helped by bypass pipelines and ship-to-ship transfers.",
+          "source": "Gulf News",
+          "date": "2026-11-24",
+          "url": "https://gulfnews.com/business/energy/brent-drops-to-88-wti-at-79-why-oil-is-sliding-despite-irans-tanker-attacks-1.500758802"
         },
         {
-          "title": "Makai week 47: clean tanker earnings down 4.8% w/w, 13.4% off late-Oct peak",
-          "summary": "Makai Research reports clean product tanker spot earnings fell 4.8% on the week, with Atlantic MRs taking most of the decline while Pacific MRs held near early-October highs; LRs slipped 2.1%. It cites a wider US Gulf ballast incentive and weak USG arbitrage as pressure on Atlantic MR balances, and notes the Aframax discount to LR2 above $100k/day is pulling some dirty LR2s into clean trades.",
-          "source": "Makai Research",
-          "date": "2026-11-19",
-          "url": "https://makaimarine.substack.com/p/weekly-product-tanker-report-week-add"
-        },
-        {
-          "title": "IC Shipbrokers week 47/48: crude rates firmer, product tankers slightly softer",
-          "summary": "IC Shipbrokers' Nov 23 freight report describes better crude tanker activity with rates rising in most areas, while product tankers saw slower activity and small rate declines across loading regions. The report gives no specific rate or TCE figures.",
-          "source": "IC Shipbrokers / Shipping Telegraph",
+          "title": "High tanker and VLGC values prompt quick resales",
+          "summary": "Broker-reported deals cited from Splash247 include Trafigura buying the suezmax Seaways Sabine for about $74m in September and reselling it for about $110m two months later, and MISC reportedly selling the 21-year-old shuttle tanker Jasmine Knutsen, bought for about $33m and now valued near $110m. Sale prices are reported by brokers and not confirmed by the companies.",
+          "source": "IndexBox / Splash247",
           "date": "2026-11-23",
-          "url": "https://shippingtelegraph.com/freight-news/freight-market-report-23-11-2026-presented-by-ic-shipbrokers/"
+          "url": "https://www.indexbox.io/blog/tanker-and-vlgc-value-surge-turns-conservative-owners-into-asset-traders/"
         },
         {
-          "title": "Gibson: refining margins weaken, led by gasoline",
-          "summary": "Gibson's weekly report notes refining margins fell sharply over the month, with gasoline the weakest product and Asian gasoline cracks just above $1/bbl. Regional detail is in the full report.",
-          "source": "Gibson Shipbrokers / Hellenic Shipping News",
-          "date": "2026-11-21",
-          "url": "https://www.hellenicshippingnews.com/gibson-tanker-report-cracks-are-showing/"
+          "title": "Aegean Shipping orders two more LR2s at COSCO Yangzhou",
+          "summary": "Aegean Shipping has added a further pair of LR2 product tanker newbuildings at COSCO Shipping Heavy Industry's Yangzhou yard. Price and delivery dates were not stated in the summary seen.",
+          "source": "Splash247",
+          "date": "2026-11-23",
+          "url": "https://splash247.com/aegean-shipping-adds-fresh-tanker-pair-at-cosco-yard/"
         },
         {
-          "title": "Hanwha Philly starts first Jones Act MR chemical/product tanker",
-          "summary": "Hanwha Shipping began construction of the first of four 49,500 dwt MR oil/chemical tankers at Hanwha Philly Shipyard, designed for Jones Act trade with IMO Type II/III notation and an optional 18-segregation Type II layout; deliveries are due 2029–2030. Hanwha calls it the first US-built MR in nearly a decade.",
-          "source": "Baird Maritime",
-          "date": "2026-11-20",
-          "url": "https://bairdmaritime.com/shipping/tankers/tanker-news-roundup-november-20-us-and-asian-yards-bag-orders-as-greek-owner-welcomes-suezmax-newbuild"
-        },
-        {
-          "title": "Hafnia due to say by Nov 25 how it will handle its TORM stake",
-          "summary": "After TORM rejected its merger proposals, Hafnia must disclose by Nov 25 whether it distributes its roughly 19.8% TORM stake (about 20.4m A shares, one TORM share per 26.3 Hafnia shares) or pays a cash dividend equal to 90% of Q3 net profit. TORM's $1.35/share interim dividend is payable Dec 2.",
-          "source": "ad-hoc-news",
-          "date": "2026-11-19",
-          "url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/torm-investors-face-a-november-25-deadline-that-matters-more-than-hafnia-s-retreat/70533923"
+          "title": "Shipping Corp of India tenders for up to 22 newbuilds worth about $3.2bn",
+          "summary": "State-owned SCI is launching tenders for up to 22 newbuildings across gas carriers, tankers and container ships, estimated at $3.2bn, alongside a separate search for secondhand tonnage.",
+          "source": "Splash247",
+          "date": "2026-11-23",
+          "url": "https://splash247.com/shipping-corp-of-india-casts-3-2bn-net-for-22-ships/"
         }
       ]
     },
@@ -59,53 +52,39 @@
       "name": "Shipping, Ports & Security",
       "items": [
         {
-          "title": "Iranian attack hits Bahrain industrial site; Houthis claim Saudi refinery strike",
-          "summary": "Bahrain said an Iranian attack on Nov 21 hit a civilian industrial facility in Sitra and injured two, and the IRGC claimed a missile-and-drone assault on US positions in Bahrain. The Houthis said on Nov 22 they struck a Saudi refinery; that claim is unconfirmed. Saudi Arabia, Kuwait and Qatar condemned the Bahrain attack.",
-          "source": "Cornerstone Futures / ABC News",
-          "date": "2026-11-23",
-          "url": "https://www.cornerstonefuturesllc.com/post/morning-highlights-oil-falls-despite-weekend-attacks-on-shipping-a-saudi-refinery-and-bahrain-as-f"
+          "title": "Hormuz: 550 non-Iranian transits in October, up from 504",
+          "summary": "Lloyd's List Intelligence counted 550 non-Iranian-linked Hormuz transits in October (260 eastbound, 290 westbound), including 442 tankers and gas carriers, versus 504 in September. UKMTO had logged 163 security events since the conflict began as of Nov 11, with seven attacks in Nov 5–11; about 10% of vessels attacked since mid-August were confirmed lost or sunk. The next brief is due Dec 3.",
+          "source": "Lloyd's List Intelligence",
+          "date": "2026-11-19",
+          "url": "https://www.lloydslistintelligence.com/resources/blog/strait-of-hormuz-brief-19-november-2026"
         },
         {
-          "title": "Two more tankers hit near Khasab; UKMTO counts 106 incidents since Feb 28",
-          "summary": "On Nov 21 an outbound VLCC (identified by Vanguard Tech as the Hong Kong-flagged Torkel) was hit in the stern about 11 nm north of Khasab and its crew evacuated, and the Suezmax Arina was hit in the engine room about 17 nm east of Khasab, starting a fire; no casualties were reported. UKMTO counted six tankers attacked in the week to Nov 18 and Hormuz transits fell to 263 from 308; JMIC rates the threat as severe. Iran's claim that a tanker struck a mine has not been verified.",
-          "source": "The Maritime Executive",
-          "date": "2026-11-22",
-          "url": "https://maritime-executive.com/article/two-more-tankers-hit-off-oman-as-houthis-threaten-saudi-red-sea-ports"
-        },
-        {
-          "title": "Iran says ships must use its designated Hormuz lanes",
-          "summary": "Citing Iran's armed forces, about 25 tanker-related incidents have occurred since Nov 14, roughly three a day. Tehran says vessels must coordinate with Iranian authorities and follow lanes it sets, warning non-compliant ships risk attack or mines.",
-          "source": "Al Jazeera",
-          "date": "2026-11-21",
-          "url": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping"
-        },
-        {
-          "title": "Ukraine says it hit a Russian cargo ship in the Baltic and a corvette off Libya",
-          "summary": "Zelenskyy said Ukraine was behind drone strikes on a Russian cargo ship in the Baltic on Nov 21 and a Russian warship at a Libyan port on Nov 22, which he said was sunk. The Kremlin called the Baltic strike terrorist activity, per Reuters and WSJ reports.",
-          "source": "Reuters / WSJ via Just Security",
-          "date": "2026-11-23",
-          "url": "https://www.justsecurity.org/165610/early-edition-november-23-2026/"
-        },
-        {
-          "title": "Houthis threaten Red Sea ports after coalition strikes Hodeidah",
-          "summary": "The Saudi-led coalition said it intercepted three ballistic missiles aimed at Riyadh early Nov 21, after its Nov 20 operation hit Hodeidah port and depots in Sanaa. The Houthis have threatened Jeddah and other Saudi Red Sea ports.",
-          "source": "Al Jazeera / AFP",
-          "date": "2026-11-21",
-          "url": "https://www.aljazeera.com/news/2026/11/21/saudi-led-coalition-intercepts-three-houthi-missiles-headed-for-riyadh"
-        },
-        {
-          "title": "TankerTrackers: AIS signal of Iranian 'blockade-runner' tanker was spoofed",
-          "summary": "MarineTraffic data appeared to show an Iranian tanker named Khat-Shekan transiting Hormuz, but TankerTrackers says the vessel does not exist and satellite imagery does not corroborate the track. More than 14 tankers are reported gathered off Kharg Island; the US says its blockade of Iranian ports reached 130 consecutive days on Nov 21.",
-          "source": "Euronews",
-          "date": "2026-11-22",
-          "url": "https://www.euronews.com/2026/11/22/tracking-site-says-iranian-tanker-reportedly-sailing-through-strait-of-hormuz-does-not-exi"
-        },
-        {
-          "title": "Maersk/Hapag-Lloyd shift three more Gemini services back to Suez",
-          "summary": "AE2 returns to the Suez routing from Dec 4, AE3 from Dec 20 and AE1 from Jan 14, 2027, following earlier moves for AE5, AE11, AE12, ME2 and ME1. The carriers say further changes depend on security conditions.",
+          "title": "Mississippi at New Orleans: safety zone stays through Dec 11",
+          "summary": "After the tanker Atlantic Asphalt struck and capsized the docked cruise vessel American Heritage on Nov 13, the Coast Guard set a safety zone between miles 95.5 and 96.5 of the Lower Mississippi, running through Dec 11. The river is not closed, but the alternate channel is shut and deep-draft vessels and tows of 10 or more barges move one way through the Crescent City Connection main span.",
           "source": "gCaptain",
-          "date": "2026-11-16",
-          "url": "https://gcaptain.com/maersk-hapag-lloyd-expand-suez-canal-return-with-three-more-gemini-services/"
+          "date": "2026-11-18",
+          "url": "https://gcaptain.com/coast-guard-restricts-mississippi-river-traffic-for-monthlong-cruise-ship-salvage/"
+        },
+        {
+          "title": "LA–Long Beach security workers reach tentative labor deal",
+          "summary": "Employers and unionized security workers at Los Angeles and Long Beach reached a tentative agreement extending their contract, pending ratification. The covered terminals handle about 85% of Long Beach cargo and 33% of Los Angeles cargo.",
+          "source": "Intelligent Audit",
+          "date": "2026-11-23",
+          "url": "https://www.intelligentaudit.com/blog/ia-insights-november-23-2026"
+        },
+        {
+          "title": "Container spot rates: Shanghai–LA $7,026/FEU, down 5%",
+          "summary": "For the week to Nov 19, Shanghai–Los Angeles fell 5% to $7,026/FEU and Shanghai–New York fell 9% to $8,194, while Shanghai–Genoa rose 6% to $4,436. Platts put India–US East Coast at $6,275/FEU, 44% below its mid-September peak.",
+          "source": "Intelligent Audit",
+          "date": "2026-11-23",
+          "url": "https://www.intelligentaudit.com/blog/ia-insights-november-23-2026"
+        },
+        {
+          "title": "Durban congestion: carriers add surcharges, recovery not expected before 2027",
+          "summary": "Early-November data show 17 container ships waiting for Durban and average anchorage time of 7.46 days. Maersk raised its Far East–South Africa peak season surcharge to $1,000/TEU and $2,000/FEU from Nov 9, and officials expect recovery between December and February.",
+          "source": "SeaVantage",
+          "date": "2026-11-09",
+          "url": "https://www.seavantage.com/blog/durban-port-congestion-november-2026"
         }
       ]
     },
@@ -113,46 +92,53 @@
       "name": "Markets",
       "items": [
         {
-          "title": "Friday Nov 20 close: S&P 500 6,910.39 (−3.7%); Monday midday rebound",
-          "summary": "On Friday the Dow fell 949.73 points (−1.9%) to 48,147.33, the S&P 500 fell 265.44 (−3.7%) to 6,910.39 and the Nasdaq fell 1,261.47 (−5.3%) to 22,617.73, after hyperscaler cash-flow reports and Nvidia's CEO removal hit AI stocks; the S&P lost 8.6% on the week. At 11:31 a.m. ET Monday the S&P was up 5.0% at 7,256, the Nasdaq up 6.8% at 24,152 and the Dow up 3.3% at 49,715 after Nvidia's board reinstated Jensen Huang (Monday figures are intraday, not closes).",
-          "source": "Zacks via Yahoo Finance / Motley Fool",
+          "title": "Monday Nov 23 close: S&P 500 7,237.17 (+4.7%), Nasdaq +6.5%",
+          "summary": "In the latest completed session, the S&P 500 rose 326.78 points (4.7%) to 7,237.17, the Dow rose 1,447.98 (3.0%) to 49,595.31 and the Nasdaq rose 1,471.82 (6.5%) to 24,089.56. The gain recovered just over half of last week's loss and ended a seven-day losing streak for the S&P 500, led by Nvidia after its board reinstated Jensen Huang as CEO.",
+          "source": "AP via Yahoo Finance",
           "date": "2026-11-23",
-          "url": "https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-midday-nov-23-nasdaq-surges-nearly-7-as-jensen-huang-s-return-sparks-historic-ai-rebound/"
+          "url": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-213053319.html"
         },
         {
-          "title": "Oil lower Monday: Brent $90.87 (−1.8%), WTI $82.02 (−1.6%)",
-          "summary": "As of 6:45 a.m. ET Nov 23, January Brent was $90.87 and WTI $82.02, as easing freight and physical premiums outweighed weekend attacks in the Gulf. Brent fell 4% and WTI 5% last week; OPEC+ ministers meet Nov 29 on 2027 output.",
-          "source": "Cornerstone Futures",
+          "title": "Nvidia up about 31% after Huang reinstated as CEO",
+          "summary": "Nvidia's board unanimously reinstated Jensen Huang as president, CEO and director, effective immediately, a week after he stepped down; the shares closed up about 31.5% on Nov 23. Lawmakers from both parties criticised the decision, and reports that Trump and Vance intervened rest on unnamed sources.",
+          "source": "The Standard / AP via Yahoo Finance",
+          "date": "2026-11-24",
+          "url": "https://www.thestandard.com.hk/news/article/349420/Morning-Recap-November-24-2026"
+        },
+        {
+          "title": "Oil: Brent settles $89.37 (−3.46%), WTI $80.17 (−3.88%)",
+          "summary": "January Brent fell $3.20 to $89.37/bbl on Nov 23, its lowest close since August, and WTI fell $3.24 to $80.17. The drop followed the reopening of Libya's Sharara line, higher Middle East supply and a Reuters poll pointing to a build of about 900,000 bbl in US crude stocks. Brent traded near $88.40 in Asia on Tuesday.",
+          "source": "The Nation (Thailand) / Gulf News",
           "date": "2026-11-23",
-          "url": "https://www.cornerstonefuturesllc.com/post/morning-highlights-oil-falls-despite-weekend-attacks-on-shipping-a-saudi-refinery-and-bahrain-as-f"
+          "url": "https://www.nationthailand.com/news/world/40073845"
         },
         {
-          "title": "US natural gas near $3.30/MMBtu, third weekly gain",
-          "summary": "Henry Hub futures traded around $3.30/MMBtu on Nov 20, on track for a weekly gain above 3% after an 11-month high of $3.372 on Nov 18. EIA reported a 20 bcf storage build vs 27 bcf expected; inventories are 2.1% above normal. Exact settle not confirmed.",
-          "source": "Trading Economics",
-          "date": "2026-11-20",
-          "url": "https://tradingeconomics.com/commodity/natural-gas/news/601655"
-        },
-        {
-          "title": "10-year yield 4.92%, down 12 bp; FedWatch shows 88.6% odds of December hike",
-          "summary": "The 10-year Treasury yield was down 12 basis points at 4.92% late Monday morning, per Motley Fool. A Zacks market note says CME FedWatch put the probability of a 25 bp Fed hike in December at 88.6% as of Friday, citing sticky inflation; Fed Governor Cook said last week larger hikes may be needed later.",
-          "source": "Motley Fool / Zacks via Yahoo Finance",
+          "title": "10-year yield 4.92%; markets price ~98% odds of Dec 9 Fed hike",
+          "summary": "The 10-year Treasury yield ended Nov 23 at 4.92% and the 2-year at 4.63%, both unchanged, while the 30-year eased about 2 bp to 5.29%. CME FedWatch showed about 98% odds of a 25 bp rate increase at the Dec 9 meeting. Figures come from an AI-assisted recap that cites CNBC, AP and Bloomberg.",
+          "source": "CappNotes",
           "date": "2026-11-23",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-nov-23-073600160.html"
+          "url": "https://cappnotes.substack.com/p/closing-look-monday-november-23-2026"
         },
         {
-          "title": "CrowdStrike agrees to buy Zscaler for $43.9 billion",
-          "summary": "CrowdStrike agreed to acquire Zscaler in a deal valued at $43.9 billion; by late morning Monday Zscaler shares were up 14.6% and CrowdStrike down 11.0%. Gold was up 4.4% at $3,670.",
-          "source": "Motley Fool",
+          "title": "Dollar index +0.5% to 104.35; gold +3.4%, US natural gas $3.536",
+          "summary": "On Nov 23 the dollar index rose 0.52% to about 104.35, EUR/USD fell 0.60% to 1.0904 and USD/JPY rose to about 158.94. Gold futures gained 3.38% to $3,634.30/oz and Henry Hub natural gas rose 3.66% to $3.536/MMBtu.",
+          "source": "CappNotes",
           "date": "2026-11-23",
-          "url": "https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-midday-nov-23-nasdaq-surges-nearly-7-as-jensen-huang-s-return-sparks-historic-ai-rebound/"
+          "url": "https://cappnotes.substack.com/p/closing-look-monday-november-23-2026"
         },
         {
-          "title": "Week ahead: PCE, GDP Wednesday; markets shut Thanksgiving",
-          "summary": "Wednesday Nov 25 at 7:30 CT brings October PCE, the second Q3 GDP estimate and durable goods. Flash PMIs come Monday and consumer confidence Tuesday. US markets close Thursday for Thanksgiving and close early (noon CT) Friday.",
-          "source": "TradingKey",
-          "date": "2026-11-22",
-          "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262316778-week-ahead-us-gdp-pce-dell-hpe-report-anthropic-tradingkey"
+          "title": "Europe higher, Korea lower on Monday",
+          "summary": "Germany's DAX rose 2.15% to 25,337.27 and the Stoxx Europe 600 rose 1.81% to 636.97 on Nov 23. In Asia, South Korea's Kospi fell 3.31% to 4,708.54, India's Nifty 50 fell 1.75%, Taiwan's Taiex rose 2.16% and Japan was closed for a holiday.",
+          "source": "CappNotes",
+          "date": "2026-11-23",
+          "url": "https://cappnotes.substack.com/p/closing-look-monday-november-23-2026"
+        },
+        {
+          "title": "US markets close early Thursday for Thanksgiving",
+          "summary": "The week's calendar is shortened by the Thanksgiving holiday, with US markets closing early on Thursday.",
+          "source": "CappNotes",
+          "date": "2026-11-23",
+          "url": "https://cappnotes.substack.com/p/closing-look-monday-november-23-2026"
         }
       ]
     },
@@ -160,53 +146,46 @@
       "name": "World",
       "items": [
         {
-          "title": "NATO council meets Monday on Russian missiles that landed in Poland",
-          "summary": "Two suspected Russian missiles, one identified as a Kh-101 cruise missile, and a suspected drone crashed in southeastern Poland on Nov 20 during a large Russian attack on Ukraine; no injuries were reported. NATO Secretary-General Rutte pledged to defend Polish territory, and the North Atlantic Council meets in Brussels on Nov 23; Poland has requested more early-warning aircraft and F-35s.",
-          "source": "Stars and Stripes",
-          "date": "2026-11-22",
-          "url": "https://www.stripes.com/theaters/europe/2026-11-22/poland-russia-nato-missiles-23541547.html"
+          "title": "Trump says he may renew Iran strikes after New Year without a deal",
+          "summary": "Trump said he is inclined to resume strikes on Iran after the New Year unless Tehran agrees to a long-term deal on hostilities and nuclear limits. Separately, Iran's deputy foreign minister said Iran would take whatever measures it considers necessary.",
+          "source": "Everything Briefing (citing Fox News) / gCaptain",
+          "date": "2026-11-24",
+          "url": "https://everythingbriefing.substack.com/p/todays-news-history-and-thanksgiving"
         },
         {
-          "title": "Iran says Hormuz shipping can resume quickly if US meets its terms",
-          "summary": "Foreign Ministry spokesman Esmaeil Baqaei said on Nov 23 that safe navigation could be restored quickly if the US lifts sanctions and its naval blockade and meets other terms of the June memorandum; talks remain stalled. Saudi Arabia, Kuwait and Qatar condemned a Nov 21 Iranian attack on Bahrain that injured two people and started a fire at an industrial site in Sitra. An IRGC claim to have downed a US MQ-1 drone was not confirmed by CENTCOM.",
-          "source": "ABC News",
-          "date": "2026-11-23",
-          "url": "https://abcnews.com/International/live-updates/iran-live-updates-tehran-strait-hormuz-safe-demands/?id=138369648"
+          "title": "EU proposes 22nd Russia sanctions package",
+          "summary": "The European Commission unveiled its 22nd sanctions package against Russia on Nov 23. Reported measures include a ban on Russian athletes competing under the Russian flag in the EU and a visa ban on Russian ex-combatants.",
+          "source": "The Standard",
+          "date": "2026-11-24",
+          "url": "https://www.thestandard.com.hk/news/article/349420/Morning-Recap-November-24-2026"
         },
         {
-          "title": "Russian strike on Dymer near Kyiv kills 11",
-          "summary": "A Russian drone strike partly destroyed an apartment building in Dymer, Kyiv region; Reuters reported the death toll at 11 on Nov 23. Separately, overnight attacks on Kryvyi Rih on Nov 21 killed two, per AP.",
-          "source": "Reuters / AP via Just Security",
-          "date": "2026-11-23",
-          "url": "https://www.justsecurity.org/165610/early-edition-november-23-2026/"
+          "title": "Ukrainian strike halts Novoshakhtinsk refinery in Rostov",
+          "summary": "A Ukrainian missile and drone attack stopped operations at the Novoshakhtinsk refinery in Russia's Rostov region, according to the regional governor. Zelenskyy said Ukrainian intelligence indicates Russia is preparing new large-scale strikes.",
+          "source": "The Standard / Everything Briefing",
+          "date": "2026-11-24",
+          "url": "https://www.thestandard.com.hk/news/article/349420/Morning-Recap-November-24-2026"
         },
         {
-          "title": "COP31 in Turkey ends without a new climate agreement",
-          "summary": "The UN climate talks in Antalya ran until late Sunday, Nov 22, past the Friday deadline, and closed without a new deal amid divisions over fossil fuels, per the BBC.",
-          "source": "BBC via Just Security",
-          "date": "2026-11-23",
-          "url": "https://www.justsecurity.org/165610/early-edition-november-23-2026/"
+          "title": "Estonia to close its border with Russia",
+          "summary": "Estonia plans to close its border with Russia after Moscow accused it of hostile actions, according to Reuters and NBC reports linked in the briefing. Details on timing were not given in the summary seen.",
+          "source": "Everything Briefing (citing Reuters, NBC)",
+          "date": "2026-11-24",
+          "url": "https://everythingbriefing.substack.com/p/todays-news-history-and-thanksgiving"
         },
         {
-          "title": "Trump says Iran's deal terms are not acceptable; Vance declines Iran-strike question",
-          "summary": "Trump said on Nov 20 that Iran wants a deal but not one acceptable to him, per AP. Vice President Vance declined to say whether he would have authorized strikes on Iran, per Reuters.",
-          "source": "AP / Reuters via Just Security",
-          "date": "2026-11-23",
-          "url": "https://www.justsecurity.org/165610/early-edition-november-23-2026/"
+          "title": "Indonesia factory fire kills 24, dozens missing",
+          "summary": "Indonesian authorities said 24 people were killed in a factory fire, with dozens still missing, according to a Reuters report linked in the briefing.",
+          "source": "Everything Briefing (citing Reuters)",
+          "date": "2026-11-24",
+          "url": "https://everythingbriefing.substack.com/p/todays-news-history-and-thanksgiving"
         },
         {
-          "title": "Mexico captures Sinaloa Cartel leader on FBI most-wanted list",
-          "summary": "The Justice Department said on Nov 21 that the Mexican military arrested senior Sinaloa Cartel leader 'Chapo Isidro', one of the FBI's Ten Most Wanted fugitives.",
-          "source": "US Department of Justice",
-          "date": "2026-11-21",
-          "url": "https://www.justice.gov/opa/pr/senior-leader-sinaloa-cartel-and-one-fbis-ten-most-wanted-fugitives-arrested-mexico"
-        },
-        {
-          "title": "Democrat wins NC House seat by 330 votes after recount",
-          "summary": "Chuck Hubbard defeated 11-term Republican Rep. Virginia Foxx by 330 votes following a recount, adding to Democrats' midterm House gains, per AP and the New York Times.",
-          "source": "AP / NYT via Just Security",
-          "date": "2026-11-22",
-          "url": "https://www.justsecurity.org/165610/early-edition-november-23-2026/"
+          "title": "DR Congo and Kenya agree to restore ties",
+          "summary": "DR Congo's Tshisekedi and Kenya's Ruto agreed to restore bilateral relations and committed to non-interference, after mediation in Oyo by Congo-Brazzaville's Sassou Nguesso and Togo's Gnassingbé. The briefing also gives DRC Ebola figures of more than 5,779 deaths and 11,793 cases, without naming the source of those numbers.",
+          "source": "Everything Briefing (citing BBC)",
+          "date": "2026-11-24",
+          "url": "https://everythingbriefing.substack.com/p/todays-news-history-and-thanksgiving"
         }
       ]
     },
@@ -214,32 +193,25 @@
       "name": "Sports",
       "items": [
         {
-          "title": "Broncos beat Raiders 38–24, improve to 8–2; at Steelers Friday",
-          "summary": "Denver rallied from a 17–0 deficit on Nov 22; Jonah Coleman ran for 111 yards and Ja'Quan McMillan's 35-yard interception return for a touchdown sealed it. Bo Nix was 19 of 35 for 225 yards, 1 TD and 1 INT; the Raiders fell to 4–7. Next: at Pittsburgh on Black Friday, Nov 27 (kickoff time not confirmed in the source). AFC West standing after Week 12 not stated in the source.",
-          "source": "ProFootballTalk via Yahoo Sports",
+          "title": "Broncos beat Raiders 38–24, now 8–2; at Steelers Friday 7:00 pm CT",
+          "summary": "Denver beat Las Vegas 38–24 at Empower Field on Nov 22 to move to 8–2, level with Kansas City (8–2) at the top of the AFC West and listed first. Next: at Pittsburgh (6–4) on Friday, Nov 27, at Acrisure Stadium, 7:00 pm Central, on Amazon.",
+          "source": "Fox Sports",
           "date": "2026-11-22",
-          "url": "https://sports.yahoo.com/articles/broncos-move-8-2-38-004821058.html"
+          "url": "https://www.foxsports.com/nfl/week-12-denver-broncos-vs-pittsburgh-steelers-nov-27-2026-game-boxscore-11285"
         },
         {
-          "title": "Texans 4–6, second in AFC South; host Ravens Nov 29",
-          "summary": "Houston beat Indianapolis 26–3 on Nov 19 for its first home win and sits second in the AFC South behind Jacksonville (7–2). DE Chris Braswell was carted off with a knee injury on the opening kickoff; no diagnosis yet. Next: Ravens (4–6) at Houston, Sunday Nov 29, CBS (kickoff listed as noon CT, unconfirmed).",
+          "title": "Texans 4–6 after 26–3 win over Colts; host Ravens Sunday",
+          "summary": "Houston beat Indianapolis 26–3 on Nov 19 to reach 4–6 and sat second in the AFC South behind Jacksonville in ESPN's standings after that game. Defensive end Chris Braswell was carted off with a right knee injury. Next: vs Baltimore at home on Sunday, Nov 29 (schedule lists noon Central, subject to flex changes).",
           "source": "ESPN",
           "date": "2026-11-19",
           "url": "https://www.espn.com/nfl/recap/_/gameId/401873066"
         },
         {
-          "title": "Alcaraz beats Zverev 6-2, 7-6 to win first ATP Finals title",
-          "summary": "Alcaraz went 5–0 in Turin and beat world No. 1 Zverev in 2 hours 1 minute on Nov 22 for his sixth title of 2026 and 30th overall (ATP gives the tiebreak score inconsistently). Zverev finishes the year at No. 1 with 10,350 points; Alcaraz closed to within 350 points of No. 2 Sinner, who missed the event injured.",
-          "source": "ATP Tour",
-          "date": "2026-11-22",
-          "url": "https://www.atptour.com/en/news/alcaraz-zverev-nitto-atp-finals-2026-sunday"
-        },
-        {
-          "title": "Davis Cup Final 8 in Bologna, Nov 24–29",
-          "summary": "Quarterfinals: Czechia–Canada Tue 9 AM CT, Italy–Korea Wed 9 AM CT, Great Britain–Germany Thu 3 AM CT and Austria–Spain Thu from 10 AM CT. Final is Sunday Nov 29 at 8 AM CT (schedule published in September).",
-          "source": "Tennis Tour Talk",
-          "date": "2026-09-24",
-          "url": "https://tennistourtalk.com/137708/schedule-confirmed-for-2026-davis-cup-final-8"
+          "title": "Davis Cup Final 8 opens in Bologna: Czechia vs Canada today",
+          "summary": "The Final 8 runs Nov 24–29. Czechia plays Canada on Tuesday, Italy faces South Korea on Wednesday, and Germany–Great Britain and Austria–Spain follow on Thursday. Three-time defending champion Italy, captained by Filippo Volandri, brings Cobolli (No. 6), Darderi, Musetti, Berrettini and Vavassori.",
+          "source": "Tennis TourTalk",
+          "date": "2026-11-24",
+          "url": "https://tennistourtalk.com/139503/italy-returns-to-davis-cup-final-8-ready-to-defend-title"
         }
       ]
     }
