@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T05:58:35-06:00",
+  "updated": "2026-11-24T12:55:50-06:00",
   "sections": [
     {
       "name": "Tankers & Chemicals",
@@ -17,6 +17,13 @@
           "source": "gCaptain",
           "date": "2026-11-23",
           "url": "https://gcaptain.com/u-s-targets-financial-networks-behind-irans-tanker-fleet-and-oil-trade"
+        },
+        {
+          "title": "US investigating cyberattacks on up to 50 energy tankers",
+          "summary": "Citing the Wall Street Journal, Cornerstone Futures reports the US is looking into cyberattacks on as many as 50 energy tankers, some of which also received bomb threats. Officials reportedly see Iran as the main suspect and Russia as a possibility, but a Trump administration official said no evidence of Iranian involvement has been found; attribution is unconfirmed.",
+          "source": "Cornerstone Futures (citing WSJ)",
+          "date": "2026-11-24",
+          "url": "https://www.cornerstonefuturesllc.com/post/morning-highlights-oil-at-three-month-lows-as-surplus-signs-build-us-probes-cyberattacks-on-up-to"
         },
         {
           "title": "Brent Dec–Jan spread narrows to $0.16 as Gulf flows hold up",
@@ -52,11 +59,18 @@
       "name": "Shipping, Ports & Security",
       "items": [
         {
-          "title": "Hormuz: 550 non-Iranian transits in October, up from 504",
-          "summary": "Lloyd's List Intelligence counted 550 non-Iranian-linked Hormuz transits in October (260 eastbound, 290 westbound), including 442 tankers and gas carriers, versus 504 in September. UKMTO had logged 163 security events since the conflict began as of Nov 11, with seven attacks in Nov 5–11; about 10% of vessels attacked since mid-August were confirmed lost or sunk. The next brief is due Dec 3.",
-          "source": "Lloyd's List Intelligence",
-          "date": "2026-11-19",
-          "url": "https://www.lloydslistintelligence.com/resources/blog/strait-of-hormuz-brief-19-november-2026"
+          "title": "Hormuz: ten tankers struck in a week; Iran adds 26 tugs to its list",
+          "summary": "UKMTO reported attacks on Nov 22 on three eastbound tankers in Hormuz and a bulk carrier anchored off Khor Fakkan (fire, no casualties), bringing JMIC's count to 10 tankers hit since Nov 16. JMIC logged 114 US-facilitated transits on Nov 19–21 (about 38/day, versus a 2025 average near 138/day), with about 218 ships waiting east of the Strait. The IMO counts 141 incidents and 25 seafarer deaths as of Nov 23; Iran's IRGC separately claims three tankers hit mines, which has not been independently confirmed.",
+          "source": "gCaptain / AP",
+          "date": "2026-11-24",
+          "url": "https://gcaptain.com/four-more-ships-attacked-as-iran-widens-hormuz-crackdown-to-tugboats/"
+        },
+        {
+          "title": "Swedish Club repeats advice to avoid Hormuz unless essential",
+          "summary": "The Gothenburg-based P&I club told members in a Nov 24 update to avoid Hormuz transits unless operationally essential, and to review war-risk cover, sanctions exposure, navigation capability and crew readiness. Independent monitoring recorded 106 facilitated transits on Nov 15–18, about 26.5 per day.",
+          "source": "gCaptain",
+          "date": "2026-11-24",
+          "url": "https://gcaptain.com/swedish-club-urges-ships-to-avoid-strait-of-hormuz-as-security-situation-deteriorates/"
         },
         {
           "title": "Mississippi at New Orleans: safety zone stays through Dec 11",
@@ -78,13 +92,6 @@
           "source": "Intelligent Audit",
           "date": "2026-11-23",
           "url": "https://www.intelligentaudit.com/blog/ia-insights-november-23-2026"
-        },
-        {
-          "title": "Durban congestion: carriers add surcharges, recovery not expected before 2027",
-          "summary": "Early-November data show 17 container ships waiting for Durban and average anchorage time of 7.46 days. Maersk raised its Far East–South Africa peak season surcharge to $1,000/TEU and $2,000/FEU from Nov 9, and officials expect recovery between December and February.",
-          "source": "SeaVantage",
-          "date": "2026-11-09",
-          "url": "https://www.seavantage.com/blog/durban-port-congestion-november-2026"
         }
       ]
     },
@@ -99,22 +106,29 @@
           "url": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-213053319.html"
         },
         {
-          "title": "Nvidia up about 31% after Huang reinstated as CEO",
-          "summary": "Nvidia's board unanimously reinstated Jensen Huang as president, CEO and director, effective immediately, a week after he stepped down; the shares closed up about 31.5% on Nov 23. Lawmakers from both parties criticised the decision, and reports that Trump and Vance intervened rest on unnamed sources.",
-          "source": "The Standard / AP via Yahoo Finance",
+          "title": "Tuesday midday: Dow +0.8%, S&P 500 −0.5%, Nasdaq −1.4% as chips retreat",
+          "summary": "As of about 1:00 pm ET on Nov 24 (session not yet closed), the Dow was at 49,997.70 (+0.81%), the S&P 500 at 7,202.38 (−0.48%) and the Nasdaq at 23,744.60 (−1.43%). Chipmakers gave back part of Monday's gain, with Nvidia down about 7% after its 31% rise on Monday following Jensen Huang's reinstatement as CEO.",
+          "source": "Yahoo Finance",
           "date": "2026-11-24",
-          "url": "https://www.thestandard.com.hk/news/article/349420/Morning-Recap-November-24-2026"
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-rebound-090614276.html"
         },
         {
-          "title": "Oil: Brent settles $89.37 (−3.46%), WTI $80.17 (−3.88%)",
-          "summary": "January Brent fell $3.20 to $89.37/bbl on Nov 23, its lowest close since August, and WTI fell $3.24 to $80.17. The drop followed the reopening of Libya's Sharara line, higher Middle East supply and a Reuters poll pointing to a build of about 900,000 bbl in US crude stocks. Brent traded near $88.40 in Asia on Tuesday.",
-          "source": "The Nation (Thailand) / Gulf News",
-          "date": "2026-11-23",
-          "url": "https://www.nationthailand.com/news/world/40073845"
+          "title": "Oil: Brent $90.52 (+1.3%), WTI $81.33 (+1.5%) midday Tuesday",
+          "summary": "At 1:03 pm EDT on Nov 24, Brent was up $1.15 at $90.52/bbl and WTI up $1.16 at $81.33, after both touched their lowest levels since August earlier in the session (Brent $88.10, WTI $79.07). Monday's settlements were Brent $89.37 (−3.46%) and WTI $80.17 (−3.88%). New ship attacks near Hormuz supported prices, while Deutsche Bank's estimate of a 1.7 million b/d surplus limited gains.",
+          "source": "Reuters via GV Wire",
+          "date": "2026-11-24",
+          "url": "https://gvwire.com/2026/11/24/oil-rises-1-on-hormuz-ship-attacks-surplus-supply-outlook-curbs-gains/"
+        },
+        {
+          "title": "Sanofi agrees to buy Insmed for $175/share, about $41.0bn",
+          "summary": "Sanofi will acquire Insmed for $175 per share in cash, an equity value of about $41.0bn (€37.6bn), funded with debt and cash. Closing is expected in the first half of 2027, subject to Insmed shareholder and regulatory approvals; Sanofi expects the deal to add to EPS by the end of 2028.",
+          "source": "Sanofi (SEC filing)",
+          "date": "2026-11-24",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001121404/000119312526473314/d130092dex991.htm"
         },
         {
           "title": "10-year yield 4.92%; markets price ~98% odds of Dec 9 Fed hike",
-          "summary": "The 10-year Treasury yield ended Nov 23 at 4.92% and the 2-year at 4.63%, both unchanged, while the 30-year eased about 2 bp to 5.29%. CME FedWatch showed about 98% odds of a 25 bp rate increase at the Dec 9 meeting. Figures come from an AI-assisted recap that cites CNBC, AP and Bloomberg.",
+          "summary": "The 10-year Treasury yield ended Nov 23 at 4.92% and the 2-year at 4.63%, both unchanged, while the 30-year eased about 2 bp to 5.29%. CME FedWatch showed about 98% odds of a 25 bp rate increase at the Dec 9 meeting. Figures come from an AI-assisted recap that cites CNBC, AP and Bloomberg. Midday Nov 24, Yahoo Finance showed the 10-year near 4.90% and futures pricing about a 95% chance of a 25 bp hike.",
           "source": "CappNotes",
           "date": "2026-11-23",
           "url": "https://cappnotes.substack.com/p/closing-look-monday-november-23-2026"
@@ -127,24 +141,24 @@
           "url": "https://cappnotes.substack.com/p/closing-look-monday-november-23-2026"
         },
         {
-          "title": "Europe higher, Korea lower on Monday",
-          "summary": "Germany's DAX rose 2.15% to 25,337.27 and the Stoxx Europe 600 rose 1.81% to 636.97 on Nov 23. In Asia, South Korea's Kospi fell 3.31% to 4,708.54, India's Nifty 50 fell 1.75%, Taiwan's Taiex rose 2.16% and Japan was closed for a holiday.",
-          "source": "CappNotes",
-          "date": "2026-11-23",
-          "url": "https://cappnotes.substack.com/p/closing-look-monday-november-23-2026"
-        },
-        {
-          "title": "US markets close early Thursday for Thanksgiving",
-          "summary": "The week's calendar is shortened by the Thanksgiving holiday, with US markets closing early on Thursday.",
-          "source": "CappNotes",
-          "date": "2026-11-23",
-          "url": "https://cappnotes.substack.com/p/closing-look-monday-november-23-2026"
+          "title": "Holiday week: GDP and PCE data Wednesday; markets shut Thursday",
+          "summary": "GDP and PCE inflation figures are due Wednesday, Nov 25, at 7:30 am CT. US stock markets are closed Thursday for Thanksgiving and close early, at noon CT, on Friday.",
+          "source": "StockTitan",
+          "date": "2026-11-24",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-24-2026"
         }
       ]
     },
     {
       "name": "World",
       "items": [
+        {
+          "title": "Iran says no talks with US until its seven conditions are met",
+          "summary": "Iran's chief negotiator Mohammad Bagher Qalibaf said Tehran will not negotiate until its conditions are met; state media say they include lifting sanctions, ending the US naval blockade of Iranian ports and releasing seized assets, though Iran has not published the list. Separately, US Vice President Vance and Secretary of State Rubio met Qatar's prime minister at the White House.",
+          "source": "AP via KPRC / Just Security",
+          "date": "2026-11-24",
+          "url": "https://www.click2houston.com/news/world/2026/11/24/iran-insists-no-talks-with-the-us-until-its-7-conditions-are-met-and-other-mideast-news/"
+        },
         {
           "title": "Trump says he may renew Iran strikes after New Year without a deal",
           "summary": "Trump said he is inclined to resume strikes on Iran after the New Year unless Tehran agrees to a long-term deal on hostilities and nuclear limits. Separately, Iran's deputy foreign minister said Iran would take whatever measures it considers necessary.",
@@ -153,16 +167,23 @@
           "url": "https://everythingbriefing.substack.com/p/todays-news-history-and-thanksgiving"
         },
         {
-          "title": "EU proposes 22nd Russia sanctions package",
-          "summary": "The European Commission unveiled its 22nd sanctions package against Russia on Nov 23. Reported measures include a ban on Russian athletes competing under the Russian flag in the EU and a visa ban on Russian ex-combatants.",
-          "source": "The Standard",
+          "title": "Israeli strikes in Gaza kill at least 9, including Hamas security official",
+          "summary": "AP reported at least nine Palestinians killed in four Israeli strikes overnight Monday into Tuesday, among them Na'im Abu Nahl, head of internal security at the Hamas-run Interior Ministry. Gaza's health ministry puts the war's death toll at 74,746.",
+          "source": "AP via KPRC",
+          "date": "2026-11-24",
+          "url": "https://www.click2houston.com/news/world/2026/11/24/iran-insists-no-talks-with-the-us-until-its-7-conditions-are-met-and-other-mideast-news/"
+        },
+        {
+          "title": "Ukrainian strike halts Novoshakhtinsk refinery in Rostov",
+          "summary": "A Ukrainian missile and drone attack stopped operations at the Novoshakhtinsk refinery in Russia's Rostov region, according to the regional governor. Zelenskyy said Ukrainian intelligence indicates Russia is preparing new large-scale strikes. A Russian attack on Zaporizhzhia killed two people and wounded 40, Just Security's daily summary reports.",
+          "source": "The Standard / Everything Briefing / Just Security",
           "date": "2026-11-24",
           "url": "https://www.thestandard.com.hk/news/article/349420/Morning-Recap-November-24-2026"
         },
         {
-          "title": "Ukrainian strike halts Novoshakhtinsk refinery in Rostov",
-          "summary": "A Ukrainian missile and drone attack stopped operations at the Novoshakhtinsk refinery in Russia's Rostov region, according to the regional governor. Zelenskyy said Ukrainian intelligence indicates Russia is preparing new large-scale strikes.",
-          "source": "The Standard / Everything Briefing",
+          "title": "EU proposes 22nd Russia sanctions package",
+          "summary": "The European Commission unveiled its 22nd sanctions package against Russia on Nov 23. Reported measures include a ban on Russian athletes competing under the Russian flag in the EU and a visa ban on Russian ex-combatants.",
+          "source": "The Standard",
           "date": "2026-11-24",
           "url": "https://www.thestandard.com.hk/news/article/349420/Morning-Recap-November-24-2026"
         },
@@ -177,13 +198,6 @@
           "title": "Indonesia factory fire kills 24, dozens missing",
           "summary": "Indonesian authorities said 24 people were killed in a factory fire, with dozens still missing, according to a Reuters report linked in the briefing.",
           "source": "Everything Briefing (citing Reuters)",
-          "date": "2026-11-24",
-          "url": "https://everythingbriefing.substack.com/p/todays-news-history-and-thanksgiving"
-        },
-        {
-          "title": "DR Congo and Kenya agree to restore ties",
-          "summary": "DR Congo's Tshisekedi and Kenya's Ruto agreed to restore bilateral relations and committed to non-interference, after mediation in Oyo by Congo-Brazzaville's Sassou Nguesso and Togo's Gnassingbé. The briefing also gives DRC Ebola figures of more than 5,779 deaths and 11,793 cases, without naming the source of those numbers.",
-          "source": "Everything Briefing (citing BBC)",
           "date": "2026-11-24",
           "url": "https://everythingbriefing.substack.com/p/todays-news-history-and-thanksgiving"
         }
@@ -201,17 +215,17 @@
         },
         {
           "title": "Texans 4–6 after 26–3 win over Colts; host Ravens Sunday",
-          "summary": "Houston beat Indianapolis 26–3 on Nov 19 to reach 4–6 and sat second in the AFC South behind Jacksonville in ESPN's standings after that game. Defensive end Chris Braswell was carted off with a right knee injury. Next: vs Baltimore at home on Sunday, Nov 29 (schedule lists noon Central, subject to flex changes).",
+          "summary": "Houston beat Indianapolis 26–3 on Nov 19 to reach 4–6 and sat second in the AFC South behind Jacksonville in ESPN's standings after that game. Defensive end Chris Braswell was carted off with a right knee injury. Next: vs Baltimore at home on Sunday, Nov 29 (schedule lists noon Central, subject to flex changes). ESPN's game page lists Baltimore at 4–7, with quarterback Lamar Jackson on injured reserve (thumb).",
           "source": "ESPN",
           "date": "2026-11-19",
           "url": "https://www.espn.com/nfl/recap/_/gameId/401873066"
         },
         {
-          "title": "Davis Cup Final 8 opens in Bologna: Czechia vs Canada today",
-          "summary": "The Final 8 runs Nov 24–29. Czechia plays Canada on Tuesday, Italy faces South Korea on Wednesday, and Germany–Great Britain and Austria–Spain follow on Thursday. Three-time defending champion Italy, captained by Filippo Volandri, brings Cobolli (No. 6), Darderi, Musetti, Berrettini and Vavassori.",
-          "source": "Tennis TourTalk",
+          "title": "Davis Cup: Machac puts Czechia 1–0 up on Canada",
+          "summary": "In the Final 8 quarterfinal in Bologna on Nov 24, Tomas Machac (No. 59) beat Liam Draxl (No. 154) 6–2, 3–6, 6–2. Jiri Lehecka (No. 14) faces Felix Auger-Aliassime (No. 17) next, with a deciding doubles if needed. Italy plays South Korea Wednesday; Germany–Great Britain and Austria–Spain follow Thursday, and the final is Sunday, Nov 29.",
+          "source": "The Canadian Press via paNOW / Tennis TourTalk",
           "date": "2026-11-24",
-          "url": "https://tennistourtalk.com/139503/italy-returns-to-davis-cup-final-8-ready-to-defend-title"
+          "url": "https://panow.com/2026/11/24/machac-beats-draxl-czechia-leads-canada-1-0-in-davis-cup-final-8-quarterfinal/"
         }
       ]
     }
