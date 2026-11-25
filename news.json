@@ -1,9 +1,16 @@
 {
-  "updated": "2026-11-25T05:53:21-06:00",
+  "updated": "2026-11-25T12:55:31-06:00",
   "sections": [
     {
       "name": "Tankers & Chemicals",
       "items": [
+        {
+          "title": "EU proposes ban on Russian-insured tankers in 22nd sanctions package",
+          "summary": "European Commission President von der Leyen outlined on Nov 23 a package that would bar tankers insured in Russia, stop EU firms from servicing Russian energy infrastructure including refineries, and add more than 70 vessels to the shadow-fleet list. It needs unanimous approval from all 27 member states. S&P data showed no oil or chemical tankers discharging in the Netherlands in November carried Russian cover.",
+          "source": "Hellenic Shipping News / S&P Global",
+          "date": "2026-11-25",
+          "url": "https://www.hellenicshippingnews.com/eu-moves-to-ban-tankers-insured-in-russia-repair-services-at-russian-refineries/"
+        },
         {
           "title": "Week 47: Baltic clean index 2,581; one-year MR charter $34,000/day",
           "summary": "Compass Maritime's Nov 23 report puts the Baltic Clean Tanker Index at 2,581, against 2,592 a week earlier and 811 a year ago, while the dirty index rose to 5,081 from 4,483. Its one-year time-charter assessment for MRs eased to $34,000/day from $36,500, with LR1s unchanged at $53,500 and VLCCs down to $184,500 from $234,000.",
@@ -33,13 +40,6 @@
           "url": "https://www.bairdmaritime.com/amp/story/shipping/tankers/frontline-books-record-tanker-rates"
         },
         {
-          "title": "Large-tanker S&P: 2016-built VLCC sold for $210m",
-          "summary": "Compass lists the 2016-built VLCC Bangladesh Prosperity (308,285 dwt) sold for $210m, a vessel it notes changed hands for $85.8m in October 2025, and the 2017-built Olympic Lady at $185m. In smaller sizes, the 2007-built Grand Ace6 (46,192 dwt) went for $20.5m and the 2023-built Bagshot (17,933 dwt) for $37.25m. Compass counts more than 90 VLCC sales so far in 2026 versus 50-plus in all of 2025; it values a 5-year-old MR at $53m.",
-          "source": "Compass Maritime",
-          "date": "2026-11-23",
-          "url": "https://compassmar.com/wp-content/uploads/2026/11/Compass-Weekly-Report-Nov-23-26-1.pdf"
-        },
-        {
           "title": "Jones Act waiver extended a third time, to cargoes loaded by Feb 14",
           "summary": "DHS has extended the Jones Act waiver for 90 days from Nov 16; covered products must be loaded by 11:59 pm ET on Feb 14, 2027. The list of 237 HTS codes is unchanged and includes crude, refined products, LPG/LNG, fertilizers, ethyl alcohol for fuel, sulfur-based chemicals, anhydrous ammonia and biodiesel; the vessel-availability and reporting steps also stay the same.",
           "source": "Holland & Knight",
@@ -59,6 +59,20 @@
       "name": "Shipping, Ports & Security",
       "items": [
         {
+          "title": "Hormuz: IRGC says two tankers struck mines on an 'unauthorized route'",
+          "summary": "Iran's Revolutionary Guards said two oil tankers hit naval mines and caught fire while using a route not coordinated with Iran, and the army said it had deployed new systems to control the strait. The claim has not been independently confirmed. Iranian officials also said the country can withstand the US naval blockade.",
+          "source": "Just Security (citing Reuters)",
+          "date": "2026-11-25",
+          "url": "https://www.justsecurity.org/165910/early-edition-november-25-2026/"
+        },
+        {
+          "title": "Houthis claim drone attack on Saudi Ras Tanura refinery",
+          "summary": "Yemen's Houthis said they attacked the Ras Tanura refinery in Saudi Arabia's Eastern Province. The Saudi-led coalition said it intercepted four drones over the area but did not confirm a hit on the plant; separately, Saudi Civil Defense said a strike on a Riyadh tower injured 11 people.",
+          "source": "Just Security (citing Reuters, NYT)",
+          "date": "2026-11-25",
+          "url": "https://www.justsecurity.org/165910/early-edition-november-25-2026/"
+        },
+        {
           "title": "Houthis threaten Jeddah and other Saudi Red Sea ports over Hodeidah",
           "summary": "The Houthis said Wednesday they would target Jeddah and all Saudi Red Sea ports if Saudi Arabia attacks Hodeidah, and urged shipping companies to withdraw vessels. The Saudi-led coalition said it struck targets at Hodeidah on Wednesday; on Tuesday a Houthi drone hit a Riyadh tower, injuring at least 11 people according to Saudi authorities.",
           "source": "Baird Maritime / Reuters",
@@ -73,11 +87,11 @@
           "url": "https://rallies.ai/news/oil-settles-up-2-as-traders-weigh-continued-hormuz-ship-attacks-49ed49d098482c83"
         },
         {
-          "title": "Ukrainian sea-drone attack at Benghazi naval base kills two Libyan officers",
-          "summary": "Two Libyan naval officers died Tuesday of wounds from Sunday's Ukrainian drone attack on a Russian warship at the Benghazi naval base; Ukraine says seven sea drones were used. AP images show a cargo ship, Angara, and a capsized corvette at the base, and the eastern Libyan forces have vowed retaliation.",
-          "source": "AP via KPRC",
+          "title": "Libya: Ukrainian drone strike on Russian warship kills two officers; Italy objects",
+          "summary": "A Ukrainian drone attack on a Russian warship at an eastern Libyan port killed two Libyan naval officers, and the Libyan National Army has vowed retaliation. Italian Foreign Minister Antonio Tajani criticized Ukraine over the strikes on Russian ships in the Mediterranean.",
+          "source": "Just Security (citing AP, Reuters)",
           "date": "2026-11-25",
-          "url": "https://www.click2houston.com/news/world/2026/11/25/libyan-naval-officers-die-following-ukrainian-drone-attack-and-other-mideast-news/"
+          "url": "https://www.justsecurity.org/165910/early-edition-november-25-2026/"
         },
         {
           "title": "Houston Ship Channel: deep-draft transits up 12% in October",
@@ -92,13 +106,6 @@
           "source": "Compass Maritime",
           "date": "2026-11-23",
           "url": "https://compassmar.com/wp-content/uploads/2026/11/Compass-Weekly-Report-Nov-23-26-1.pdf"
-        },
-        {
-          "title": "Container and dry bulk: WCI $4,176/FEU, Capesizes $37,438/day",
-          "summary": "Nortilus reports the Drewry World Container Index at $4,176 per 40ft, down 3% on the week, and Capesize earnings at $37,438/day, down 7.2%.",
-          "source": "Nortilus",
-          "date": "2026-11-20",
-          "url": "https://nortilus.substack.com/p/weekly-market-update-week-47"
         }
       ]
     },
@@ -106,11 +113,25 @@
       "name": "Markets",
       "items": [
         {
-          "title": "Tuesday Nov 24 close: Dow 50,018.70 (+0.85%), S&P 500 7,201.09 (−0.50%), Nasdaq −1.48%",
-          "summary": "The Dow rose 423.39 points to close above 50,000, while the S&P 500 fell 36.08 points and the Nasdaq dropped 356.03 to 23,733.54 as chip stocks gave back part of Monday's gain; Nvidia fell 5.86%. Technology lost 3.26% and health care gained 2.95%. Figures are for Tuesday's session; Wednesday's session had not opened at publication.",
-          "source": "CappNotes",
-          "date": "2026-11-24",
-          "url": "https://cappnotes.substack.com/p/closing-look-tuesday-november-24"
+          "title": "Tuesday Nov 24 close: Dow 50,018.70 (+0.85%), S&P 500 7,201.09 (−0.50%), Nasdaq 23,733.54 (−1.48%)",
+          "summary": "In the latest completed session, the Dow rose 423.39 points while the S&P 500 fell 36.08 and the Nasdaq 356.02, with chip stocks weighing after Nvidia fell 5.9%. By 1:37 pm ET Wednesday, Yahoo Finance showed the Dow up 0.40% at 50,217.17 and the Nasdaq down 1.19% as the tech selloff continued. US markets are closed Thursday for Thanksgiving and close early Friday.",
+          "source": "Investrade / Yahoo Finance",
+          "date": "2026-11-25",
+          "url": "https://investrade.com/morning-preview-november-25-2026/"
+        },
+        {
+          "title": "Q3 GDP revised to 4.3%; October core PCE inflation 3.3% year on year",
+          "summary": "Third-quarter growth was revised to a 4.3% annual rate from 3.4%, against a 3.5% consensus. October PCE prices rose 0.3% on the month and 3.8% on the year; core PCE rose 0.3% and 3.3%, slightly above the 3.2% expected.",
+          "source": "Yahoo Finance / Fox Business",
+          "date": "2026-11-25",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
+        },
+        {
+          "title": "10-year yield eases to 4.82%; futures price about 97–98% odds of a December Fed hike",
+          "summary": "The 10-year Treasury yield was 4.82% mid-morning Wednesday, down 7 basis points from about 4.90%, and the 30-year was 5.24%. CME FedWatch showed roughly 97–98% odds of a 25 bp hike at the Dec 9–10 meeting and about 63% odds of another in January.",
+          "source": "Yahoo Finance / Fox Business",
+          "date": "2026-11-25",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
         },
         {
           "title": "Oil: Brent settles $91.40 (+2.27%), WTI $82.05 (+2.35%)",
@@ -120,39 +141,25 @@
           "url": "https://investrade.com/market-review-november-24-2026/"
         },
         {
-          "title": "US natural gas up 15.3% to $3.671/MMBtu",
-          "summary": "Henry Hub futures rose 15.30% Tuesday to $3.671/MMBtu, attributed to a cold snap and short-covering.",
-          "source": "CappNotes",
-          "date": "2026-11-24",
-          "url": "https://cappnotes.substack.com/p/closing-look-tuesday-november-24"
+          "title": "Dell and Workday beat estimates; Deere misses",
+          "summary": "Dell reported Q3 adjusted EPS of $9.45 on $54.94B revenue, versus estimates of $6.59 and $49.32B, and announced a $25B buyback. Workday posted adjusted EPS of $2.82 against $2.74 expected, while Deere's Q4 adjusted EPS of $3.89 missed the $4.03 consensus.",
+          "source": "Investrade",
+          "date": "2026-11-25",
+          "url": "https://investrade.com/morning-preview-november-25-2026/"
         },
         {
-          "title": "10-year yield 4.90%; futures price about 95% odds of a December Fed hike",
-          "summary": "The 10-year Treasury yield eased about 1 basis point to roughly 4.90% Tuesday, with the 2-year at 4.63% and the 30-year at 5.29%. CME FedWatch showed about 95–96% probability of a 25 bp rate increase at the December meeting, with the remainder on 50 bp.",
-          "source": "CappNotes",
-          "date": "2026-11-24",
-          "url": "https://cappnotes.substack.com/p/closing-look-tuesday-november-24"
+          "title": "US expected to announce new tariffs on China, EU and 14 other economies",
+          "summary": "Sources told AP the US Trade Representative is expected to announce tariffs on 16 economies after a subsidies investigation, with timing still subject to change. A White House official cited 20% for China and 15% for the EU, effective January at the earliest, with exemptions for energy and some food, chips and pharmaceuticals.",
+          "source": "Just Security (citing AP) / Westfair",
+          "date": "2026-11-25",
+          "url": "https://www.justsecurity.org/165910/early-edition-november-25-2026/"
         },
         {
-          "title": "Dollar index −0.47% to 103.83; gold −2.6%, silver −5.7%",
-          "summary": "The dollar index fell to 103.83 Tuesday; EUR/USD was about 1.097 and USD/JPY about 159.18. Spot gold fell 2.64% to $3,555 and silver 5.65% to $40.71. The Conference Board's consumer confidence index came in at 103.3 versus a 92.5 consensus.",
-          "source": "CappNotes / Investrade",
-          "date": "2026-11-24",
-          "url": "https://cappnotes.substack.com/p/closing-look-tuesday-november-24"
-        },
-        {
-          "title": "Abroad: Kospi +6.3%, Nikkei +3.9%; Stoxx 600 −0.7%",
-          "summary": "On Tuesday Korea's Kospi rose 6.32% to 5,006.03 and Japan's Nikkei 225 gained 3.91% to 58,644.63, while the Hang Seng slipped 0.73%. In Europe the Stoxx 600 fell 0.66% to 632.74 and Germany's DAX 1.26% to 25,017.81.",
-          "source": "CappNotes",
-          "date": "2026-11-24",
-          "url": "https://cappnotes.substack.com/p/closing-look-tuesday-november-24"
-        },
-        {
-          "title": "Today: Q3 GDP, October PCE and jobless claims at 7:30 am CT",
-          "summary": "The second estimate of Q3 GDP, October PCE inflation, personal income and spending, durable goods orders and weekly jobless claims are due Wednesday at 8:30 am ET (7:30 am CT). US markets are closed Thursday for Thanksgiving and close early, at 12:00 pm CT, on Friday.",
-          "source": "CappNotes",
-          "date": "2026-11-24",
-          "url": "https://cappnotes.substack.com/p/closing-look-tuesday-november-24"
+          "title": "Asia lower Wednesday: Nikkei −1,633 to 57,011; Hang Seng −253",
+          "summary": "Asian markets fell with chip stocks, with the Nikkei down 1,633 points to 57,011, Shanghai down 71 to 3,476 and the Hang Seng down 253 to 21,966. In early European trade the DAX was 40 points lower at 24,977 and the FTSE 100 18 points higher at 10,485.",
+          "source": "Investrade",
+          "date": "2026-11-25",
+          "url": "https://investrade.com/morning-preview-november-25-2026/"
         }
       ]
     },
@@ -160,25 +167,39 @@
       "name": "World",
       "items": [
         {
-          "title": "Huawei convicted on 10 of 12 counts in Brooklyn federal trial",
-          "summary": "A federal jury in Brooklyn found Huawei guilty on 10 of 12 counts, including bank fraud, sanctions violations and theft of trade secrets, and acquitted it of racketeering conspiracy. The trial ran more than two months.",
-          "source": "Times of Israel",
+          "title": "Ukraine: Russian strike in Odesa region kills two; Putin warns of retaliation over refinery attacks",
+          "summary": "Odesa Governor Oleh Kiper said a Russian strike killed two people and injured three, including a child. Putin said Ukraine has continued striking Russian oil refineries despite US requests to stop and called retaliation inevitable.",
+          "source": "Just Security (citing Reuters)",
           "date": "2026-11-25",
-          "url": "https://www.timesofisrael.com/liveblog-november-25-2026"
+          "url": "https://www.justsecurity.org/165910/early-edition-november-25-2026/"
         },
         {
-          "title": "Gaza: Israeli strikes kill at least nine, including Hamas security official",
-          "summary": "Israeli strikes killed at least nine people from Monday night into Tuesday, including four in Shati camp; one was identified as an internal security official for Hamas in northern Gaza. Gaza's Health Ministry puts the war's death toll above 74,710.",
-          "source": "AP via KPRC",
+          "title": "Gaza: Israeli strike kills head of Hamas interior security service",
+          "summary": "Israel killed Hamas colonel Mohammad Abuelouf, who led the group's interior security service, in a strike on Beach camp in Gaza City; Hamas-run health officials and medics said his wife and two children were also killed.",
+          "source": "Just Security (citing Reuters)",
           "date": "2026-11-25",
-          "url": "https://www.click2houston.com/news/world/2026/11/25/libyan-naval-officers-die-following-ukrainian-drone-attack-and-other-mideast-news/"
+          "url": "https://www.justsecurity.org/165910/early-edition-november-25-2026/"
         },
         {
-          "title": "Netanyahu and Kushner discuss Gaza humanitarian issues",
-          "summary": "Prime Minister Netanyahu spoke by phone Tuesday with US envoy Jared Kushner about humanitarian conditions in Gaza, and both said they would keep working together. The call followed Kushner's public warning that Israel risked international isolation and the Board of Peace's criticism over its Hamas disarmament plan.",
-          "source": "Times of Israel",
+          "title": "Huawei convicted of trade-secret conspiracy and bank fraud, acquitted of racketeering",
+          "summary": "A federal jury in Brooklyn found Huawei guilty of conspiring to steal trade secrets and of bank fraud but not of racketeering. Huawei said it will pursue all available legal options.",
+          "source": "Just Security (citing BBC, DOJ)",
           "date": "2026-11-25",
-          "url": "https://www.timesofisrael.com/liveblog-november-25-2026"
+          "url": "https://www.justsecurity.org/165910/early-edition-november-25-2026/"
+        },
+        {
+          "title": "Alaska Senate: Sullivan concedes to Peltola",
+          "summary": "Republican Sen. Dan Sullivan conceded the Alaska Senate race to Democrat Mary Peltola, who leads by more than four points, after the Justice Department dropped its suit over certification.",
+          "source": "Just Security (citing NYT)",
+          "date": "2026-11-25",
+          "url": "https://www.justsecurity.org/165910/early-edition-november-25-2026/"
+        },
+        {
+          "title": "FAA ground stop traced to misconfigured router",
+          "summary": "Investigators linked last week's nationwide FAA ground stop to a new router whose settings flooded older equipment; a source said investigators are about 90% sure no bad actor was involved. FAA and Transportation Department leaders face congressional hearings next week.",
+          "source": "Westfair Communications",
+          "date": "2026-11-25",
+          "url": "https://westfaironline.com/world-news/u-s-and-world-news-for-nov-25-2/"
         },
         {
           "title": "Sudan: drone strikes on Damazin kill at least 19",
@@ -188,25 +209,11 @@
           "url": "https://www.click2houston.com/news/world/2026/11/25/libyan-naval-officers-die-following-ukrainian-drone-attack-and-other-mideast-news/"
         },
         {
-          "title": "Ukraine: death toll from strike on apartment block north of Kyiv reaches 11",
-          "summary": "At least 11 people died in a Russian strike on an apartment building north of Kyiv, and a drone strike on a clinic in Zaporizhzhia killed at least three. German media reported NATO agencies warning that Russia could launch a nuclear-armed satellite by year end.",
-          "source": "PBS NewsHour",
-          "date": "2026-11-23",
-          "url": "https://www.pbs.org/newshour/show/news-wrap-storms-threaten-thanksgiving-travel-as-airlines-rebound-from-tech-failures"
-        },
-        {
-          "title": "COP31 climate talks in Turkey end without agreement",
-          "summary": "The COP31 negotiations in Turkey collapsed, with about 90 countries refusing to sign the outcome; the US did not take part.",
-          "source": "PBS NewsHour",
-          "date": "2026-11-23",
-          "url": "https://www.pbs.org/newshour/show/news-wrap-storms-threaten-thanksgiving-travel-as-airlines-rebound-from-tech-failures"
-        },
-        {
-          "title": "Storms on both coasts threaten Thanksgiving travel",
-          "summary": "More than 3,700 US flights were delayed Monday with a ground stop at Chicago O'Hare, and Delta said it had recovered from an automated-system outage. Pacific storms are bringing rain and mountain snow to the West, while a Gulf system may bring rain, wind and snow to the East.",
-          "source": "PBS NewsHour",
-          "date": "2026-11-23",
-          "url": "https://www.pbs.org/newshour/show/news-wrap-storms-threaten-thanksgiving-travel-as-airlines-rebound-from-tech-failures"
+          "title": "Solomon Islands and Australia sign treaty barring foreign military bases",
+          "summary": "The two countries signed a security treaty that rules out a foreign military or security base in the Solomon Islands. A diplomat said the 2022 Solomon Islands–China security pact will not be renewed when it expires next year.",
+          "source": "Just Security (citing NYT)",
+          "date": "2026-11-25",
+          "url": "https://www.justsecurity.org/165910/early-edition-november-25-2026/"
         }
       ]
     },
@@ -228,18 +235,18 @@
           "url": "https://www.espn.com/nfl/game/_/gameId/401873085/ravens-texans"
         },
         {
+          "title": "Davis Cup: Musetti beats Hong 6–0, 7–6(5) to put Italy 1–0 up on South Korea",
+          "summary": "In the Bologna quarterfinal, Lorenzo Musetti won the opening singles in 1 hour 34 minutes, with Flavio Cobolli to face Soonwoo Kwon next. The winner meets the Czech Republic in Friday's semifinal.",
+          "source": "LaPresse",
+          "date": "2026-11-25",
+          "url": "https://uk.lapresse.it/sport-en/2026/11/25/davis-cup-musetti-wins-first-singles-match-italy-south-korea-1-0/"
+        },
+        {
           "title": "Davis Cup: Czechia beats Canada 2–0 to reach Bologna semifinals",
           "summary": "Tomas Machac beat Liam Draxl 6-2, 3-6, 6-2 and Jiri Lehecka beat Felix Auger-Aliassime 7-6(4), 6-2, so the doubles was not needed. Canada played without Denis Shapovalov and Gabriel Diallo, who withdrew injured.",
           "source": "Canadian Press via CP24",
           "date": "2026-11-24",
           "url": "https://www.cp24.com/news/sports/2026/11/24/auger-aliassime-draxl-lose-as-czechia-downs-canada-in-davis-cup-final-8-quarterfinal/"
-        },
-        {
-          "title": "Davis Cup today: holders Italy face debutants South Korea",
-          "summary": "Italy plays South Korea in a best-of-three quarterfinal in Bologna on Wednesday, Nov 25; the published schedule lists a 4:00 pm local (9:00 am CT) start. The winner meets Czechia in Friday's semifinal; Great Britain–Germany and Austria–Spain are scheduled for Thursday, and the final is Sunday, Nov 29.",
-          "source": "Tennis Tour Calendar",
-          "date": "2026-11-25",
-          "url": "https://tennistourcalendar.com/2026-davis-cup-final-8-draw-and-schedule/"
         }
       ]
     }
