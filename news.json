@@ -1,57 +1,50 @@
 {
-  "updated": "2026-11-26T12:57:02-06:00",
+  "updated": "2026-11-27T05:59:02-06:00",
   "sections": [
     {
       "name": "Tankers & Chemicals",
       "items": [
         {
-          "title": "LR2 fleet: fewer than a quarter of 542 ships now carry clean cargoes",
-          "summary": "Signal Ocean data cited by Bloomberg show a record three-quarters of large product tankers are carrying crude, and LR2s' share of refined-product trade fell to 12% in Q3 from almost 18% a year earlier. The LR2 fleet has grown 12% since January 2025; RBC estimates about 1.7m b/d of more than 9m b/d of Middle East refining capacity is offline, about 1m b/d of it needing months of repairs.",
-          "source": "gCaptain (Bloomberg)",
-          "date": "2026-11-25",
-          "url": "https://gcaptain.com/most-large-fuel-tankers-now-ship-dirty-crude-upending-trading/"
+          "title": "BIMCO: clean-product cargo volumes down 11% year to date; tanker indices 25–30% off October peaks",
+          "summary": "BIMCO's November outlook puts year-to-date crude and dirty-product volumes 5% below last year and clean-product volumes 11% lower. Middle East tanker exports reached 75% of pre-war levels over the past four weeks, while Russian clean-product exports have averaged 58% below last year since the start of Q3 after Ukrainian refinery strikes. The Platts global dirty and clean tanker indices are 25–30% below their October highs; BIMCO sets out 'Hormuz open' and 'Hormuz closed' scenarios for 2027–28 without numeric forecasts.",
+          "source": "Cyprus Shipping News (BIMCO)",
+          "date": "2026-11-27",
+          "url": "https://cyprusshippingnews.com/2026/11/27/disruptions-still-dominate-tanker-market-outlook/"
         },
         {
-          "title": "Chemical tanker Med Emre sinks off Ibiza with about 7,000 t of diesel; one seafarer dead",
-          "summary": "The Malta-flagged, 2019-built 8,270 dwt chemical tanker sank off Ibiza while carrying around 7,000 tonnes of diesel, and one crew member died. A pollution response is under way; the cause has not been reported.",
+          "title": "Med Emre update: no pollution reported so far after chemical tanker capsized off Ibiza",
+          "summary": "The Malta-flagged, 2019-built 8,270 dwt chemical tanker capsized and sank off Ibiza with about 7,000 t of diesel aboard; one crew member died. gCaptain reports no pollution detected so far. The cause has not been reported.",
+          "source": "gCaptain",
+          "date": "2026-11-26",
+          "url": "https://gcaptain.com/crew-member-dies-after-diesel-tanker-capsizes-off-ibiza-no-pollution-so-far/"
+        },
+        {
+          "title": "Hafnia defers decision on its $687m stake in Torm",
+          "summary": "Hafnia has postponed a decision on what to do with its Torm shareholding, valued at about $687m, according to Splash. Torm previously rejected Hafnia's all-share merger proposals, and Hafnia had said with its Q3 results that it planned to distribute Torm shares as an extraordinary dividend; no new timetable was given in the headline report.",
           "source": "Splash247",
           "date": "2026-11-26",
-          "url": "https://splash247.com/diesel-laden-tanker-sinks-off-ibiza-leaving-one-dead/"
+          "url": "https://splash247.com/hafnia-pushes-back-decision-on-687m-torm-stake/"
         },
         {
           "title": "BIMCO issues tanker clause putting STS transfer costs and risks on charterers",
-          "summary": "BIMCO has published a new standard clause for tanker charter parties that assigns the costs and risks of ship-to-ship cargo transfers to charterers, while keeping the master's authority over vessel safety.",
-          "source": "Splash247",
+          "summary": "BIMCO has published a standard clause for tanker charter parties covering ship-to-ship transfers and special operations. It assigns the related costs and risks to charterers while preserving the master's authority over vessel safety.",
+          "source": "Hellenic Shipping News",
           "date": "2026-11-26",
-          "url": "https://splash247.com/bimco-puts-ship-to-ship-transfer-costs-on-charterers/"
+          "url": "https://www.hellenicshippingnews.com/new-clause-available-for-tanker-ship-to-ship-transfers-and-special-operations/"
         },
         {
-          "title": "Kpler: 44m bbl of Iranian oil afloat on 37 tankers; AIS signal shows spoofing",
-          "summary": "Kpler counts about 44m bbl of Iranian crude and condensate on 37 tankers (16 VLCCs, 12 suezmaxes, 6 aframaxes, 3 MRs) and no Iranian export loadings since Aug 24 under the US blockade. It found the AIS identity of KHAT SHEKAN matching the chemical tanker STOLT BOBCAT (IMO 9511167), and counted five STS transfers of about 1.9m bbl on Nov 12–18. Kpler recorded 16 Hormuz attacks in November through Nov 20.",
+          "title": "Kpler: 44m bbl of Iranian oil afloat on 37 tankers under US blockade",
+          "summary": "Kpler counts about 44m bbl of Iranian crude and condensate on 37 tankers (16 VLCCs, 12 suezmaxes, 6 aframaxes, 3 MRs) and no Iranian export loadings since Aug 24. It found an AIS identity spoofing the chemical tanker STOLT BOBCAT (IMO 9511167) and counted five STS transfers of about 1.9m bbl on Nov 12–18.",
           "source": "Kpler",
           "date": "2026-11-25",
           "url": "https://www.kpler.com/blog/ais-suggests-a-breach-of-the-us-blockade-satellite-evidence-says-otherwise"
         },
         {
           "title": "EU proposes ban on Russian-insured tankers in 22nd sanctions package",
-          "summary": "European Commission President von der Leyen outlined on Nov 23 a package that would bar tankers insured in Russia, stop EU firms from servicing Russian energy infrastructure including refineries, and add more than 70 vessels to the shadow-fleet list. It needs unanimous approval from all 27 member states. S&P data showed no oil or chemical tankers discharging in the Netherlands in November carried Russian cover.",
-          "source": "Hellenic Shipping News / S&P Global",
+          "summary": "The European Commission's draft 22nd package would bar tankers insured in Russia from EU services and restrict repair services at Russian refineries.",
+          "source": "Hellenic Shipping News",
           "date": "2026-11-25",
           "url": "https://www.hellenicshippingnews.com/eu-moves-to-ban-tankers-insured-in-russia-repair-services-at-russian-refineries/"
-        },
-        {
-          "title": "Week 47: Baltic clean index 2,581; one-year MR charter $34,000/day",
-          "summary": "Compass Maritime's Nov 23 report puts the Baltic Clean Tanker Index at 2,581, against 2,592 a week earlier and 811 a year ago, while the dirty index rose to 5,081 from 4,483. Its one-year time-charter assessment for MRs eased to $34,000/day from $36,500, with LR1s unchanged at $53,500 and VLCCs down to $184,500 from $234,000.",
-          "source": "Compass Maritime",
-          "date": "2026-11-23",
-          "url": "https://compassmar.com/wp-content/uploads/2026/11/Compass-Weekly-Report-Nov-23-26-1.pdf"
-        },
-        {
-          "title": "15-year-old VLCC valued at $165m, about 25% above a newbuild",
-          "summary": "Using CMB.Tech and Clarksons data, gCaptain reports a 15-year-old VLCC at $165m against $132m for a newbuild and a 10-year average of $46m for that age. VLCC spot earnings were $149,945/day in Q3 (vs $30,486 a year earlier); round voyages average 23 days against an optimal 9–10, and the orderbook is 33.1% of the fleet.",
-          "source": "gCaptain",
-          "date": "2026-11-24",
-          "url": "https://gcaptain.com/used-supertankers-now-cost-more-than-new-ships-as-hormuz-war-upends-shipping-markets/"
         }
       ]
     },
@@ -59,50 +52,43 @@
       "name": "Shipping, Ports & Security",
       "items": [
         {
-          "title": "ADNOC L&S confirms death of crew member missing after Nov 17 Hormuz attack",
-          "summary": "ADNOC Logistics & Services said a Jordanian seafarer, unaccounted for since an attack on one of its vessels in the Strait of Hormuz on Nov 17, has been found dead. Eleven crew were injured; nine have been discharged and two remain in care.",
-          "source": "Hellenic Shipping News",
+          "title": "Vortexa: Hormuz tanker transits above 26 a day in November despite more attacks",
+          "summary": "Vortexa data show ships carrying crude, fuels and LNG through Hormuz held above 26 a day on a seven-day average through Nov 19, versus below 25 on at least two-thirds of October days. VLCC and suezmax transits eased while smaller ships rose, with more product tankers switching to crude. Vortexa notes spoofing and dark transits mean counts may be revised.",
+          "source": "gCaptain (Bloomberg)",
           "date": "2026-11-26",
-          "url": "https://www.hellenicshippingnews.com/adnoc-logistics-services-reports-crew-member-death-after-attack/"
+          "url": "https://gcaptain.com/hormuz-tanker-traffic-rises-this-month-even-as-attacks-increase/"
+        },
+        {
+          "title": "UNCTAD: seaborne trade flat in 2026; IMO confirms 141 attacks in Hormuz region",
+          "summary": "UNCTAD's Review of Maritime Transport 2026 says global maritime trade stalled this year after 1.9% growth in 2025 to 12.3bn tonnes. The IMO has confirmed 141 attacks across Hormuz and the wider Middle East as of Nov 23, with 25 seafarer deaths; late-November Hormuz traffic averaged about 4–28 ships a day against 85–140 before the war. UKMTO logged about 22 incidents in November, 10 involving tankers.",
+          "source": "The National",
+          "date": "2026-11-27",
+          "url": "https://thenationalnews.com/news/uae/2026/11/27/shipping-review-shows-further-pain-ahead-as-disruption-fuels-cost-of-living-crisis"
+        },
+        {
+          "title": "Jazan refinery strike kills one worker; coalition says it hit 50 Houthi targets",
+          "summary": "A strike on Saudi Aramco's Jazan refinery on Nov 26 killed a Nepali worker, injured others and caused a fire and temporary shutdown of some operations, according to the Saudi energy ministry; the Saudi-led coalition blamed the Houthis. The coalition said it then destroyed 50 targets in Sanaa, Hodeidah and Saada, including the launcher used in the attack.",
+          "source": "Gulf News",
+          "date": "2026-11-27",
+          "url": "https://gulfnews.com/world/mena/middle-east-tensions-trump-signals-victory-as-iran-offers-kuwait-drone-probe-1.500762639"
         },
         {
           "title": "Abu Dhabi restricts tanker movements over Gulf security",
-          "summary": "Splash247 reports that Abu Dhabi has placed restrictions on tanker movements as security concerns in the Gulf grow. Details of the measures were not available in the material reviewed.",
-          "source": "Splash247",
+          "summary": "Abu Dhabi authorities have placed restrictions on tanker movements in response to rising security risks in Gulf waters. ADNOC also confirmed that a Jordanian crew member missing since the Nov 17 attack on an ADNOC L&S vessel in Hormuz was found dead; two of 11 injured crew remain in care.",
+          "source": "Splash247 / Gulf News",
           "date": "2026-11-26",
           "url": "https://splash247.com/abu-dhabi-restricts-tanker-movements-amid-mounting-gulf-security-concerns/"
         },
         {
-          "title": "Houthis target Saudi Red Sea ports; projectile hits Jazan with minor damage",
-          "summary": "The Saudi-led coalition said a Houthi projectile struck Jazan port on Nov 25, causing minor damage and no civilian injuries, and a drone was intercepted near Jeddah Islamic Port. On Nov 26 Saudi forces reported intercepting two ballistic missiles aimed at Riyadh, a cruise missile toward the western region and drones over the Eastern Province. The Houthis describe the strikes as retaliation for coalition attacks on Hodeidah.",
-          "source": "Rigzone (Bloomberg) / The National",
+          "title": "Japanese port congestion leaves container ships waiting at berth",
+          "summary": "Splash reports congestion at Japanese container terminals is keeping boxships stranded at berth.",
+          "source": "Splash247",
           "date": "2026-11-26",
-          "url": "https://www.thenationalnews.com/news/gulf/2026/11/26/saudi-arabia-intercepts-wave-of-retaliatory-houthi-attacks/"
+          "url": "https://splash247.com/japanese-port-congestion-leaves-boxships-stranded-at-berth/"
         },
         {
-          "title": "Gulf: two tanker incidents off the UAE on Nov 25; crews safe",
-          "summary": "UKMTO logged an explosion, believed to be an unidentified projectile, about 50 nm west of Dubai at 21:30 GMT on Nov 25; the tanker, not named, reported no damage. Separately, a Liberia-flagged tanker was hit about 14 nm northwest of Ras Al Khaimah, causing an engine-room fire; all 22 crew were reported safe.",
-          "source": "N Globe (citing UKMTO)",
-          "date": "2026-11-26",
-          "url": "https://nglobenews.com/en/article/uae-tanker-explosion-west-dubai-ukmto-2026-11-26"
-        },
-        {
-          "title": "Red Sea and Indian Ocean states move toward a combined maritime task force",
-          "summary": "Signatories to the Djibouti Code of Conduct and Jeddah Amendment adopted a regional maritime security strategy at a Nov 11–13 meeting in Antananarivo and agreed to advance a Combined Maritime Task Force, the IMO said. The legal framework and concept of operations are to be developed in 2027; no deployment timeline or naval assets have been announced.",
-          "source": "gCaptain",
-          "date": "2026-11-25",
-          "url": "https://gcaptain.com/red-sea-and-indian-ocean-nations-advance-plans-for-combined-maritime-security-force/"
-        },
-        {
-          "title": "Maersk and ONE reported to be discussing a north–south vessel-sharing deal",
-          "summary": "The Loadstar, citing unnamed sources, reports that Maersk and Ocean Network Express are working on a global north–south vessel-sharing agreement; neither carrier had commented. Maersk holds 16.1% and ONE 9% of weekly Far East–West Coast South America capacity.",
-          "source": "gCaptain (The Loadstar)",
-          "date": "2026-11-24",
-          "url": "https://gcaptain.com/maersk-and-one-eye-landmark-global-north-south-shipping-alliance/"
-        },
-        {
-          "title": "Lower Mississippi at New Orleans: safety zone in place through Dec 11",
-          "summary": "The Coast Guard has set a one-mile safety zone (mile 95.5–96.5) for salvage of the capsized cruise vessel American Heritage, struck by the asphalt tanker Atlantic Asphalt on Nov 13. Limited two-way traffic is allowed through the Crescent City Connection main span, but deep-draft ships and tows of 10 or more barges move one-way; the alternate channel remains closed.",
+          "title": "Lower Mississippi at New Orleans: Coast Guard safety zone remains through Dec 11",
+          "summary": "The Coast Guard's safety zone for the salvage of a river cruise ship after its collision with a tanker near New Orleans remains in place through Dec 11, with traffic restrictions on that stretch of the river.",
           "source": "gCaptain",
           "date": "2026-11-18",
           "url": "https://gcaptain.com/coast-guard-restricts-mississippi-river-traffic-for-monthlong-cruise-ship-salvage/"
@@ -113,53 +99,46 @@
       "name": "Markets",
       "items": [
         {
-          "title": "Wednesday Nov 25 close: Dow 50,182.95 (+0.33%), S&P 500 7,182.78 (−0.25%), Nasdaq 23,585.80 (−0.62%)",
-          "summary": "The Dow gained 164.25 points, the S&P 500 lost 18.31 and the Nasdaq 147.73, after indexes recovered most of a steep early decline led by chip stocks; the Russell 2000 rose 0.71% to 2,704.06. Nvidia closed down 3.9% at $149.30 after S&P Global Ratings warned of a possible downgrade. US markets are closed Thursday for Thanksgiving and reopen Friday for a shortened session.",
-          "source": "Yahoo Finance / AP via BNN Bloomberg",
-          "date": "2026-11-25",
-          "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
+          "title": "Latest close (Wed Nov 25): Dow 50,182.95 (+0.33%), S&P 500 7,182.78 (−0.25%), Nasdaq 23,585.80 (−0.62%)",
+          "summary": "US markets were closed Thursday for Thanksgiving, so Wednesday's session is the latest completed one; the Nasdaq 100 briefly entered bear-market territory before recovering late in the day. Through Wednesday the S&P 500 was up nearly 4% for the week after Monday's rally on Jensen Huang's return as Nvidia CEO. At 5:41 a.m. ET Friday, futures were Nasdaq-100 +2.38%, S&P 500 +1.74% and Dow +1.30%; Friday's session closes early.",
+          "source": "Yahoo Finance / TipRanks",
+          "date": "2026-11-27",
+          "url": "https://www.tipranks.com/news/stock-market-today-nov-27-markets-reopen-for-shortened-black-friday-trading"
         },
         {
-          "title": "Oil: Brent settles $94.61 (+3.5%), WTI $83.68 (+2.0%)",
-          "summary": "Brent rose $3.21 and WTI $1.63 on Nov 25 after the Houthis claimed strikes on Saudi Arabia's Ras Tanura refinery and Riyadh. EIA data showed US crude stocks up 1.1 million barrels to 418.9 million in the week to Nov 20; OPEC+ meets Nov 29 to set 2027 output.",
-          "source": "The Circuitry",
-          "date": "2026-11-25",
-          "url": "https://thecircuitry.to/article/brent-settles-wednesday-at-9461-and-wti-at-8368"
+          "title": "Oil: Brent $96.61 and WTI $85.78 early Friday, set for first weekly gain in four weeks",
+          "summary": "Brent was at $96.61 a barrel at 04:50 GMT Friday after gaining nearly $2 on Thursday to its highest since Nov 6; WTI, which did not settle Thursday because of the US holiday, was $85.78, up $2.10 (2.5%) from Wednesday. Attacks on Hormuz tankers and Saudi facilities and refinery fires in Thailand and Venezuela were cited. Sources say OPEC+ is likely to keep output targets unchanged at least through Q1 2027 at Sunday's meeting.",
+          "source": "UNN (Reuters)",
+          "date": "2026-11-27",
+          "url": "https://unn.ua/en/news/oil-breaks-a-three-week-price-decline-what-is-the-reason"
         },
         {
-          "title": "OPEC+ meets this month to set 2027 baselines after capacity audit",
-          "summary": "OPEC+ ministers meet at the end of November to decide 2027 supply policy, using a DeGolyer and MacNaughton capacity audit whose results were given to each member on Nov 16 as the basis for targets from January. The UAE has left the group and Iraq is seeking a 6m b/d baseline. Brent fell almost 25% in November but remained about 40% above a year earlier as of Nov 24.",
-          "source": "gCaptain (Bloomberg)",
-          "date": "2026-11-24",
-          "url": "https://gcaptain.com/opec-faces-its-most-consequential-supply-decision-of-the-year/"
+          "title": "10-year Treasury yield rises to 4.92% in Asian trade; gold up 2.1%",
+          "summary": "The US 10-year yield rose about seven basis points to 4.92% in Asian trading Friday, with the prospect of Fed rate hikes cited as a factor. Spot gold gained 2.1% to $3,641.36 an ounce. The yen was little changed at 159.33 per dollar and the euro at $1.0978.",
+          "source": "Bloomberg via Swissinfo",
+          "date": "2026-11-27",
+          "url": "https://www.swissinfo.ch/eng/stocks-rise-with-nasdaq-futures,-treasuries-fall:-markets-wrap/92446051"
         },
         {
-          "title": "US natural gas: December Nymex closed $3.323/MMBtu on Nov 24",
-          "summary": "The December contract rose 13.9 cents (4.4%) on Tuesday after falling 22.7 cents to $3.184 on Monday, per EBW Analytics. Henry Hub spot was near $3.30, and the consensus for this week's EIA storage report is a 17–25 Bcf draw.",
-          "source": "Rigzone (EBW Analytics)",
-          "date": "2026-11-25",
-          "url": "https://www.rigzone.com/news/price_volatility_persists_for_usa_natural_gas-25-nov-2026-185167-article"
+          "title": "Europe closed higher Thursday: Stoxx 600 +1.7%, DAX 25,215 (+2.1%), FTSE 100 10,609 (+1.8%)",
+          "summary": "European shares rose on Nov 26, led by chipmakers ASML (+3.2%), Infineon (+4.0%) and STMicro (+4.3%); the CAC 40 gained 1.6% to 8,109 and Volkswagen led the DAX with +4.6%. UK and German 10-year yields rose 2 bp each.",
+          "source": "Saxo",
+          "date": "2026-11-27",
+          "url": "https://www.home.saxo/en-sg/content/articles/macro/asia-market-quick-take--27-november-2026-27112026"
         },
         {
-          "title": "Core PCE 3.3% in October; futures price about 98% odds of a December Fed hike",
-          "summary": "Core PCE inflation rose to 3.3% year on year in October, above the 3.2% expected. Fed funds futures implied about a 98% chance of a 25 bp increase at the December meeting; the Beige Book noted continued cost pressures in energy, transportation, insurance and tariff-related expenses. Yahoo's quote showed the 10-year Treasury yield at 4.848%, down 5.6 bp, and Freddie Mac's 30-year mortgage average at 7.21%.",
-          "source": "Yahoo Finance",
-          "date": "2026-11-25",
-          "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
+          "title": "Asia Friday: Shanghai +3.73%, Hang Seng +2.11%, Nikkei +2.11% after Beijing support pledge",
+          "summary": "Chinese shares rallied after state media said the government would take further steps to counter the market decline; the Shenzhen Component rose 6.3%. Japan's Topix gained 1.7%, with memory-chip makers among the leaders.",
+          "source": "TipRanks",
+          "date": "2026-11-27",
+          "url": "https://www.tipranks.com/news/stock-market-today-nov-27-markets-reopen-for-shortened-black-friday-trading"
         },
         {
-          "title": "US announces new tariffs on China, EU and other partners",
-          "summary": "The administration unveiled new tariffs of up to 20% on China, the EU and other trading partners, layered on existing rates and taking effect after a comment period, in January at the earliest. South Korean coverage says the 15% cap under the 2025 Korea–US deal remains for now.",
-          "source": "Yahoo Finance / SBS",
-          "date": "2026-11-25",
-          "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
-        },
-        {
-          "title": "Thursday Nov 26: Europe and Asia higher in early trade; dollar at 159.14 yen",
-          "summary": "In early Nov 26 trading the DAX was up 1.8% at 25,131.36, the CAC 40 up 1.6% and the FTSE 100 up 1.3% at 10,563.62. The Nikkei 225 gained 0.9% to 57,499.16, the Hang Seng 1.2% and the Kospi 0.3% after a 6.2% drop on Wednesday. The euro was at $1.0975.",
-          "source": "AP via BNN Bloomberg",
-          "date": "2026-11-26",
-          "url": "https://www.bnnbloomberg.ca/markets/2026/11/26/world-shares-push-higher-while-markets-in-us-will-be-closed-for-thanksgiving/"
+          "title": "Corporate: SAP plans at least 10,000 job cuts; Japan Tobacco and Altria eye Imperial Brands",
+          "summary": "Bloomberg reports SAP is preparing to eliminate at least 10,000 positions. Japan Tobacco rose more than 4% in Tokyo on reports it is exploring a takeover of Imperial Brands together with Altria.",
+          "source": "Bloomberg via Swissinfo",
+          "date": "2026-11-27",
+          "url": "https://www.swissinfo.ch/eng/stocks-rise-with-nasdaq-futures,-treasuries-fall:-markets-wrap/92446051"
         }
       ]
     },
@@ -167,46 +146,39 @@
       "name": "World",
       "items": [
         {
-          "title": "Zelenskyy warns Russia is preparing another major strike on energy infrastructure",
-          "summary": "Zelenskyy said on Nov 26, citing Ukrainian intelligence, that Russia is completing preparations for a large attack on energy and logistics. Crews were restoring power in six regions after an overnight attack with ballistic missiles and 113 drones that Ukraine's air force said hit 20 locations; Russia said it intercepted 343 Ukrainian drones. Figures come from each side's officials.",
-          "source": "AP via KSAT",
-          "date": "2026-11-26",
-          "url": "https://www.ksat.com/news/2026/11/26/zelenskyy-warns-of-imminent-major-russian-attack-on-ukraines-power-grid/"
+          "title": "Drone attack in Kuwait kills two Italian technicians; Iran denies role and offers joint probe",
+          "summary": "A drone struck an air-defence system in Kuwait, injuring four people; two Italians working for Rheinmetall Italia later died. Iran's military denied involvement and Foreign Minister Abbas Araghchi offered a joint investigation with Kuwait and Italy. Saudi Arabia and the UK condemned the attack, and EU Commission President Ursula von der Leyen called for more pressure on Iran.",
+          "source": "Gulf News",
+          "date": "2026-11-27",
+          "url": "https://gulfnews.com/world/mena/middle-east-tensions-trump-signals-victory-as-iran-offers-kuwait-drone-probe-1.500762639"
         },
         {
-          "title": "Kushner says peace talks are deadlocked over territory; EU leaders meet in Brussels",
-          "summary": "US envoy Jared Kushner said negotiations between Russia and Ukraine have reached a deadlock over Ukrainian territory and said Putin had agreed not to use nuclear weapons, a claim AP reported without confirmation. At an EU summit in Brussels, Italy's Giorgia Meloni said the war must not spread to the Mediterranean.",
-          "source": "AP via KSAT",
-          "date": "2026-11-26",
-          "url": "https://www.ksat.com/news/2026/11/26/zelenskyy-warns-of-imminent-major-russian-attack-on-ukraines-power-grid/"
+          "title": "Trump says 'victory at hand' in Iran war during Thanksgiving call",
+          "summary": "Speaking from Mar-a-Lago on Nov 26, President Trump said the US has victory at hand in the war with Iran and that the timing of its end is his decision. He played down reports of Russian and Chinese intelligence sharing with Tehran.",
+          "source": "Gulf News",
+          "date": "2026-11-27",
+          "url": "https://gulfnews.com/world/mena/middle-east-tensions-trump-signals-victory-as-iran-offers-kuwait-drone-probe-1.500762639"
         },
         {
-          "title": "Israeli court urges prosecutors to reconsider main bribery case against Netanyahu",
-          "summary": "The Jerusalem District Court panel suggested the attorney general consider dropping the most serious bribery case against Prime Minister Netanyahu and voiced doubts about a second case, while a third case over gifts of nearly $300,000 continues. The judges said their remarks are not a verdict; Netanyahu denies wrongdoing.",
-          "source": "Newser",
-          "date": "2026-11-26",
-          "url": "https://www.newser.com/story/400681/judges-urge-dropping-major-bribery-case-against-netanyahu.html"
+          "title": "Russian strikes kill 6 in Ukraine; power cut in six regions",
+          "summary": "Russian attacks over the past day killed six people and injured 25, and substation strikes left parts of six oblasts temporarily without power, with Dnipropetrovsk and Kherson hardest hit. Ukraine's air force said Russia launched 155 drones overnight, 110 of which were downed or suppressed.",
+          "source": "Kyiv Independent",
+          "date": "2026-11-27",
+          "url": "https://kyivindependent.com/russian-attacks-kill-6-injure-25-across-ukraine-over-past-day-power-outages-across-6-oblasts/"
         },
         {
-          "title": "Kim Jong Un calls for more nuclear weapons after factory visits",
-          "summary": "North Korean state media said Kim Jong Un inspected two nuclear-materials plants, one new and one being expanded, and called for expanding the arsenal. He did not take up President Trump's offer to meet during the recent Asia trip.",
-          "source": "Newser",
-          "date": "2026-11-26",
-          "url": "https://www.newser.com/story/400667/kim-jong-un-vows-to-build-more-nukes.html"
+          "title": "Zelenskyy confirms preparations for another prisoner exchange; 250 bodies repatriated",
+          "summary": "President Zelenskyy said work is under way on another prisoner exchange, without giving a date or numbers, and repeated his warning of a further large-scale Russian strike. Ukraine received 250 repatriated bodies on Nov 26.",
+          "source": "The Wire Tap (Ukrinform, Ukrainska Pravda)",
+          "date": "2026-11-27",
+          "url": "https://thechrissampson.substack.com/p/ukraine-daily-november-27-2026-russian"
         },
         {
-          "title": "Fire at Bangchak's 120,000 b/d Bangkok refinery injures nine; output halted",
-          "summary": "An explosion and fire at a Bangchak Corp. refinery unit in Bangkok on Nov 26 injured at least nine people, three critically. The fire was out in about an hour and production is halted; Thailand's energy minister said fuel supply should not be affected.",
-          "source": "Newser",
+          "title": "Kenyan court rules US-backed Ebola quarantine facility unconstitutional",
+          "summary": "A Kenyan court ruled the government violated the constitution by approving a 50-bed US-backed quarantine facility at a military base in Laikipia without public participation. The facility had prompted deadly protests; the US had planned $13.5m for Kenya's Ebola preparedness.",
+          "source": "Morning Star",
           "date": "2026-11-26",
-          "url": "https://www.newser.com/story/400674/evacuations-injuries-after-huge-blast-at-thai-oil-facility.html"
-        },
-        {
-          "title": "Merz tells Bundestag Russia poses a growing threat",
-          "summary": "German Chancellor Friedrich Merz defended higher defense spending and continued aid to Ukraine, telling parliament the threat from Russia is increasing. Separately, German defense officials are discussing how to offset a planned US military drawdown in Europe, according to POLITICO.",
-          "source": "Just Security (citing Reuters, POLITICO)",
-          "date": "2026-11-25",
-          "url": "https://www.justsecurity.org/165910/early-edition-november-25-2026/"
+          "url": "https://morningstaronline.co.uk/article/world-brief-67"
         }
       ]
     },
@@ -214,32 +186,32 @@
       "name": "Sports",
       "items": [
         {
-          "title": "Broncos (8–2) at Steelers (6–4) Friday, 2:00 pm CT on Prime Video",
-          "summary": "Denver entered the week tied with Kansas City at 8–2 atop the AFC West after a 38–24 win over Las Vegas on Nov 22; Pittsburgh is 4–0 at home and ESPN's preview says it will start Mason Rudolph at quarterback. ESPN lists Broncos S Taylor Rapp (quadriceps) and DE Sai'vion Jones (hamstring) out and RB J.K. Dobbins on reserve/suspension.",
-          "source": "ESPN",
+          "title": "Broncos (8–2) at Steelers (6–4) today, 2:00 pm CT on Prime Video",
+          "summary": "Denver goes for a seventh straight win at Pittsburgh, which is 4–0 at home. The team has ruled out S Taylor Rapp (quad) and DL Sai'vion Jones (hamstring), who did not travel; S Brandon Jones, WR Pat Bryant, S JL Skinner, RB Tyler Badie and TE Caleb Lohner practiced fully.",
+          "source": "Denver Broncos / ESPN",
           "date": "2026-11-26",
-          "url": "https://www.espn.com/nfl/game/_/gameId/401873083"
+          "url": "https://www.denverbroncos.com/news/game-preview-broncos-steelers-set-for-week-12-black-friday-matchup"
         },
         {
-          "title": "Texans (4–6) host Ravens (4–7) Sunday at noon CT on CBS",
-          "summary": "Houston is second in the AFC South behind Jacksonville (7–3) and 1–4 at home after a 26–3 win over Indianapolis on Nov 19. ESPN lists WR Marvin Harrison Jr., DE Danielle Hunter (both hamstring), G Wyatt Teller, TE Brevin Jordan and RB Woody Marks (concussion) as questionable; Baltimore QB Lamar Jackson is on injured reserve.",
-          "source": "ESPN",
+          "title": "Texans (4–6) host Ravens (4–7) Sunday at noon CT on CBS; Hunter missed practice",
+          "summary": "On Thursday's practice report, DE Danielle Hunter (hamstring), WR Kayshon Boutte (hip), TE Brevin Jordan (finger/foot) and C/G Keylan Rutledge (neck/shoulder) did not practice; WR Marvin Harrison Jr. was a full participant. For Baltimore, RB Derrick Henry (concussion) practiced fully Thursday and DT Nnamdi Madubuike (hamstring) did not practice. Game-status designations had not yet been issued.",
+          "source": "Houston Texans",
           "date": "2026-11-26",
-          "url": "https://www.espn.com/nfl/game/_/gameId/401873085/ravens-texans"
+          "url": "https://www.houstontexans.com/news/week-12-injury-report-texans-vs-ravens"
         },
         {
-          "title": "Davis Cup: Great Britain beats Germany 2–1 to reach the semifinals",
-          "summary": "Cameron Norrie beat Jan-Lennard Struff 6-3, 3-6, 6-2 and Alexander Zverev levelled by beating Arthur Fery 6-3, 6-2; Henry Patten and Neal Skupski then won the doubles over Krawietz and Puetz 6-2, 7-6(7). Britain plays the Austria–Spain winner on Saturday, Nov 28.",
-          "source": "Arab News (AFP)",
+          "title": "Davis Cup: Britain beats Germany 2–1 to reach first semifinal in seven years",
+          "summary": "Cameron Norrie beat Jan-Lennard Struff 6-3, 3-6, 6-2 and Henry Patten/Neal Skupski won the deciding doubles 6-2, 7-6(6) over Kevin Krawietz/Tim Puetz in Bologna on Nov 26. Britain faces the Austria–Spain winner in the semifinals.",
+          "source": "AP via Yahoo Sports",
           "date": "2026-11-26",
-          "url": "https://www.arabnews.com/tennis/zverevs-germany-miss-out-on-davis-cup-semi-with-defeat-by-great-britain-3014156"
+          "url": "https://sports.yahoo.com/tennis/articles/zverev-germany-davis-cup-loss-151313196.html"
         },
         {
-          "title": "Davis Cup: Italy meets Czechia in Friday's first semifinal",
-          "summary": "Czechia beat Canada 2–0 as Tomas Machac defeated Liam Draxl 6-2, 3-6, 6-2 and Jiri Lehecka beat Felix Auger-Aliassime 7-6(4), 6-2; Italy edged South Korea 2–1. The final in Bologna is on Sunday, Nov 29.",
-          "source": "Yahoo Sports",
-          "date": "2026-11-25",
-          "url": "https://sports.yahoo.com/tennis/articles/davis-cup-finals-2026-quarter-112819231.html"
+          "title": "Davis Cup: Italy plays Czechia in Friday's first semifinal",
+          "summary": "Three-time defending champion Italy beat South Korea 2–1 on Wednesday and Czechia beat Canada 2–0 on Tuesday. They meet in Bologna on Nov 27; the Finals run through Nov 29.",
+          "source": "AP via Yahoo Sports",
+          "date": "2026-11-26",
+          "url": "https://sports.yahoo.com/tennis/articles/zverev-germany-davis-cup-loss-151313196.html"
         }
       ]
     }
