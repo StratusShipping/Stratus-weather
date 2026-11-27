@@ -1,9 +1,16 @@
 {
-  "updated": "2026-11-27T05:59:02-06:00",
+  "updated": "2026-11-27T12:56:20-06:00",
   "sections": [
     {
       "name": "Tankers & Chemicals",
       "items": [
+        {
+          "title": "Nortilus week 48: product tanker spot rates rebound roughly 9–30%; one-year VLCC at $165,000/day",
+          "summary": "Nortilus' weekly update reports product tanker spot rates recovered by roughly 9–30% over the week and crude tanker rates by about 10%. One-year VLCC time-charter rates eased to $165,000/day. Listed product tanker shares rose 1.7% on the week but are down 15.8% month to date; crude tanker shares gained 4.7%.",
+          "source": "Nortilus",
+          "date": "2026-11-27",
+          "url": "https://nortilus.substack.com/p/weekly-market-update-week-48"
+        },
         {
           "title": "BIMCO: clean-product cargo volumes down 11% year to date; tanker indices 25–30% off October peaks",
           "summary": "BIMCO's November outlook puts year-to-date crude and dirty-product volumes 5% below last year and clean-product volumes 11% lower. Middle East tanker exports reached 75% of pre-war levels over the past four weeks, while Russian clean-product exports have averaged 58% below last year since the start of Q3 after Ukrainian refinery strikes. The Platts global dirty and clean tanker indices are 25–30% below their October highs; BIMCO sets out 'Hormuz open' and 'Hormuz closed' scenarios for 2027–28 without numeric forecasts.",
@@ -52,18 +59,18 @@
       "name": "Shipping, Ports & Security",
       "items": [
         {
-          "title": "Vortexa: Hormuz tanker transits above 26 a day in November despite more attacks",
-          "summary": "Vortexa data show ships carrying crude, fuels and LNG through Hormuz held above 26 a day on a seven-day average through Nov 19, versus below 25 on at least two-thirds of October days. VLCC and suezmax transits eased while smaller ships rose, with more product tankers switching to crude. Vortexa notes spoofing and dark transits mean counts may be revised.",
-          "source": "gCaptain (Bloomberg)",
-          "date": "2026-11-26",
-          "url": "https://gcaptain.com/hormuz-tanker-traffic-rises-this-month-even-as-attacks-increase/"
+          "title": "Kpler: Hormuz flows at 55% of pre-war level in week to Nov 25; Splash counts 17 tanker strikes this month",
+          "summary": "Kpler data cited by CNN/CTV put Strait of Hormuz flows at 55% of pre-war levels in the week to Nov 25, with around two dozen Iranian attacks on tankers in the strait during November. Splash247 separately tallies 17 tanker strikes in Hormuz so far this month (headline figure; article not reviewed).",
+          "source": "BNN Bloomberg (CNN/CTV) / Splash247",
+          "date": "2026-11-27",
+          "url": "https://bnnbloomberg.ca/markets/oil/2026/11/27/oil-prices-are-again-rising-heres-why"
         },
         {
-          "title": "UNCTAD: seaborne trade flat in 2026; IMO confirms 141 attacks in Hormuz region",
-          "summary": "UNCTAD's Review of Maritime Transport 2026 says global maritime trade stalled this year after 1.9% growth in 2025 to 12.3bn tonnes. The IMO has confirmed 141 attacks across Hormuz and the wider Middle East as of Nov 23, with 25 seafarer deaths; late-November Hormuz traffic averaged about 4–28 ships a day against 85–140 before the war. UKMTO logged about 22 incidents in November, 10 involving tankers.",
-          "source": "The National",
+          "title": "US forces disable Palau-flagged Pacific Archer in Gulf of Oman over blockade run",
+          "summary": "The US military said it disabled the M/V Pacific Archer in the Gulf of Oman on Nov 26 after the ship left Bandar Abbas and its crew tried to run the US blockade of Iran. Precision munitions struck the stern; CENTCOM said propulsion was disabled and the civilian crew was unharmed.",
+          "source": "Asharq Al-Awsat",
           "date": "2026-11-27",
-          "url": "https://thenationalnews.com/news/uae/2026/11/27/shipping-review-shows-further-pain-ahead-as-disruption-fuels-cost-of-living-crisis"
+          "url": "https://english.aawsat.com/world/5346378-iran-says-enemy-should-expect-action-air-and-sea"
         },
         {
           "title": "Jazan refinery strike kills one worker; coalition says it hit 50 Houthi targets",
@@ -80,11 +87,18 @@
           "url": "https://splash247.com/abu-dhabi-restricts-tanker-movements-amid-mounting-gulf-security-concerns/"
         },
         {
-          "title": "Japanese port congestion leaves container ships waiting at berth",
-          "summary": "Splash reports congestion at Japanese container terminals is keeping boxships stranded at berth.",
+          "title": "UNCTAD: seaborne trade flat in 2026; IMO confirms 141 attacks in Hormuz region",
+          "summary": "UNCTAD's Review of Maritime Transport 2026 says global maritime trade stalled this year after 1.9% growth in 2025 to 12.3bn tonnes. The IMO has confirmed 141 attacks across Hormuz and the wider Middle East as of Nov 23, with 25 seafarer deaths; late-November Hormuz traffic averaged about 4–28 ships a day against 85–140 before the war. UKMTO logged about 22 incidents in November, 10 involving tankers.",
+          "source": "The National",
+          "date": "2026-11-27",
+          "url": "https://thenationalnews.com/news/uae/2026/11/27/shipping-review-shows-further-pain-ahead-as-disruption-fuels-cost-of-living-crisis"
+        },
+        {
+          "title": "Containership sinks off Cuba; one seafarer dead, three missing",
+          "summary": "Splash247 reports a boxship sank off Cuba, leaving one crew member dead and three missing. Vessel details and cause were not available in the listing reviewed.",
           "source": "Splash247",
-          "date": "2026-11-26",
-          "url": "https://splash247.com/japanese-port-congestion-leaves-boxships-stranded-at-berth/"
+          "date": "2026-11-27",
+          "url": "https://splash247.com/one-dead-three-missing-as-boxship-sinks-off-cuba/"
         },
         {
           "title": "Lower Mississippi at New Orleans: Coast Guard safety zone remains through Dec 11",
@@ -99,32 +113,32 @@
       "name": "Markets",
       "items": [
         {
-          "title": "Latest close (Wed Nov 25): Dow 50,182.95 (+0.33%), S&P 500 7,182.78 (−0.25%), Nasdaq 23,585.80 (−0.62%)",
-          "summary": "US markets were closed Thursday for Thanksgiving, so Wednesday's session is the latest completed one; the Nasdaq 100 briefly entered bear-market territory before recovering late in the day. Through Wednesday the S&P 500 was up nearly 4% for the week after Monday's rally on Jensen Huang's return as Nvidia CEO. At 5:41 a.m. ET Friday, futures were Nasdaq-100 +2.38%, S&P 500 +1.74% and Dow +1.30%; Friday's session closes early.",
-          "source": "Yahoo Finance / TipRanks",
+          "title": "Close Fri Nov 27 (half day): S&P 500 7,297.49 (+1.60%), Dow 50,774.94 (+1.18%), Nasdaq 24,129.50 (+2.31%)",
+          "summary": "In the shortened Black Friday session the S&P 500 rose 114.71 points, the Dow 591.99 and the Nasdaq Composite 543.70, as chip and AI-related shares recovered from earlier November losses; the PHLX Semiconductor index gained 4.69% and all 11 S&P sectors rose. From the Nov 20 close the S&P 500 is up 5.60% on the week, though it remains down about 3.7% for November.",
+          "source": "JBizNews / Kiplinger",
           "date": "2026-11-27",
-          "url": "https://www.tipranks.com/news/stock-market-today-nov-27-markets-reopen-for-shortened-black-friday-trading"
+          "url": "https://jbiznews.com/u-s-stocks-close-sharply-higher-in-shortened-black-friday-session-and-post-big-weekly-gains-dow-jones-industrial-average-up-1-18-sp-500-up-1-60-nasdaq-composite-up-2-31/"
         },
         {
-          "title": "Oil: Brent $96.61 and WTI $85.78 early Friday, set for first weekly gain in four weeks",
-          "summary": "Brent was at $96.61 a barrel at 04:50 GMT Friday after gaining nearly $2 on Thursday to its highest since Nov 6; WTI, which did not settle Thursday because of the US holiday, was $85.78, up $2.10 (2.5%) from Wednesday. Attacks on Hormuz tankers and Saudi facilities and refinery fires in Thailand and Venezuela were cited. Sources say OPEC+ is likely to keep output targets unchanged at least through Q1 2027 at Sunday's meeting.",
-          "source": "UNN (Reuters)",
+          "title": "Oil: Brent $97.71 (+1.2%) and WTI $86.27 (+3.1% vs Wednesday) early Friday ahead of Sunday OPEC+ meeting",
+          "summary": "At 07:45 GMT on Nov 27, January Brent was $97.71, up $1.14, after Thursday's settle was its highest since Nov 6; WTI, which had no Thursday settlement, was $86.27, up $2.59 from Wednesday. Later Friday Brent was around $96 and WTI around $84.50 (CTV). Refinery disruptions in Saudi Arabia, Russia, Thailand and Venezuela were cited; sources expect OPEC+ to keep targets unchanged for at least Q1 2027. Friday settlement prices were not yet available.",
+          "source": "Yahoo Finance UK (ADVFN)",
           "date": "2026-11-27",
-          "url": "https://unn.ua/en/news/oil-breaks-a-three-week-price-decline-what-is-the-reason"
+          "url": "https://uk.finance.yahoo.com/news/brent-approaches-98-refinery-disruptions-101400106.html"
         },
         {
-          "title": "10-year Treasury yield rises to 4.92% in Asian trade; gold up 2.1%",
-          "summary": "The US 10-year yield rose about seven basis points to 4.92% in Asian trading Friday, with the prospect of Fed rate hikes cited as a factor. Spot gold gained 2.1% to $3,641.36 an ounce. The yen was little changed at 159.33 per dollar and the euro at $1.0978.",
-          "source": "Bloomberg via Swissinfo",
+          "title": "10-year Treasury yield up 8.8 bp at 4.936% Friday; Q3 GDP revised to 4.3%",
+          "summary": "The 10-year yield was at 4.936% on Friday, up 8.8 basis points, ahead of the bond market's 2 pm ET early close (Kiplinger). Yahoo Finance reported Q3 GDP growth revised up to 4.3% from 3.4%. CME FedWatch showed traders favouring a December rate increase, with next week's jobs report in focus.",
+          "source": "Kiplinger / Yahoo Finance",
           "date": "2026-11-27",
-          "url": "https://www.swissinfo.ch/eng/stocks-rise-with-nasdaq-futures,-treasuries-fall:-markets-wrap/92446051"
+          "url": "https://www.kiplinger.com/investing/stocks/dow-adds-592-points-on-black-friday-as-ai-fear-fades-stock-market-today"
         },
         {
-          "title": "Europe closed higher Thursday: Stoxx 600 +1.7%, DAX 25,215 (+2.1%), FTSE 100 10,609 (+1.8%)",
-          "summary": "European shares rose on Nov 26, led by chipmakers ASML (+3.2%), Infineon (+4.0%) and STMicro (+4.3%); the CAC 40 gained 1.6% to 8,109 and Volkswagen led the DAX with +4.6%. UK and German 10-year yields rose 2 bp each.",
-          "source": "Saxo",
+          "title": "Gold up 3.0% to $3,672.70; copper futures +3.3%; bitcoin −0.95%",
+          "summary": "Gold futures rose $108.10 (3.03%) to $3,672.70 an ounce on Nov 27 and front-month copper gained 3.3% after rising as much as 6.5% Thursday. Bitcoin was at $59,825.79, down 0.95%.",
+          "source": "Yahoo Finance / Kiplinger",
           "date": "2026-11-27",
-          "url": "https://www.home.saxo/en-sg/content/articles/macro/asia-market-quick-take--27-november-2026-27112026"
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-firday-november-27-dow-sp-500-nasdaq-black-friday-holiday-091152065.html"
         },
         {
           "title": "Asia Friday: Shanghai +3.73%, Hang Seng +2.11%, Nikkei +2.11% after Beijing support pledge",
@@ -134,11 +148,18 @@
           "url": "https://www.tipranks.com/news/stock-market-today-nov-27-markets-reopen-for-shortened-black-friday-trading"
         },
         {
-          "title": "Corporate: SAP plans at least 10,000 job cuts; Japan Tobacco and Altria eye Imperial Brands",
-          "summary": "Bloomberg reports SAP is preparing to eliminate at least 10,000 positions. Japan Tobacco rose more than 4% in Tokyo on reports it is exploring a takeover of Imperial Brands together with Altria.",
-          "source": "Bloomberg via Swissinfo",
+          "title": "Europe closed higher Thursday: Stoxx 600 +1.7%, DAX 25,215 (+2.1%), FTSE 100 10,609 (+1.8%)",
+          "summary": "European shares rose on Nov 26, led by chipmakers ASML (+3.2%), Infineon (+4.0%) and STMicro (+4.3%); the CAC 40 gained 1.6% to 8,109 and Volkswagen led the DAX with +4.6%. UK and German 10-year yields rose 2 bp each.",
+          "source": "Saxo",
           "date": "2026-11-27",
-          "url": "https://www.swissinfo.ch/eng/stocks-rise-with-nasdaq-futures,-treasuries-fall:-markets-wrap/92446051"
+          "url": "https://www.home.saxo/en-sg/content/articles/macro/asia-market-quick-take--27-november-2026-27112026"
+        },
+        {
+          "title": "Corporate: Tesla +5.2% amid reported SpaceX merger talks; SAP plans at least 10,000 job cuts",
+          "summary": "Tesla rose 5.2% to $400.00 on Nov 27 after the FT reported board committees of Tesla and SpaceX are discussing an all-stock combination, though the sides are said not to be close to agreement. Bloomberg reports SAP is preparing to cut at least 10,000 positions.",
+          "source": "Kiplinger (FT) / Bloomberg via Swissinfo",
+          "date": "2026-11-27",
+          "url": "https://www.kiplinger.com/investing/stocks/dow-adds-592-points-on-black-friday-as-ai-fear-fades-stock-market-today"
         }
       ]
     },
@@ -160,6 +181,13 @@
           "url": "https://gulfnews.com/world/mena/middle-east-tensions-trump-signals-victory-as-iran-offers-kuwait-drone-probe-1.500762639"
         },
         {
+          "title": "IRGC commander warns of action 'in the air and at sea'",
+          "summary": "Majid Mousavi, commander of the IRGC Aerospace Force, said on X on Nov 27 that Iran's enemies should expect action in the air and at sea. The statement followed the US disabling of a ship attempting to run the blockade in the Gulf of Oman.",
+          "source": "Asharq Al-Awsat",
+          "date": "2026-11-27",
+          "url": "https://english.aawsat.com/world/5346378-iran-says-enemy-should-expect-action-air-and-sea"
+        },
+        {
           "title": "Russian strikes kill 6 in Ukraine; power cut in six regions",
           "summary": "Russian attacks over the past day killed six people and injured 25, and substation strikes left parts of six oblasts temporarily without power, with Dnipropetrovsk and Kherson hardest hit. Ukraine's air force said Russia launched 155 drones overnight, 110 of which were downed or suppressed.",
           "source": "Kyiv Independent",
@@ -167,18 +195,25 @@
           "url": "https://kyivindependent.com/russian-attacks-kill-6-injure-25-across-ukraine-over-past-day-power-outages-across-6-oblasts/"
         },
         {
-          "title": "Zelenskyy confirms preparations for another prisoner exchange; 250 bodies repatriated",
-          "summary": "President Zelenskyy said work is under way on another prisoner exchange, without giving a date or numbers, and repeated his warning of a further large-scale Russian strike. Ukraine received 250 repatriated bodies on Nov 26.",
-          "source": "The Wire Tap (Ukrinform, Ukrainska Pravda)",
+          "title": "EU budget summit ends without agreement",
+          "summary": "An EU leaders' summit on the bloc's budget broke up without a deal on Nov 27, with leaders holding to their positions, Euronews reports. Spain holds a general election on Sunday, Nov 29.",
+          "source": "Euronews",
           "date": "2026-11-27",
-          "url": "https://thechrissampson.substack.com/p/ukraine-daily-november-27-2026-russian"
+          "url": "https://www.euronews.com/2026/11/27/europe-tonight-eu-budget-summit-collapses-as-spain-braces-for-vote-and-uk-unveils-deal"
         },
         {
-          "title": "Kenyan court rules US-backed Ebola quarantine facility unconstitutional",
-          "summary": "A Kenyan court ruled the government violated the constitution by approving a 50-bed US-backed quarantine facility at a military base in Laikipia without public participation. The facility had prompted deadly protests; the US had planned $13.5m for Kenya's Ebola preparedness.",
-          "source": "Morning Star",
-          "date": "2026-11-26",
-          "url": "https://morningstaronline.co.uk/article/world-brief-67"
+          "title": "German Bundestag approves record 2027 budget with €210bn of borrowing",
+          "summary": "Germany's parliament passed the 2027 federal budget on Nov 27, with new borrowing of €210bn, according to Euronews.",
+          "source": "Euronews",
+          "date": "2026-11-27",
+          "url": "https://www.euronews.com/2026/11/27/german-bundestag-approves-record-2027-budget-as-borrowing-hits-210bn"
+        },
+        {
+          "title": "Israel: Eisenkot says Likud is stalling coalition talks; Dec 6 deadline",
+          "summary": "Gadi Eisenkot, tasked with forming a government after October's inconclusive election, accused Netanyahu's Likud of stalling. His Yashar party has agreements with the Democrats and Yisrael Beiteinu totalling 36 seats, short of the 61 needed; his deadline is Dec 6, extendable by 14 days.",
+          "source": "Asharq Al-Awsat",
+          "date": "2026-11-27",
+          "url": "https://english.aawsat.com/world/5346379-eisenkot-accuses-netanyahus-party-stalling-israeli-coalition-talks"
         }
       ]
     },
@@ -186,10 +221,10 @@
       "name": "Sports",
       "items": [
         {
-          "title": "Broncos (8–2) at Steelers (6–4) today, 2:00 pm CT on Prime Video",
+          "title": "Broncos (8–2) at Steelers (6–4) today, Nov 27, 2:00 pm CT on Prime Video",
           "summary": "Denver goes for a seventh straight win at Pittsburgh, which is 4–0 at home. The team has ruled out S Taylor Rapp (quad) and DL Sai'vion Jones (hamstring), who did not travel; S Brandon Jones, WR Pat Bryant, S JL Skinner, RB Tyler Badie and TE Caleb Lohner practiced fully.",
           "source": "Denver Broncos / ESPN",
-          "date": "2026-11-26",
+          "date": "2026-11-27",
           "url": "https://www.denverbroncos.com/news/game-preview-broncos-steelers-set-for-week-12-black-friday-matchup"
         },
         {
@@ -200,15 +235,22 @@
           "url": "https://www.houstontexans.com/news/week-12-injury-report-texans-vs-ravens"
         },
         {
-          "title": "Davis Cup: Britain beats Germany 2–1 to reach first semifinal in seven years",
-          "summary": "Cameron Norrie beat Jan-Lennard Struff 6-3, 3-6, 6-2 and Henry Patten/Neal Skupski won the deciding doubles 6-2, 7-6(6) over Kevin Krawietz/Tim Puetz in Bologna on Nov 26. Britain faces the Austria–Spain winner in the semifinals.",
-          "source": "AP via Yahoo Sports",
-          "date": "2026-11-26",
-          "url": "https://sports.yahoo.com/tennis/articles/zverev-germany-davis-cup-loss-151313196.html"
+          "title": "Davis Cup semifinal: Musetti beats Mensik 6-3, 6-4; Italy leads Czechia 1–0",
+          "summary": "In Bologna on Nov 27, Lorenzo Musetti defeated Jakub Mensik 6-3, 6-4 in 1 hour 26 minutes, saving all six break points. Flavio Cobolli plays Jiri Lehecka next, with doubles if needed; the tie result was not yet available.",
+          "source": "Tennis Majors",
+          "date": "2026-11-27",
+          "url": "https://www.tennismajors.com/others-news/davis-cup-news/musetti-beats-mensik-to-give-italy-the-lead-against-czechia-in-davis-cup-semi-finals-867918.html"
         },
         {
-          "title": "Davis Cup: Italy plays Czechia in Friday's first semifinal",
-          "summary": "Three-time defending champion Italy beat South Korea 2–1 on Wednesday and Czechia beat Canada 2–0 on Tuesday. They meet in Bologna on Nov 27; the Finals run through Nov 29.",
+          "title": "Davis Cup: Spain beats Austria 2–0 without Alcaraz; meets Britain Saturday",
+          "summary": "Merida beat Schwaerzler 6-4, 6-4 and Jodar beat Rodionov 2-6, 6-0, 6-1 on Nov 26. Spain plays Great Britain in the second semifinal Saturday, Nov 28 at 12 pm CET (5 am CT); the final is Sunday, Nov 29 at 3 pm CET (8 am CT).",
+          "source": "Yahoo Sports",
+          "date": "2026-11-27",
+          "url": "https://sports.yahoo.com/tennis/articles/davis-cup-finals-2026-live-142039187.html"
+        },
+        {
+          "title": "Davis Cup: Britain beats Germany 2–1 to reach first semifinal in seven years",
+          "summary": "Cameron Norrie beat Jan-Lennard Struff 6-3, 3-6, 6-2 and Henry Patten/Neal Skupski won the deciding doubles 6-2, 7-6(6) over Kevin Krawietz/Tim Puetz in Bologna on Nov 26. Britain faces the Austria–Spain winner in the semifinals.",
           "source": "AP via Yahoo Sports",
           "date": "2026-11-26",
           "url": "https://sports.yahoo.com/tennis/articles/zverev-germany-davis-cup-loss-151313196.html"
